@@ -1,0 +1,8 @@
+# language_name:        македонски
+# closest ISO 639-3:    mkd
+# year_short:           2006
+# year_long:            Not available
+# title:                СВЕТО ПИСМО - ПРЕВОД НОВ СВЕТ<br>New World Translation of the Holy Bible in Macedonian
+# URL:                  http://www.jw.org/mk/izdanija/biblija/nwt/
+# copyright_short:      © Watch Tower Bible and Tract Society of Pennsylvania
+# copyright_long:       Not available

@@ -1,0 +1,83 @@
+01	Genesis,Gen,Gn,1. Mose,1.Mo,Kej
+02	Exodus,Exod,Ex,Exo,2. Mose,2.Mo,Kel
+03	Leviticus,Lev,Lv,3. Mose,3.Mo,Ima
+04	Numbers,Num,Nm,4. Mose,4.Mo,Nu,Bil
+05	Deuteronomy,Deut,Dt,Deu,5. Mose,5.Mo,Ula
+06	Joshua,Josh,Jo,Jos,Josua,Js,Yos
+07	Judges,Judg,Jgs,Jdg,Richter,Ri,Jg,Hak
+08	Ruth,Ru,Rut,Rt,Rut
+09	1Samuel,1 Samuel,1 Sam,1 Sm,1Sam,1Sm,1Sa,1. Samuel,1.Sam,1_samuel,S1,1Sa
+10	2Samuel,2 Samuel,2 Sam,2 Sm,2Sam,2Sm,2Sa,2. Samuel,2.Sam,2_samuel,S2,2Sa
+11	1 Kings,1 Kgs,1Kings,1Kgs,1Ki,1. Könige,1.Kön,1_kings,K1,1Ra
+12	2 Kings,2 Kgs,2Kings,2Kgs,2Ki,2. Könige,2.Kön,2_kings,K2,2Ra
+13	1Chronicles,1 Chronicles,1 Chron,1 Chr,1Chron,1Chr,1Ch,1. Chronika,1.Chr,1_chronicles,R1,1Ta
+14	2Chronicles,2 Chronicles,2 Chron,2 Chr,2Chron,2Chr,2Ch,2. Chronika,2.Chr,2_chronicles,R2,2Ta
+15	Ezra,Ezr,Esr,Esra,Er,Ezr
+16	Nehemiah,Neh,Nehemia,Nh,Neh
+17	Esther,Est,Esth,Et,Est
+18	Job,Jb,Hiob,Hi,Ayb
+19	Psalms,Ps,Pss,Psa,Psalmen,Mzm
+20	Proverbs,Prov,Prv,Pro,Sprüche,Spr,Pr,Ams
+21	Ecclesiastes,Eccles,Eccl,Ecc,Prediger,Pred,Ec,Pkh
+22	SongOfSolomon,Song of Solomon,Song of Songs,Song of Sol,Sg,Sng,Song,Lied der Lieder,Hld,SS,Kid
+23	Isaiah,Isa,Is,Jesaja,Jes,Is,Yes
+24	Jeremiah,Jer,Jeremia,Jr,Yer
+25	Lamentations,Lam,Klagelieder,Klgl,Lm,Rat
+26	Ezekiel,Ezek,Ez,Ezk,Hesekiel,Hes,Ek,Yeh
+27	Daniel,Dan,Dn,Dan
+28	Hosea,Hos,Hs,Hos
+29	Joel,Jl,Jol,Joe,Yoe
+30	Amos,Am,Amo
+31	Obadiah,Obadia,Obad,Ob,Oba,Obadja,
+32	Jonah,Jon,Jona,Jh,Yun
+33	Micah,Mic,Mi,Micha,Mich,Mc,Mik
+34	Nahum,Nah,Na,Nam,Nm
+35	Habakkuk,Hab,Hb,Hk
+36	Zephaniah,Zephania,Zeph,Zep,Zephanja,Zp,Zef
+37	Haggai,Hag,Hg,Hagg
+38	Zechariah,Zecharia,Zech,Zec,Sacharja,Sach,Zc,Zak
+39	Malachi,Mal,Maleachi,Ml
+40	Matthew,Matt,Mat,Mt,Matthäus,MT
+41	Mark,Mk,Mrk,Markus,MK
+42	Luke,Lk,Luk,Lukas,LK
+43	John,Jn,Jhn,Johannes,Joh,JN,Yoh
+44	Acts,Acts of the Apostles,Act,Apostelgeschichte,Apg,AC,Kis
+45	Romans,Rom,Römer,Röm,RM,Rom
+46	1 Corinthians,1Corinthians,1 Cor,1Cor,1Co,1 Co,1. Korinther,1.Kor,1_corinthians,C1,1Ko
+47	2 Corinthians,2Corinthians,2 Cor,2Cor,2Co,2 Co,2. Korinther,2.Kor,2_corinthians,C2,2Ko
+48	Galatians,Gal,Galater,GL
+49	Ephesians,Eph,Epheser,EP,Efe
+50	Philippians,Phil,Php,Philipper,PP,Flp
+51	Colossians,Col,Co,Kolosser,Kol,CL
+52	1 Thessalonians,1 Thess,1Thessalonians,1Thess,1 Thes,1Thes,1Th,1. Thessalonicher,1.Thes,1_thessalonians,H1,1Te
+53	2 Thessalonians,2 Thess,2Thessalonians,2Thess,2 Thes,2Thes,2Th,2. Thessalonicher,2.Thes,2_thessalonians,H2,2Te
+54	1 Timothy,1 Tim,1Timothy,1Tim,1Ti,1. Timotheus,1.Tim,1_timothy,T1,1Ti
+55	2 Timothy,2 Tim,2Timothy,2Tim,2Ti,2. Timotheus,2.Tim,2_timothy,T2,2Ti
+56	Titus,Ti,Tit,TT
+57	Philemon,Phm,Phlm,PM,Flm
+58	Hebrews,Heb,Hebräer,HB,Ibr
+59	James,Jas,Jam,Jakobus,Jak,JM,Yak
+60	1 Peter,1Peter,1 Pet,1Pet,1Pe,1. Petrus,1.Pet,1_peter,P1,1Pt
+61	2 Peter,2Peter,2 Pet,2Pet,2Pe,2. Petrus,2.Pet,2_peter,P2,2Pt
+62	1 John,1John,1 Jn,1Jn,1. Johannes,1.Joh,1_john,J1,1Yo
+63	2 John,2John,2 Jn,2Jn,2. Johannes,2.Joh,2_john,J2,2Yo
+64	3 John,3John,3 Jn,3Jn,3. Johannes,3.Joh,3_john,J3,3Yo
+65	Jude,Jd,Jud,Judas,JD,Yud
+66	Revelation,Apocalypse,Rev,Rv,Offenbarung,Off,RV,Why
+67	Tob,TB
+68	Jdt,JT
+69	AddEsth,EG,ESG
+70	Wis,WS
+71	Sir,SR
+72	Bar,BR
+73	EpJer,LJ,LJE
+74	PrAzar,PA,s3y
+75	Sus,SN
+76	Bel,BL
+77	1Macc,1Ma,M1
+78	2Macc,2Ma,M2
+79	3Macc,3Ma,M3
+80	4Macc,4Ma,M4
+81	1Esd
+82	2Esd
+83	PrMan

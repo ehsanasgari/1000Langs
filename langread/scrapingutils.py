@@ -43,7 +43,7 @@ def log_error(e):
     print(e)
 
 
-def getBible_trans_names():
+def getBibleTransNames():
     lang_names=dict()
     lang_bible_dict=dict()
     raw_html = parse_url('http://ebible.org/download.php')
@@ -87,7 +87,7 @@ def getNewtestamentBooks():
 
 def scrapeVerses(lang, book, chapter):
     verse_dict=dict()
-    webpage='http://ebible.org/'+lang+'/'+book+chapter+'.htm'
+    webpage='http://pngscriptures.org/amm/'+book+chapter+'.htm'
     raw_html = parse_url(webpage)
     html = BeautifulSoup(raw_html, 'html.parser')
     elements=html.find_all("div", class_="p")
@@ -106,5 +106,5 @@ def scrapeVerses(lang, book, chapter):
     return verse_dict
 
 
-print(scrapeVerses('pesOPV', 'MAT', '01'))
+print(scrapeVerses('pesOPV', '1TI', '01'))
 
