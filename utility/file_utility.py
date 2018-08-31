@@ -23,6 +23,8 @@ from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 from scipy import sparse
 import h5py
+import shutil
+
 
 class FileUtility(object):
     def __init__(self):
@@ -108,6 +110,10 @@ class FileUtility(object):
     def remove(file_path):
         os.remove(file_path)
 
+
+    @staticmethod
+    def remove_dir(file_path):
+        shutil.rmtree(file_path)
 
     @staticmethod
     def save_list(filename, list_names):
