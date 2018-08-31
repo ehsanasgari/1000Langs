@@ -6,7 +6,7 @@ from utility.file_utility import FileUtility
 import collections
 
 if __name__ == '__main__':
-    url_pattern = 'bible.is'
+    url_pattern = 'pngscriptures.org'
     language_dict = dict([tuple(l.split('\t')) for l in FileUtility.load_list('remained.txt')])
     extracted_dict = dict()
     remained_dict = dict()
