@@ -17,7 +17,7 @@ import tqdm
 
 
 class BibleIsCrawl(object):
-    SLEEPTIME = 0  # seconds
+    SLEEPTIME = 4  # seconds
     log=[]
 
     def __init__(self, triple, print=False):
@@ -42,13 +42,36 @@ class BibleIsCrawl(object):
         return None
 
     @staticmethod
-    def parallel_crawl(triples, num_p):
+    def parallel_crawl(triples, num_p, override=False):
+
+        if not override:
+            new_list=[]
+            for x,y,z in triples:
+                if not FileUtility.exists(y+z):
+                    new_list.append((x,y,z))
+            triples=new_list
+
         print ('Start parallel crawling..')
         pool = Pool(processes=num_p)
         res=[]
         for x in tqdm.tqdm(pool.imap_unordered(BibleIsCrawl, triples, chunksize=num_p),total=len(triples)):
             res.append(x)
         pool.close()
+        FileUtility.save_list(triples[0][1]+'log.txt',BibleIsCrawl.log)
+
+    @staticmethod
+    def sequential_crawl(triples, override=False):
+
+        if not override:
+            new_list=[]
+            for x,y,z in triples:
+                if not FileUtility.exists(y+z):
+                    new_list.append((x,y,z))
+            triples=new_list
+
+        print ('Start crawling..')
+        for x in tqdm.tqdm(triples):
+            BibleIsCrawl(x)
         FileUtility.save_list(triples[0][1]+'log.txt',BibleIsCrawl.log)
 
     def run_crawler(self, url, destination_directory):
@@ -218,4 +241,4 @@ class BibleIsCrawl(object):
 if __name__ == '__main__':
 
     triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/bibleis/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/handled_bible.is.txt')]
-    BibleIsCrawl.parallel_crawl(triple,10)
+    BibleIsCrawl.sequential_crawl(triple)

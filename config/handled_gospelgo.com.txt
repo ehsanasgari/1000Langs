@@ -1,0 +1,14 @@
+ayo-x-bible.txt	http://gospelgo.com/s/ayoreo_nt.htm
+bgz-x-bible.txt	http://gospelgo.com/p/banggai_nt.htm
+bhp-x-bible.txt	http://gospelgo.com/q/Bima%20Bible%20-%20New%20Testament.pdf
+crn-x-bible-nayar.txt	http://gospelgo.com/n/cora/bible_elnayar.pdf
+crt-x-bible.txt	http://gospelgo.com/s/chorote_joh.htm
+gso-x-bible.txt	http://gospelgo.com/f/gbaya_sw_nt
+guk-x-bible.txt	http://gospelgo.com/z/GUK/NT.htm
+guz-x-bible.txt	http://gospelgo.com/g/Ekegusii%20Bible%20-%20Genesis%201.pdf
+mnx-x-bible.txt	http://gospelgo.com/q/Sougb%20Bible%20-%20New%20Testament.pdf
+snd-x-bible.txt	http://gospelgo.com/a/sindhi_nt.htm
+sxn-x-bible-sangir.txt	http://gospelgo.com/p/siau_nt.htm
+szb-x-bible.txt	http://gospelgo.com/p/ngalum_nt.htm
+tir-x-bible.txt	http://gospelgo.com/f/tigrinya_nt.htm
+uig-x-bible-romanized.txt	http://gospelgo.com/a/uyghur_r/mat.htm

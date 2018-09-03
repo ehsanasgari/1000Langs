@@ -1,231 +1,35 @@
-aaz-x-bible.txt	https://www.bible.com/de/versions/1320
-abx-x-bible.txt	http://bible.cloud/bible/content/texts/ABXWBT/index.html
-aca-x-bible.txt	https://www.bible.com/de/versions/1418
-acf-x-bible.txt	http://www.scriptureearth.org/data/acf https://bibles.org/versions/acf-ACFNT/
-ach-x-bible.txt	https://www.bible.com/de/versions/559 http://www.biblesociety-uganda.org/
-acr-x-bible-cubulcu.txt	http://www.scriptureearth.org/data/acc
-adi-x-bible.txt	https://www.bible.com/de/versions/1530 http://www.bsind.org/
-adl-x-bible.txt	https://www.bible.com/de/versions/1534 http://www.bsind.org/
-ady-x-bible.txt	http://ibtrussia.org/en/text?m=ADG
-adz-x-bible.txt	https://www.bible.com/de/versions/1229 http://www.wycliffe.org
-aeb-x-bible.txt	https://www.bible.com/de/versions/1304
-aeu-x-bible.txt	https://www.bible.com/de/versions/1504 http://www.wycliffe.org
 afr-x-bible-1953.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 afr-x-bible-1983.txt	https://bibles.biblesociety.co.za/de/bible/6/mrk.1.1-8.afr83
-afr-x-bible-boodskap.txt	https://www.bible.com/de/bible/50/mrk.1.db
-afr-x-bible-lewende.txt	https://www.bible.com/de/bible/117/mrk.1.nlv
-afr-x-bible-newworld.txt	http://www.jw.org/af/publikasies/bybel/nwt/
 afr-x-bible-viralmal.txt	https://bibles.biblesociety.co.za/de/bible/2/mrk.1.aba
-agr-x-bible.txt	http://www.scriptureearth.org/data/agr
-agt-x-bible.txt	http://bible.cloud/bible/content/texts/AGTWBT/index.html
-agu-x-bible.txt	http://www.scriptureearth.org/data/agu
-agw-x-bible.txt	http://bibles.org/agw-KCB/Gen/int
-agx-x-bible.txt	http://ibtrussia.org/en/text?m=AGL
-aia-x-bible.txt	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=aia
-aii-x-bible.txt	http://bible.cloud/bible/content/texts/AIIABT/index.html
-aim-x-bible.txt	https://www.bible.com/de/versions/1533 http://www.bsind.org/
-aji-x-bible.txt	https://www.bible.com/de/versions/924 http://www.bible.org.fj/
-ajz-x-bible.txt	https://www.bible.com/de/versions/1535 http://www.bsind.org/
-ake-x-bible.txt	http://www.scriptureearth.org/data/ake
-ald-x-bible.txt	https://www.bible.com/de/versions/1487 http://www.biblesociety-cotedivoire.org/
-aln-x-bible-newworld.txt	http://www.jw.org/sq/botime/bibla/nwt/
-alp-x-bible.txt	https://www.bible.com/de/bible/323/mrk.1.alpnt
-alq-x-bible.txt	https://www.bible.com/de/bible/487/jhn.1.algnt
-alt-x-bible.txt	http://ibtrussia.org/en/text?m=ALT
-aly-x-bible.txt	http://aboriginalbibles.org.au/Alyawarr/
-ame-x-bible.txt	http://www.scriptureearth.org/data/ame
-amf-x-bible.txt	http://bible.cloud/bible/content/texts/AMFSIM/index.html
 amh-x-bible-latin.txt	https://bible.org/foreign/amharic/
-amh-x-bible-newworld.txt	http://www.jw.org/am/የሕትመት-ውጤቶች/መጽሐፍ-ቅዱስ/bi12/መጻሕፍት/
 amh-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-amk-x-bible.txt	http://bible.cloud/bible/content/texts/AMKWBT/index.html
-amn-x-bible-naineri.txt	http://bible.cloud/bible/content/texts/AMNNAI/index.html
-amr-x-bible.txt	http://www.scriptureearth.org/data/amr
-amu-x-bible.txt	http://www.scriptureearth.org/data/amu
-amx-x-bible.txt	http://aboriginalbibles.org.au/Anmatyerr/
-anv-x-bible.txt	http://bibles.org/anv-ANVNT/Matt/1
-aoi-x-bible.txt	http://aboriginalbibles.org.au/Anindilyakwa/
-apb-x-bible.txt	https://www.bible.com/de/versions/1666 http://www.wycliffe.org
-apn-x-bible.txt	http://www.scriptureearth.org/data/apn
-apt-x-bible.txt	https://www.bible.com/de/versions/1529 http://www.bsind.org/
-apu-x-bible.txt	http://www.scriptureearth.org/data/apu
-apw-x-bible.txt	http://www.scriptureearth.org/data/apw https://www.bible.com/versions/573
-apy-x-bible.txt	http://www.scriptureearth.org/data/apy
-arb-x-bible-newworld.txt	http://www.jw.org/ar/اصدارات/الكتاب-المقدس/nwt/اسفار-الكتاب-المقدس/
 arb-x-bible.txt	http://st-takla.org/books/anba-bishoy/isaiah/baptism.html
-are-x-bible.txt	http://aboriginalbibles.org.au/Western%20Arrarnta/
-arl-x-bible.txt	http://www.scriptureearth.org/data/arl
-arn-x-bible.txt	http://www.scriptureearth.org/data/arn
-arp-x-bible.txt	http://bible.cloud/bible/content/texts/ARPABS/index.html
-ary-x-bible.txt	https://www.bible.com/de/versions/558 http://www.asdika.org
-asg-x-bible.txt	https://www.bible.com/de/versions/1293 http://www.wycliffe.org
-atb-x-bible.txt	http://bible.cloud/bible/content/texts/ATBWBT/index.html
-atd-x-bible.txt	http://bible.cloud/bible/content/texts/ATDWBT/index.html
-atg-x-bible.txt	https://www.bible.com/de/bible/350/jhn.1.atgnt
-att-x-bible.txt	http://bible.cloud/bible/content/texts/ATTWBT/index.html
-auc-x-bible.txt	http://www.scriptureearth.org/data/auc/
-ayo-x-bible.txt	http://gospelgo.com/s/ayoreo_nt.htm
-aze-x-bible-latin.txt	http://bible.cloud/bible/content/texts/AZBBSA/index.html
-aze-x-bible-newworld.txt	http://download.jw.org/files/media_bible/80/nwt_AJ.epub
-azg-x-bible.txt	http://www.scriptureearth.org/data/azg
-azz-x-bible.txt	http://www.scriptureearth.org/data/azz
-bak-x-bible.txt	http://ibtrussia.org/en/text?m=ALT
-bao-x-bible.txt	http://www.scriptureearth.org/data/boa
 bar-x-bible.txt	http://bibeltext.com/bairisch/genesis/1.htm
-bbc-x-bible.txt	http://bibles.org/bbc-BBC/Gen/Bind
-bbj-x-bible.txt	https://www.bible.com/de/versions/907 http://www.biblesociety-cameroon.org/
-bcc-x-bible-latin.txt	https://www.bible.com/de/versions/1500 http://www.wycliffe.org
-bcc-x-bible.txt	https://www.bible.com/de/versions/1498 http://www.wycliffe.org
-bch-x-bible.txt	http://bible.cloud/bible/content/texts/BCHPNG/index.html
-bci-x-bible.txt	https://www.bible.com/de/versions/1643 http://www.biblesociety-cotedivoire.org/
-bco-x-bible.txt	http://bible.cloud/bible/content/texts/BCOWBT/index.html
-bdd-x-bible.txt	http://www.scriptureearth.org/data/bdd
-bdh-x-bible.txt	https://www.bible.com/de/versions/1563 http://www.wycliffe.org
-bea-x-bible.txt	http://bible.cloud/bible/content/texts/BEABFB/index.html
-bel-x-bible-bokun.txt	https://www.bible.com/de/versions/1573 http://www.belreform.org
-bel-x-bible-semukha.txt	https://www.bible.com/de/versions/1723 http://www.belreform.org
-bem-x-bible-newworld.txt	http://www.jw.org/bem/impapulo/baibolo/nwt/
-ben-x-bible-holybible.txt	https://www.bible.com/de/bible/155/3jn.1.sbcl
-ben-x-bible-old.txt	https://www.bible.com/de/bible/95/jhn.1.mbcl
-beq-x-bible.txt	https://www.bible.com/de/versions/812 http://alliancebiblique-congo.org/
-bgs-x-bible.txt	http://bible.cloud/bible/content/texts/BGSWBT/index.html
-bgz-x-bible.txt	http://gospelgo.com/p/banggai_nt.htm
-bhp-x-bible.txt	http://gospelgo.com/q/Bima%20Bible%20-%20New%20Testament.pdf
-biu-x-bible.txt	https://www.bible.com/de/versions/1532 http://www.bsind.org/
-bkd-x-bible.txt	http://bible.cloud/bible/content/texts/BKDWBT/index.html
-bkq-x-bible.txt	https://www.bible.com/de/bible/408/mat.1.bkqnt
-blw-x-bible.txt	http://bible.cloud/bible/content/texts/BLWWBT/index.html
-bmb-x-bible.txt	http://bibles.org/bmb-NTB/Matt/1
-bmr-x-bible.txt	http://bibles.org/bmr-BMRNT/Matt/1
-boa-x-bible.txt	http://www.scriptureearth.org/data/boa
-bod-x-bible.txt	https://www.bible.com/de/versions/1712
-bom-x-bible.txt	https://www.bible.com/de/versions/1591 http://www.pabten.org/nigeria-bible-translation-trust
-box-x-bible.txt	https://www.bible.com/de/bible/381/mat.1.boxnt
-bqj-x-bible.txt	https://www.bible.com/de/versions/1300 http://www.wycliffe.org
 bre-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-bsc-x-bible.txt	https://www.bible.com/de/versions/1556 http://www.wycliffe.org
-bsn-x-bible.txt	http://www.scriptureearth.org/data/bsn
-bsp-x-bible.txt	https://www.bible.com/de/versions/1557 http://www.pioneerbible.org
-bth-x-bible.txt	https://www.bible.com/de/bible/18/gen.1.tbv
 bto-x-bible.txt	http://dongants.wordpress.com/tag/batak/page/195/
-btx-x-bible.txt	http://alkitab.mobi/karo/
 bug-x-bible.txt	http://dongants.wordpress.com/2009/10/10/markus-1-6/
-bul-x-bible-modern.txt	https://www.bible.com/de/bible/196/mat.1.spb
-bul-x-bible-newworld.txt	http://www.jw.org/bg/издания/библия/nwt/книги/
 bul-x-bible-veren.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/BUL/Verens%20Contemporary%20Bible/
-bum-x-bible.txt	http://bibles.org/bum-BULDCB/Gen/int
-bvr-x-bible.txt	http://aboriginalbibles.org.au/Burrara/Conc/42%20LUK%20-%20ABurrara-3.htm https://www.bible.com/bible/1291/mat.1
-bwd-x-bible.txt	https://www.bible.com/de/versions/1700 http://www.wycliffe.org
-byr-x-bible-wagama.txt	http://bible.cloud/bible/content/texts/BYRWAG/index.html
-bzd-x-bible.txt	http://www.scriptureearth.org/data/bzd
-bzi-x-bible.txt	https://www.bible.com/de/versions/1705 http://www.wycliffe.org
-bzj-x-bible.txt	https://www.bible.com/de/bible/409/mat.1.bzjnt
-cab-x-bible.txt	http://www.scriptureearth.org/data/cab
-cac-x-bible-ixtatan.txt	http://www.scriptureearth.org/data/cnm
-caf-x-bible.txt	http://www.scriptureearth.org/data/caf
-cag-x-bible.txt	https://www.bible.com/de/versions/1486
-cak-x-bible-central1980.txt	http://www.scriptureearth.org/data/cak
-cak-x-bible-chimaltenango.txt	http://bible.cloud/bible/content/texts/CAKSOU/index.html
-cak-x-bible-eastern.txt	http://bibles.org/versions_api/cak-CAKENT
-cak-x-bible-southern.txt	http://bibles.org/versions_api/cak-CAKSSNT
-cak-x-bible-western.txt	http://www.scriptureearth.org/data/ckw
-cao-x-bible.txt	http://www.scriptureearth.org/data/cao
-cap-x-bible-1978.txt	http://www.scriptureearth.org/data/cap http://bibles.org/versions_api/cap-CAPNT
-caq-x-bible.txt	https://www.bible.com/de/versions/1060 http://www.bsind.org/
-car-x-bible.txt	http://www.scriptureearth.org/data/car
 cat-x-bible-evangelica.txt	http://www.ibec.cat/BIBLIA/
-cat-x-bible-inter.txt	https://www.bible.com/de/bible/335/mat.1.bci
-cav-x-bible.txt	http://www.scriptureearth.org/data/cav
-cax-x-bible-1980.txt	http://www.scriptureearth.org/data/cax
-cbc-x-bible.txt	http://www.scriptureearth.org/data/cbc
-cbi-x-bible.txt	http://www.scriptureearth.org/data/cbi
-cbk-x-bible.txt	http://bible.cloud/bible/content/texts/CBKWBT/index.html
-cbr-x-bible.txt	http://www.scriptureearth.org/data/cbr
-cbs-x-bible.txt	http://www.scriptureearth.org/data/cbsd
-cbt-x-bible.txt	http://www.scriptureearth.org/data/cbt
-cbu-x-bible.txt	http://www.scriptureearth.org/data/cbu
-cbv-x-bible.txt	http://www.scriptureearth.org/data/cbv
-cco-x-bible.txt	http://www.scriptureearth.org/data/cco
 ceb-x-bible-bugna2009.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/CEB/Cebuano%20Ang%20Biblia%20%28Bugna%20Version%29/
-ceb-x-bible-godsword.txt	https://www.bible.com/de/bible/9/gen.1.apsd-ceb
-ceb-x-bible-newworld.txt	http://www.jw.org/ceb/mga-publikasyon/bibliya/nwt/
 ceb-x-bible-pinadayag.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/CEB/Cebuano%20Ang%20Biblia%20%28Pinadayag%20Version%29/
-ceg-x-bible.txt	http://www.scriptureearth.org/data/ceg
 ces-x-bible-bible21.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/CZE/Czech%20Preklad%2021/
 ces-x-bible-ekumenicky.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 ces-x-bible-kralicka.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-ces-x-bible-living.txt	https://www.bible.com/de/bible/162/mat.1.snc
-ces-x-bible-newworld.txt	http://www.jw.org/cs/publikace/bible-online/nwt/
 ces-x-bible-novakarlica.txt	"http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain http://www.bible.sk/cz/bible21/marek/1/4"
 ces-x-bible-preklad.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-cfm-x-bible.txt	http://www.myanmarbible.com/bible/Falam/html/index.html
 cha-x-bible-1908.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 cha-x-bible-2010.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/CHA/
-chd-x-bible.txt	http://www.scriptureearth.org/data/chd
-chf-x-bible.txt	http://www.scriptureearth.org/data/chf
-chk-x-bible.txt	http://bible.cloud/bible/content/texts/CHKBSM/index.html
-chq-x-bible.txt	http://www.scriptureearth.org/data/chq
 chu-x-bible.txt	bibleonline.ru/bible/csl/41/01/
-chv-x-bible.txt	http://ibtrussia.org/en/text?m=CHV
-chz-x-bible.txt	http://www.scriptureearth.org/data/chz
-cjo-x-bible.txt	http://www.scriptureearth.org/data/cjo
-cjs-x-bible.txt	http://ibtrussia.org/en/text?m=SHR
-ckb-x-bible.txt	https://www.bible.com/de/versions/503 http://www.Biblica.com
-ckt-x-bible.txt	http://ibtrussia.org/en/text?m=CHK
-clu-x-bible.txt	http://bible.cloud/bible/content/texts/CLUWBT/index.html
-cmo-x-bible.txt	https://www.bible.com/de/versions/1657 http://www.wycliffe.org
-cnh-x-bible.txt	http://www.myanmarbible.com/bible/Hakha/html/index.html
-cnl-x-bible.txt	http://www.scriptureearth.org/data/cnl
-cnt-x-bible.txt	http://www.scriptureearth.org/data/cnt
-cnw-x-bible.txt	http://www.myanmarbible.com/bible/Ngawn/html/NT/Matthew/Matthew001.html
-coe-x-bible.txt	http://www.scriptureearth.org/data/coe
-cof-x-bible.txt	http://www.scriptureearth.org/data/cof
 cop-x-bible-bohairic.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 cop-x-bible-bohairicdiacritics.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 cop-x-bible-sahidic.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-cor-x-bible.txt	https://www.bible.com/de/versions/1079 http://www.biblesociety.org.uk/
-cot-x-bible.txt	http://www.scriptureearth.org/data/cot
-cpb-x-bible.txt	http://www.scriptureearth.org/data/cpb/
-cpc-x-bible.txt	https://www.bible.com/de/bible/579/mat.1.cpcnt
-cpu-x-bible.txt	http://www.scriptureearth.org/data/cpu
-cpy-x-bible.txt	https://www.bible.com/de/versions/1350 http://www.wycliffe.org
-crh-x-bible.txt	http://ibtrussia.org/en/text?m=CRT
-crm-x-bible.txt	https://www.bible.com/de/bible/483/mat.1.mcnt
-crn-x-bible-nayar.txt	http://gospelgo.com/n/cora/bible_elnayar.pdf
-crn-x-bible-presidio.txt	https://www.bible.com/de/bible/754/mat.1.crnnt http://gospelgo.com/n/cora/bible_presidio.pdf
-crq-x-bible.txt	https://www.bible.com/de/bible/371/mat.intro1.chrnt
-crs-x-bible.txt	https://www.bible.com/versions/1054
-crt-x-bible.txt	http://gospelgo.com/s/chorote_joh.htm
-crx-x-bible.txt	http://www.scriptureearth.org/data/crx
-csy-x-bible.txt	http://www.myanmarbible.com/bible/Sizang/html/index.html
-cta-x-bible.txt	http://www.scriptureearth.org/data/cta
-ctd-x-bible.txt	https://www.bible.com/de/bible/368/gen.1.tdb
-ctp-x-bible.txt	http://www.scriptureearth.org/data/ctp
-ctu-x-bible-tili.txt	http://www.scriptureearth.org/data/cti
-ctu-x-bible-tumbala.txt	http://www.scriptureearth.org/data/ctu
-cub-x-bible.txt	http://www.scriptureearth.org/data/cub
-cui-x-bible.txt	http://www.scriptureearth.org/data/cui
-cul-x-bible.txt	https://www.bible.com/de/versions/1446 http://www.wycliffe.org
-cut-x-bible.txt	http://www.scriptureearth.org/data/cut
-cux-x-bible.txt	http://www.scriptureearth.org/data/cux
-cwe-x-bible.txt	http://bible.cloud/bible/content/texts/CWEPBT/index.html
-cym-x-bible-colloquial2013.txt	https://www.bible.com/de/bible/329/gen.1.bnet
-cym-x-bible-morgan1804.txt	https://www.bible.com/de/bible/287/gen.1.bwm
-cym-x-bible-revised2004.txt	https://www.bible.com/de/bible/394/gen.1.bcn
-czt-x-bible.txt	http://www.myanmarbible.com/bible/bible.php?version=Zotung&testament=NT&book=Mark&chapter=1
-dad-x-bible.txt	https://www.bible.com/de/bible/349/mat.1.dadnt
 dak-x-bible.txt	http://www.bushfarms.com/dakotawowapiwakan.htm
 dan-x-bible-1931.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-dan-x-bible-hverdagsdansk.txt	https://www.bible.com/de/bible/20/gen.1.bph
-dan-x-bible-newworld.txt	http://www.jw.org/da/publikationer/bibelen/nwt/
-dar-x-bible.txt	http://ibtrussia.org/en/text?m=DRG
-deu-x-bible-albrecht.txt	https://www.bible.com/de/bible/65/mat.1.gantp
 deu-x-bible-bolsinger.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 deu-x-bible-elberfelder1871.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 deu-x-bible-elberfelder1905.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 deu-x-bible-erben.txt	http://bitflow.dyndns.org/german/Bible/Das_Neue_Testament_Johann_Albrecht_Bengel_Uebersetzung.txt
 deu-x-bible-freebible.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/FreeBible2004/
-deu-x-bible-genfer2011.txt	https://www.bible.com/de/bible/108/psa.1.ngu2011
 deu-x-bible-greber.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Johannes%20Greber%201936%20NT/
 deu-x-bible-gruenewalder.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Gruenewalder/
 deu-x-bible-interlinear.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Interlinearuebersetzung/
@@ -236,69 +40,31 @@ deu-x-bible-luther1912.txt	http://unbound.biola.edu/index.cfm?method=downloads.s
 deu-x-bible-meister.txt	http://www.obohu.cz/bible/index.php?&lang=fr&styl=MEI&k=Mk&kap=1
 deu-x-bible-menge.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Menge-Bibel/
 deu-x-bible-neue.txt	http://bibel-online.net/buch/neue_evangelistische/markus/1/ http://findabible.net
-deu-x-bible-newworld.txt	http://www.jw.org/de/publikationen/bibel/nwt/
 deu-x-bible-pattloch.txt	http://bitflow.dyndns.org/german/Bible/Die_Bibel_Pattloch_Uebersetzung_1980.txt https://www.die-bibel.de/bibelwissen/bibeluebersetzung/deutsche-uebersetzungen/uebersicht/pattloch/
 deu-x-bible-reinhardt1910.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Reinhardt%201910%20Evangelien/
 deu-x-bible-schlachter.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-deu-x-bible-schlachter2000.txt	https://www.bible.com/de/bible/157/gen.1.sch2000
 deu-x-bible-tafelbibel.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Tafelbibel/
 deu-x-bible-textbibel.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Textbibel/
 deu-x-bible-volxbibel.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GER/Volxbibel%203.0/
 deu-x-bible-zuercher.txt	http://bitflow.dyndns.org/german/Bible/Die_Bibel_Zuercher_Uebersetzung_1931.txt
-dgc-x-bible.txt	http://bible.cloud/bible/content/texts/DGCWBT/index.html
-dgr-x-bible.txt	https://www.bible.com/de/bible/800/jhn.1
-dhg-x-bible.txt	https://www.bible.com/de/versions/1374 http://www.wycliffe.org
-dhm-x-bible.txt	http://bibles.org/dhm-DBNT/Matt/1
-dis-x-bible.txt	https://www.bible.com/de/versions/1010 http://www.bsind.org/
 dje-x-bible.txt	http://visionneuse.free.fr/DJE/
-djk-x-bible.txt	http://www.scriptureearth.org/data/djk
-djr-x-bible.txt	http://bibles.org/versions/djr-DJNT/ http://bible.com/versions/244
-dng-x-bible.txt	http://ibtrussia.org/en/text?m=DNG
-dow-x-bible.txt	http://bibles.org/dow-NTD/Matt/1
-dtp-x-bible.txt	https://www.bible.com/de/bible/172/gen.1.bdk
-due-x-bible.txt	https://www.bible.com/de/versions/1339 http://www.wycliffe.org
-duo-x-bible.txt	https://www.bible.com/de/versions/1312 http://www.wycliffe.org
-ebk-x-bible.txt	http://bible.cloud/bible/content/texts/EBKWBT/index.html
-efi-x-bible-newworld.txt	http://www.jw.org/efi/se-ẹdọn̄de/bible/nwt/mme-n̄wed/
-eko-x-bible.txt	http://bible.cloud/bible/content/texts/EKOWBT/index.html
-ell-x-bible-hellenic1.txt	https://www.bible.com/de/bible/423/mat.1.ntv
-ell-x-bible-hellenic2.txt	https://www.bible.com/de/bible/173/gen.1.tgv
 ell-x-bible-karalis.txt	https://www.academia.edu/11579792/New_Testament_in_Modern_Greek._Metaglottisis http://kainidiathiki.agiooros.org/index.php?id=1&bt=Κατα+Ματθαιον&ch=1&ancnew=AM
 ell-x-bible-karalis2.txt	https://www.academia.edu/11579792/New_Testament_in_Modern_Greek._Metaglottisis http://kainidiathiki.agiooros.org/index.php?id=1&bt=Κατα+Ματθαιον&ch=1&ancnew=AM
-ell-x-bible-koine1894.txt	https://www.bible.com/de/bible/183/mat.1.tr1894
 ell-x-bible-modern2009.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GRC/Modern%20Greek/
-ell-x-bible-newworld.txt	http://www.jw.org/el/εκδόσεις/αγία-γραφή-online/bi12/βιβλία/
 ell-x-bible-unidentified.txt	http://xristianikominima.blogspot.de/2015/01/27-1.html
-eng-x-bible-amplified.txt	https://www.bible.com/bible/8/gen.1.amp
-eng-x-bible-basic.txt	http://www.o-bible.com/bbe.html
-eng-x-bible-books.txt	https://www.bible.com/bible/31/lka.1.books
 eng-x-bible-catholic.txt	http://www.sacredbible.org/catholic/version.htm
 eng-x-bible-clontz.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/The%20Common%20Edition%20New%20Testament/
-eng-x-bible-common.txt	https://www.bible.com/bible/37/gen.1.ceb
-eng-x-bible-contemporary.txt	https://www.bible.com/bible/303/gen.1.cevdcus06
 eng-x-bible-darby.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 eng-x-bible-diaglot.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/Diaglot%20NT%20-%201865/
-eng-x-bible-easytoread.txt	https://www.bible.com/bible/406/gen.1.erv
 eng-x-bible-etheridge.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/Etheridge/
-eng-x-bible-godsword.txt	https://www.bible.com/bible/70/gen.1.gw
-eng-x-bible-goodnews.txt	https://www.bible.com/bible/69/gen.1.gntd
 eng-x-bible-kingjames.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 eng-x-bible-lexham.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/The%20Lexham%20English%20Bible/
 eng-x-bible-literal.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/Greens%20Literal%20Translation/
 eng-x-bible-majority.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/English%20Majority%20Text%20Version/
 eng-x-bible-montgomery.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/Montgomery%20New%20Testament/
-eng-x-bible-new2007.txt	https://www.bible.com/bible/107/gen.1.net
-eng-x-bible-newcentury.txt	https://www.bible.com/bible/105/gen.1.ncv
-eng-x-bible-newinternational.txt	https://www.bible.com/bible/113/gen.1.nivuk
-eng-x-bible-newliving.txt	https://www.bible.com/bible/116/gen.1.nlt
-eng-x-bible-newreaders.txt	https://www.bible.com/bible/110/gen.1.nirv
 eng-x-bible-newsimplified.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/New%20Simplified%20Bible/
-eng-x-bible-newworld1984.txt	http://www.jw.org/en/publications/bible/bi12/
-eng-x-bible-newworld2013.txt	http://www.jw.org/en/publications/bible/nwt/
 eng-x-bible-riverside.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/The%20Riverside%20New%20Testament/
-eng-x-bible-scriptures.txt	https://www.bible.com/bible/316/gen.1.isr98
 eng-x-bible-standard.txt	http://www.esvbible.org/
-eng-x-bible-treeoflife.txt	https://www.bible.com/bible/314/mat.1.tlv
 eng-x-bible-world.txt	http://biblehub.com/web/matthew/1.htm
 eng-x-bible-worldwide.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/Bible%20in%20Worldwide%20English%20NT/
 enm-x-bible-bishop.txt	http://www.lcoggt.org/Bishops%20Bible/bishops_bible.htm
@@ -306,37 +72,14 @@ enm-x-bible-coverdale.txt	http://www.studylight.org/desk/?l=en&query=Genesis+1&t
 enm-x-bible-geneva.txt	http://www.studylight.org/bible/gen/matthew/
 enm-x-bible-tyndale.txt	https://en.wikisource.org/wiki/Bible_%28Tyndale%29
 enm-x-bible-wycliffe.txt	https://en.wikisource.org/wiki/Bible_%28Wycliffe%29
-enx-x-bible.txt	https://www.bible.com/de/versions/1480
 epo-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-eri-x-bible.txt	https://www.bible.com/de/versions/1671 http://www.wycliffe.org
-ese-x-bible.txt	http://www.scriptureearth.org/data/ese
-esi-x-bible.txt	http://www.scriptureearth.org/data/esi
-esk-x-bible.txt	http://www.scriptureearth.org/data/esk
-est-x-bible-1968.txt	https://www.bible.com/de/bible/309/gen.1.eep http://studybible.info/Estonian/Genesis
 est-x-bible-1997.txt	http://etabetapi.com/read/est/Gen/1
-est-x-bible-newworld2009.txt	http://www.jw.org/et/valjaanded/piibel/bi12/
-esu-x-bible.txt	https://www.bible.com/de/versions/1390 http://www.americanbible.org/
-etu-x-bible.txt	https://www.bible.com/de/versions/889 http://www.biblesociety-cameroon.org/
 eus-x-bible-Hautin1571.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/BAQ/Basque%28Navarro-Labourdin%29NT/
-eus-x-bible-batua.txt	https://www.bible.com/de/bible/56/gen.1.eab
 eus-x-bible-navarrolabourdin.txt	http://ge.tt/3N6iJeH/v/71
-eve-x-bible.txt	https://www.bible.com/de/versions/1507 http://ibt.org.ru/
-ewe-x-bible-newworld.txt	http://www.jw.org/ee/agbalẽwo/biblia/bi12/agbalẽwo/
-eza-x-bible.txt	https://www.bible.com/de/versions/1600 http://www.wycliffe.org
-fad-x-bible.txt	https://www.bible.com/de/versions/1565 http://www.wycliffe.org
-fao-x-bible.txt	http://biblia.fo/bible.php https://www.bible.com/de/bible/374/gen.1.fb
-ffm-x-bible.txt	http://bible.cloud/bible/content/texts/FFMWBT/index.html
-fij-x-bible-1974.txt	https://www.bible.com/de/bible/508/gen.1.fov
 fij-x-bible-bau.txt	http://nftbible.org/
-fij-x-bible-newworld.txt	http://www.jw.org/fj/ka-e-vakarautaki/ivolatabu/nwt/
-fil-x-bible-1905.txt	https://www.bible.com/de/bible/177/gen.1.tlab
-fil-x-bible-2005.txt	https://www.bible.com/de/bible/399/gen.1.rtpv05
 fin-x-bible-1766.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 fin-x-bible-1933.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 fin-x-bible-1992.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-fin-x-bible-newworld.txt	http://www.jw.org/fi/julkaisut/raamattu/nwt/
-fon-x-bible.txt	http://bibles.org/fon-FON/Matt/1
-fra-x-bible-courant1997.txt	https://www.bible.com/bible/63/gen.1.frc97
 fra-x-bible-crampon.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/FRE/La%20Bible%20Augustin%20Crampon%201923/
 fra-x-bible-darby.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 fra-x-bible-davidmartin.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
@@ -345,41 +88,15 @@ fra-x-bible-geneve1669.txt	http://sourceforge.net/projects/zefania-sharp/files/B
 fra-x-bible-jerusalem2004.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/FRE/La%20Bible%20de%20Jerusalem/
 fra-x-bible-kingjames.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 fra-x-bible-louissegond.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-fra-x-bible-newworld.txt	http://www.jw.org/fr/publications/bible/nwt/
-fra-x-bible-nouvellesegond.txt	https://www.bible.com/bible/104/gen.1.nbs
 fra-x-bible-ostervald1867.txt	http://fr.wikisource.org/wiki/Page:Ostervald_-_La_Sainte_Bible,_1867.djvu/20
 fra-x-bible-perret.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/FRE/Bible%20Perret-Gentil%20et%20Rilliet/
 fra-x-bible-pirotclamer.txt	http://yves.petrakian.free.fr/456-bible/pirot/1_genese.htm
-fra-x-bible-segond21.txt	https://www.bible.com/bible/152/gen.1.s21
-fra-x-bible-semeur.txt	https://www.bible.com/bible/21/gen.1.bds
 fra-x-bible-zadockahn.txt	http://www.mechon-mamre.org/f/ft/ft0.htm
 fry-x-bible.txt	http://images.tresoar.nl/wumkes/pdf/Bibel_Wumkes_1943_watermerk.pdf
 fub-x-bible.txt	http://jesusforafrica.net/fulfulde/
-fue-x-bible.txt	http://bible.cloud/bible/content/texts/FUESIM/index.html
-fuh-x-bible.txt	http://bible.cloud/bible/content/texts/FUHSIM/index.html
-fuq-x-bible.txt	https://www.bible.com/de/versions/1373 http://www.wycliffe.org
-gaa-x-bible-newworld.txt	http://www.jw.org/gaa/woji-kɛ-nibii/biblia/nwt/woji/
-gbr-x-bible.txt	https://www.bible.com/de/versions/1621 http://www.Biblica.com
-gdg-x-bible.txt	https://www.bible.com/de/versions/1436 http://www.wycliffe.org
-geb-x-bible.txt	http://bible.cloud/bible/content/texts/GEBPBT/index.html
-ghe-x-bible.txt	https://www.bible.com/de/versions/1709 http://www.nepalbiblesociety.org
-gid-x-bible.txt	https://www.bible.com/de/versions/1120 http://www.biblesociety-cameroon.org/
-giz-x-bible.txt	http://bibles.org/giz-BEGDC/Matt/1
-gjn-x-bible.txt	https://www.bible.com/de/versions/1729 http://www.wycliffe.org
-gkp-x-bible.txt	http://bibles.org/gkp-KWB/Matt/1
 gla-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-gle-x-bible.txt	http://bibles.org/gle-ADN/Gen/1
-glk-x-bible.txt	http://bible.cloud/bible/content/texts/GLKWBT/index.html
 glv-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-gmv-x-bible-geez.txt	https://www.bible.com/de/bible/439/mat.1.gmvnt
-gnb-x-bible.txt	https://www.bible.com/de/versions/1013 http://www.bsind.org/
-gng-x-bible.txt	https://www.bible.com/de/bible/474/mat.1.gngnt
-gnn-x-bible.txt	http://aboriginalbibles.org.au/Gumatj/
-gnw-x-bible.txt	http://www.scriptureearth.org/data/gnw
-gof-x-bible.txt	https://www.bible.com/de/bible/435/mat.1.gofrnt
-gor-x-bible.txt	http://alkitab.mobi/tb/Mrk/1/4/
 got-x-bible.txt	http://www.wulfila.be/gothic/text/derived/gotica.txt
-gqr-x-bible.txt	https://www.bible.com/de/versions/1173 http://www.wycliffe.org
 grc-x-bible-accented.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 grc-x-bible-byzantine.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 grc-x-bible-combined2005.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GRC/Greek%20New%20Testament/
@@ -389,683 +106,71 @@ grc-x-bible-tischendorf.txt	http://unbound.biola.edu/index.cfm?method=downloads.
 grc-x-bible-unaccented.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 grc-x-bible-wescotthortVAR1.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 grc-x-bible-wescotthortVAR2.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-gso-x-bible.txt	http://gospelgo.com/f/gbaya_sw_nt htmhttp://findabible.net
-gub-x-bible.txt	https://www.bible.com/de/versions/588 http://www.wycliffe.org
-guc-x-bible.txt	http://www.scriptureearth.org/data/guc
-gud-x-bible.txt	http://bibles.org/gut-DNT/Matt/1
-gug-x-bible-newworld.txt	http://www.jw.org/gug/puvlikasión/biblia/nwt/
-guh-x-bible.txt	http://www.scriptureearth.org/data/guh
-gui-x-bible.txt	http://www.scriptureearth.org/data/gui
-guk-x-bible.txt	http://gospelgo.com/z/GUK/NT.htm
-gul-x-bible.txt	https://www.bible.com/de/bible/815/mat.1.gul
-gum-x-bible.txt	http://www.scriptureearth.org/data/gum
-guo-x-bible.txt	http://www.scriptureearth.org/data/guo
-guw-x-bible-newworld.txt	http://www.jw.org/guw/owe-lẹ/biblu/nwt/owe-lẹ/
-guz-x-bible.txt	http://gospelgo.com/f/ekegusii_nt.htm http://gospelgo.com/g/Ekegusii%20Bible%20-%20Genesis%201.pdf
-gvc-x-bible.txt	http://www.scriptureearth.org/data/gvc
-gvl-x-bible.txt	http://bibles.org/gvl-GUL/Matt/1
-gvn-x-bible.txt	http://aboriginalbibles.org.au/Kuku%20Yalanji/
-gwi-x-bible.txt	http://www.scriptureearth.org/data/gwi
-gya-x-bible.txt	http://bibles.org/gya-GB11/Matt/1
-gyr-x-bible-1985.txt	http://www.scriptureearth.org/data/gyr
-gyr-x-bible-urubicha.txt	https://www.bible.com/de/bible/224/mat.1.gyob0253
-hat-x-bible-newworld2007.txt	http://www.jw.org/ht/piblikasyon-yo/bib/bi12/
 hbo-x-bible-aleppo.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 hbo-x-bible-leningrad.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 hbo-x-bible-leningradconsonants.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 hbo-x-bible-leningradunicode.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 hbo-x-bible-leningradunicodeconsonants.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 hbo-x-bible-westminster.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-hch-x-bible.txt	http://www.scriptureearth.org/data/hch
-heb-x-bible-newworld.txt	http://www.jw.org/he/פרסומים/מקרא/nwt/ספרים/
-heb-x-bible.txt	https://www.bible.com/de/bible/24/mat.1.bhebnt
-heg-x-bible.txt	http://bible.cloud/bible/content/texts/HEGWBT/index.html
-hil-x-bible-newworld2007.txt	http://www.jw.org/hil/publikasyon/biblia/bi12/
 hin-x-bible-bsi.txt	http://bible-server.org/Bible.php?L2=&translation=HIN&book=Genesis&ch=1 https://www.wordproject.org/bibles/in/
-hin-x-bible-easy.txt	http://bible.cloud/bible/content/texts/HNDWTC/index.html
 hin-x-bible-latin.txt	https://www.wordproject.org/bibles/in_tr/index.htm
-hin-x-bible-newworld.txt	http://www.jw.org/hi/प्रकाशन/बाइबल/nwt/किताबें/
-hix-x-bible.txt	https://www.bible.com/de/versions/587 http://www.wycliffe.org
-hmo-x-bible-newworld.txt	http://www.jw.org/ho/pablikeisen/baibel/nwt/
-hnj-x-bible-standard.txt	https://www.bible.com/de/versions/1216
-hnj-x-bible.txt	https://www.bible.com/de/versions/1726 http://http://www.biblevietnam.org
-hns-x-bible.txt	http://www.scriptureearth.org/data/hns
-hop-x-bible.txt	https://www.bible.com/de/bible/595/jhn.1
-hra-x-bible.txt	https://www.bible.com/de/versions/1018 http://www.bsind.org/
-hrv-x-bible-2000.txt	https://www.bible.com/de/bible/39/mat.1.ckk
 hrv-x-bible-complete.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-hrv-x-bible-newworld.txt	http://www.jw.org/hr/izdanja/biblija/nwt/
-hto-x-bible.txt	http://www.scriptureearth.org/data/hto
-hub-x-bible-1975.txt	http://www.scriptureearth.org/data/hub
-hun-x-bible-2003.txt	https://www.bible.com/de/bible/26/mat.1.bhunnt
 hun-x-bible-2005.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/HUN/Magyar%20Ujforditasu%20Biblia/
-hun-x-bible-2012.txt	https://www.bible.com/de/bible/198/mat.1.efo
 hun-x-bible-karoli.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-hun-x-bible-newworld.txt	http://www.jw.org/hu/kiadvanyok/biblia/bi12/
-hus-x-bible-sanluispotosi.txt	http://www.scriptureearth.org/data/hva
-hus-x-bible-veracruz.txt	http://www.scriptureearth.org/data/hus
-huu-x-bible.txt	http://www.scriptureearth.org/data/huu
-huv-x-bible.txt	http://www.scriptureearth.org/data/huv
-hwc-x-bible-2000.txt	https://www.bible.com/de/bible/76/mat.1.hwcnt
 hye-x-bible-eastern.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-hye-x-bible-newworld.txt	http://www.jw.org/hy/հրատարակություններ/աստվածաշունչ/nwt/գրքեր/
 hye-x-bible-western.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-ibo-x-bible-newworld.txt	http://www.jw.org/ig/akwụkwọ/baịbụl/nwt/akwụkwọ/
-icr-x-bible.txt	https://www.bible.com/de/versions/1451 http://www.wycliffe.org
-ifa-x-bible.txt	https://www.bible.com/de/versions/1356 http://www.wycliffe.org
-ign-x-bible-2004.txt	http://www.scriptureearth.org/data/ign
-ike-x-bible.txt	https://www.bible.com/de/bible/455/gen.1.eaib
-ikk-x-bible.txt	http://bible.cloud/bible/content/texts/IKKWBT/index.html
-ikw-x-bible.txt	http://bible.cloud/bible/content/texts/IKWWBT/index.html
-ilb-x-bible.txt	https://www.bible.com/de/versions/888 http://www.biblesociety-zambia.org
-ilo-x-bible-newworld.txt	http://www.jw.org/ilo/publikasion/biblia/nwt/
-ilo-x-bible-popular.txt	http://bible.cloud/bible/content/texts/ILOMBC/index.html
-ilo-x-bible.txt	http://bible.cloud/bible/content/texts/ILOAB3/index.html
-inb-x-bible.txt	http://www.scriptureearth.org/data/inb
-ind-x-bible-easy2005.txt	https://www.bible.com/de/bible/199/mat.1.amd
-ind-x-bible-firman.txt	http://alkitab.sabda.org/bible.php?book=40&chapter=1&version=fayh
 ind-x-bible-kabarbaik.txt	http://sabdaweb.sabda.org/bible/chapter/?version=bis
-ind-x-bible-newworld.txt	http://www.jw.org/id/publikasi/alkitab/nwt/
 ind-x-bible-terjemahanlama.txt	http://sabdaweb.sabda.org/bible/chapter/?version=tl
-iqw-x-bible.txt	https://www.bible.com/de/versions/1599 http://www.wycliffe.org
-isd-x-bible.txt	https://www.bible.com/de/versions/1331 http://www.wycliffe.org
 ita-x-bible-2009.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ITA/Italian%20Version/
 ita-x-bible-diodati.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-ita-x-bible-newworld.txt	http://www.jw.org/it/pubblicazioni/bibbia/nwt/
 ita-x-bible-nuovadiodati1991.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ITA/La%20Nuova%20Diodati%201991/
-ita-x-bible-nuovariveduta.txt	https://www.bible.com/bible/122/gen.1.nr06
 ita-x-bible-riveduta.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-ita-x-bible-vita1997.txt	https://www.bible.com/bible/92/mat.1.bdg
-ium-x-bible-lao.txt	https://www.bible.com/de/bible/246/gen.1.iumilao
-ium-x-bible-latin.txt	https://www.bible.com/de/bible/232/gen.1.iuminor
-ium-x-bible-latinnew.txt	http://bibles.org/ium-IUMINR/Matt/1 https://www.bible.com/de/bible/233/gen.1.iuminr
-ium-x-bible-thai.txt	https://www.bible.com/de/bible/220/gen.1.iumith
-ivb-x-bible.txt	https://www.bible.com/de/versions/1322 http://www.wycliffe.org
-ivv-x-bible.txt	https://www.bible.com/de/versions/1315 http://www.wycliffe.org
-ixl-x-bible-2001.txt	https://www.bible.com/de/bible/247/mat.1.ixlcnt
-izz-x-bible.txt	https://www.bible.com/de/versions/1601 http://www.wycliffe.org
-jam-x-bible.txt	https://www.bible.com/de/bible/476/mat.1.jnt
-jav-x-bible-1981.txt	https://www.bible.com/de/bible/248/gen.1.jav
-jav-x-bible-1994.txt	http://alkitab.mobi/jawa2/
-jic-x-bible.txt	http://bibles.org/versions/jic-JICNT
-jiv-x-bible.txt	http://bible.cloud/bible/content/texts/JIVAIE/index.html
-jpn-x-bible-newworld.txt	http://www.jw.org/ja/出版物/聖書/nwt/各書/
-jra-x-bible.txt	http://bibles.org/jra-JNT/Matt/1
-jvn-x-bible.txt	http://www.scriptureearth.org/data/jvn
-kaa-x-bible-cyrillic.txt	http://ibtrussia.org/en/text?m=KRK
-kaa-x-bible-latin.txt	http://ibtrussia.org/en/text?m=TVN
 kab-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-kac-x-bible-common.txt	https://www.bible.com/de/bible/348/gen.1.jclb
-kan-x-bible-newworld.txt	http://www.jw.org/kn/ಪ್ರಕಾಶನಗಳು/ಬೈಬಲ್%E2%80%8C/nwt/ಪುಸ್ತಕಗಳು/
-kap-x-bible.txt	http://ibtrussia.org/en/text?m=BEZ
-kaq-x-bible.txt	http://www.scriptureearth.org/data/kaq
-kat-x-bible-revised.txt	http://ibtrussia.org/en/text?m=GRG
 kat-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 kaz-x-bible-newworld1984.txt	http://ww.j.org/kk/басылымдар/киелі-кітап/bi12/кітаптар/
-kaz-x-bible.txt	https://kkitap.net/online.php http://ibtrussia.org/en/text?m=KAZ
-kbc-x-bible.txt	https://www.bible.com/de/bible/584/jhn.1
-kbd-x-bible.txt	http://ibtrussia.org/en/text?m=KBD
-kbh-x-bible.txt	http://www.scriptureearth.org/data/kbh
-kck-x-bible.txt	https://www.bible.com/de/versions/860
-kdc-x-bible.txt	http://bible.cloud/bible/content/texts/KDCPBT/index.html
-kde-x-bible.txt	http://bible.cloud/bible/content/texts/KDEWBT/index.html
-kdh-x-bible.txt	https://www.bible.com/de/versions/1384 http://www.wycliffe.org
-kdl-x-bible.txt	https://www.bible.com/de/bible/426/mat.1.kdlnt
-kek-x-bible-1988.txt	http://www.scriptureearth.org/data/kek
-kff-x-bible.txt	http://www.biblesos.org/kff/bible/koya/the-holy-bible-in-koya-154/ http://indianbibles.net/index.php?bibleVersion=koya&bookName=matthew&chapterNo=1
-kgk-x-bible.txt	http://www.scriptureearth.org/data/kgk
-kgp-x-bible.txt	http://www.scriptureearth.org/data/kgp
-khk-x-bible.txt	http://www.biblesos.org/mn/Abrahamyn-udam-Davidyn-udam-Yesus-Hristiin-ugiin-bichig/
-khm-x-bible-2011.txt	https://www.bible.com/de/bible/315/mat.1.kcb
-khm-x-bible-newworld.txt	http://www.jw.org/km/សៀវភៅផ្សេងៗ/គម្ពីរ/nwt/សៀវភៅ/
-khm-x-bible-standard2005.txt	https://www.bible.com/de/bible/85/gen.1.khsv
-khs-x-bible.txt	https://www.bible.com/de/versions/1566 http://www.wycliffe.org
-khy-x-bible.txt	https://www.bible.com/de/versions/1496 http://www.biblesociety-cd.org/
-kia-x-bible.txt	http://bibles.org/kia-KB/Matt/1
-kik-x-bible-2007.txt	https://www.bible.com/de/bible/1202/gen.1.gikdc
-kik-x-bible-newworld.txt	http://www.jw.org/ki/mabuku/bibilia/nwt/
-kin-x-bible-2001.txt	https://www.bible.com/de/bible/351/gen.1.bysb
-kin-x-bible-2004.txt	https://www.bible.com/de/bible/395/gen.1.bir
-kin-x-bible-2012.txt	https://www.bible.com/de/bible/430/gen.1.kbnt
-kin-x-bible-newworld.txt	http://www.jw.org/rw/ibitabo/bibiliya/nwt/
-kir-x-bible-2005.txt	http://ibtrussia.org/en/text?m=KYLSC
-kir-x-bible-newworld.txt	http://www.jw.org/ky/адабияттар/ыйык-китеп/nwt/китептер/
-kir-x-bible-rayofhope.txt	http://ibtrussia.org/en/text?m=KYROHC
-kix-x-bible.txt	https://www.bible.com/de/versions/1058 http://www.bsind.org/
-kje-x-bible.txt	http://bible.cloud/bible/content/texts/KJEWBT/index.html
-kjh-x-bible.txt	http://gospelgo.com/z/KHK/NT.htm http://ibtrussia.org/en/text?m=XKS
-kkl-x-bible.txt	http://bible.cloud/bible/content/texts/KKLWBT/index.html
-klv-x-bible.txt	https://www.bible.com/de/bible/1247/jhn.1
-kmk-x-bible.txt	http://bible.cloud/bible/content/texts/KMKWBT/index.html
-kmm-x-bible.txt	https://www.bible.com/de/versions/1542 http://www.bsind.org/
 kmr-x-bible.txt	http://www.kitebipiroz.com/en/bible/mrk/1
-knf-x-bible.txt	http://bible.cloud/bible/content/texts/KNFWBT/index.html
-kog-x-bible.txt	https://www.bible.com/de/versions/1505 http://www.wycliffe.org
-kor-x-bible-1985.txt	https://www.bible.com/de/bible/86/gen.1.klb
-kor-x-bible-new.txt	https://www.bible.com/de/bible/142/gen.1.rnksv
-kor-x-bible-newworld1999.txt	http://www.jw.org/ko/publications/성경/bi12/books/
-kor-x-bible-newworld2014.txt	http://www.jw.org/ko/publications/성경/nwt/
 kor-x-bible-revised.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-kos-x-bible.txt	http://www.fsmbibles.org/kos/GEN01.htm
-kpg-x-bible.txt	http://ebible.org/Scriptures/kpg_usfx.zip http://pacificbibles.org/kpg/copyright.htm
-kpj-x-bible.txt	http://www.scriptureearth.org/data/kpj
-kqe-x-bible.txt	https://www.bible.com/de/versions/1357 http://www.wycliffe.org
-kqo-x-bible.txt	https://www.bible.com/de/versions/1680
-kqs-x-bible.txt	https://www.bible.com/de/versions/1394
-ksc-x-bible.txt	https://www.bible.com/de/versions/1328 http://www.wycliffe.org
 ksd-x-bible.txt	http://ebible.org/study/content/texts/KSDPNG/LK3.html
-ksf-x-bible.txt	https://www.bible.com/de/bible/876/mat.1.bafnt
-ksp-x-bible.txt	https://www.bible.com/de/versions/1485 http://www.wycliffe.org
-kss-x-bible.txt	https://www.bible.com/de/bible/496/mat.1.kbq
-ksw-x-bible.txt	http://www.myanmarbible.com/bible/SgawKaren/html/index.html
-ktm-x-bible.txt	https://www.bible.com/de/versions/1644 http://www.wycliffe.org
-ktu-x-bible.txt	https://www.bible.com/de/versions/1491 http://www.biblesociety-cd.org/
-kua-x-bible.txt	http://bibles.org/kua-OKYB/Matt/1
-kvj-x-bible.txt	https://www.bible.com/de/versions/1515 http://www.biblesociety-cameroon.org/
-kvn-x-bible.txt	http://www.scriptureearth.org/data/kvn
-kwd-x-bible.txt	http://bible.cloud/bible/content/texts/KWDWBT/index.html
-kwi-x-bible.txt	http://www.scriptureearth.org/data/kwi
-kxw-x-bible.txt	https://www.bible.com/de/versions/1567 http://www.wycliffe.org
-kyu-x-bible.txt	http://www.scriptureearth.org/data/kyu/
-kyz-x-bible.txt	http://www.scriptureearth.org/data/kyz
-lac-x-bible.txt	http://www.scriptureearth.org/data/lac
-lai-x-bible.txt	https://www.bible.com/de/versions/1607 http://www.biblesociety-malawi.org/
-laj-x-bible.txt	http://bibles.org/laj-B79/Matt/1
-lam-x-bible.txt	https://www.bible.com/de/versions/947 http://www.biblesociety-zambia.org
-lao-x-bible.txt	https://www.bible.com/de/versions/1727
 lat-x-bible-novavulgata.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 lat-x-bible-vulgataclementina.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/LAT/Clementine%20Vulgate/
-lav-x-bible-1997.txt	https://www.bible.com/de/bible/488/gen.1.rt65
-lav-x-bible-jaunaderiba.txt	https://www.bible.com/de/bible/318/mat.1.ljd
 lav-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-lbb-x-bible.txt	http://bible.cloud/bible/content/texts/LBBWBT/index.html
-lbj-x-bible.txt	https://www.bible.com/de/versions/1458 http://www.wycliffe.org
-lbk-x-bible.txt	http://bible.cloud/bible/content/texts/LBKWBT/index.html
-leg-x-bible.txt	https://www.bible.com/de/versions/1476
-leh-x-bible.txt	http://bibles.org/leh-LEN03/Matt/1
 lex-x-bible.txt	http://ebible.org/Scriptures/lex_usfx.zip
-lgm-x-bible.txt	https://www.bible.com/de/versions/1497 http://www.biblesociety-cd.org/
-lhi-x-bible.txt	https://www.bible.com/de/versions/1603 http://www.wycliffe.org
-lif-x-bible-2009.txt	https://www.bible.com/de/bible/252/mat.1.lifnt
-lin-x-bible-newworld.txt	http://www.jw.org/ln/mikanda/biblia/nwt/
-lit-x-bible-ecumenical.txt	https://www.bible.com/de/bible/419/gen.1.lbd
 lit-x-bible-tikejimozodis.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-lmk-x-bible.txt	https://www.bible.com/de/versions/1024 http://www.bsind.org/
-lmp-x-bible.txt	https://www.bible.com/de/versions/1240 http://www.biblesociety-cameroon.org/
-lol-x-bible.txt	https://www.bible.com/de/versions/1495 http://www.biblesociety-cd.org/
-lom-x-bible.txt	https://www.bible.com/de/versions/1456
-loq-x-bible.txt	https://www.bible.com/de/versions/1294 http://www.wycliffe.org
-loz-x-bible.txt	http://bibles.org/loz-LOZI09/Gen/1
-lsi-x-bible.txt	https://www.bible.com/de/bible/390/gen.1.lcl
-lug-x-bible-contemporary.txt	https://www.bible.com/de/versions/1625
-lug-x-bible-revised.txt	https://www.bible.com/de/versions/1423 http://www.biblesociety-uganda.org/
 luo-x-bible.txt	http://jesusforafrica.net/luo/matthew.htm http://www.worldscriptures.org/pages/dholuo.html
-lus-x-bible.txt	https://www.bible.com/de/bible/253/gen.1.miz
-lww-x-bible.txt	https://www.bible.com/de/versions/1606 http://www.wycliffe.org
-lzh-x-bible-wenli-easy.txt	https://www.bible.com/de/versions/1577
-lzh-x-bible-wenli-high.txt	https://www.bible.com/de/versions/1578
-maa-x-bible-tecoatl.txt	https://www.bible.com/de/bible/838/mat.1.maant
-maf-x-bible.txt	https://www.bible.com/de/versions/908 http://www.biblesociety-cameroon.org/
-maj-x-bible.txt	http://bibles.org/maj-MAJNT/Matt/1
-mal-x-bible.txt	http://gujaratibible.com/Malayalam-Transliteration/ http://findabible.net/
-mam-x-bible-central.txt	http://www.scriptureearth.org/data/mvc
-mam-x-bible-todossantos.txt	http://www.scriptureearth.org/data/mvj
-maq-x-bible.txt	http://www.scriptureearth.org/data/maq
-mau-x-bible.txt	http://www.scriptureearth.org/data/mau
-mav-x-bible.txt	http://www.scriptureearth.org/data/mav
-maz-x-bible.txt	http://www.scriptureearth.org/data/maz
-mbc-x-bible.txt	http://bibles.org/mbc-MBCNT/Matt/1
-mbd-x-bible.txt	https://www.bible.com/de/versions/1326 http://www.wycliffe.org
-mbf-x-bible.txt	http://alkitab.mobi/tb/Mrk/1/4/
-mbh-x-bible.txt	https://www.bible.com/de/bible/1122/jhn.1 http://www.scriptureearth.org/data/mbh/
-mbi-x-bible.txt	https://www.bible.com/de/versions/1310 http://www.wycliffe.org
-mbj-x-bible.txt	https://www.bible.com/de/bible/452/mat.1.mbjnt
-mbl-x-bible.txt	http://www.scriptureearth.org/data/mbl
-mbs-x-bible.txt	http://bible.cloud/bible/content/texts/MBSWBT/index.html
-mca-x-bible.txt	http://www.scriptureearth.org/data/mca/
-mcb-x-bible.txt	http://www.scriptureearth.org/data/mcb
-mcd-x-bible.txt	https://www.bible.com/de/bible/522/jhn.1
-mcf-x-bible.txt	http://www.scriptureearth.org/data/mcf/
-mck-x-bible.txt	http://bibles.org/mck-MBB/Matt/1
-mcn-x-bible.txt	http://bibles.org/versions/mcn-MASSANA https://www.bible.com/de/versions/557-massana-bibalda-ta-peldetta
-mco-x-bible.txt	http://www.scriptureearth.org/data/mco
-mcp-x-bible.txt	http://bible.cloud/bible/content/texts/MCPWBT/index.html
-meq-x-bible.txt	https://www.bible.com/de/bible/1168/mat.1.meqnt
-meu-x-bible.txt	http://www.scriptureearth.org/data/meu/
-mfe-x-bible.txt	https://www.bible.com/de/bible/344/mat.1.ntkm
-mfk-x-bible.txt	https://www.bible.com/de/versions/551 http://www.biblesociety-cameroon.org/
-mgc-x-bible.txt	https://www.bible.com/de/versions/1377 http://www.pioneerbible.org
-mgh-x-bible.txt	http://bible.cloud/bible/content/texts/MGHWBT/index.html
 mhy-x-bible.txt	http://de.scribd.com/doc/78663612/Maanyan-Bible-New-Testament
-mib-x-bible.txt	http://www.scriptureearth.org/data/mib
-mic-x-bible.txt	http://bible.cloud/bible/content/texts/MICCBS/index.html
-mig-x-bible.txt	http://www.scriptureearth.org/data/mig
-mih-x-bible.txt	http://www.scriptureearth.org/data/mih
-mil-x-bible.txt	http://www.scriptureearth.org/data/mil
 min-x-bible.txt	http://agapekoor.files.wordpress.com/2013/06/bahasa-minangkabau_pb.pdf
-mio-x-bible.txt	http://www.scriptureearth.org/data/mio
-miq-x-bible.txt	https://www.bible.com/de/bible/298/gen.1.msktu
-mir-x-bible.txt	http://www.scriptureearth.org/data/mir
-miy-x-bible.txt	https://www.bible.com/de/versions/1659 http://www.wycliffe.org
-mjc-x-bible.txt	http://www.scriptureearth.org/data/mjc
-mjw-x-bible.txt	https://www.bible.com/de/versions/997 http://www.bsind.org/
-mkd-x-bible-2004.txt	https://www.bible.com/de/bible/311/gen.1.mkb
-mkd-x-bible-dynamic.txt	https://www.bible.com/de/bible/322/mat.1.mnt
-mkl-x-bible.txt	http://af.bibles.org/versions/mkl-MNKNT
-mkn-x-bible.txt	http://bible.cloud/bible/content/texts/MKNUBB/index.html
-mks-x-bible.txt	http://www.scriptureearth.org/data/mks
-mlt-x-bible-newworld.txt	http://www.jw.org/mt/pubblikazzjonijiet/bibbja/nwt/
 mlt-x-bible.txt	http://www.laikos.org/Bibbja-TG.htm
-mmn-x-bible.txt	https://www.bible.com/de/versions/1327 http://www.wycliffe.org
-mnx-x-bible.txt	http://gospelgo.com/q/Sougb%20Bible%20-%20New%20Testament.pdf
-moc-x-bible.txt	https://www.bible.com/de/bible/332/gen.1.mcv
-mog-x-bible.txt	http://alkitab.mobi/mongondow/Mrk/1/
-moh-x-bible.txt	https://www.bible.com/de/versions/1653 http://www.biblesociety.org.uk/
-mpg-x-bible.txt	https://www.bible.com/de/versions/855 http://www.unitedbiblesocieties.org
-mph-x-bible.txt	https://www.bible.com/de/versions/1376 http://www.wycliffe.org
-mpp-x-bible.txt	http://bible.cloud/bible/content/texts/MPPWBT/index.html
-mqj-x-bible.txt	https://www.bible.com/af/bible/383/mat.1.mqjnt
-mqy-x-bible.txt	http://bibles.org/mqy-BMNT/Matt/1
-mrg-x-bible.txt	https://www.bible.com/de/versions/1078 http://www.bsind.org/
 mri-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 msa-x-bible-klinkert.txt	http://sabda.org/sabdaweb/bible/verse/?version=kl_1870&altver[]=tb
-msa-x-bible-shellabear.txt	http://alkitab.mobi/sbdr/Mat/1#v1
-msb-x-bible.txt	http://bible.cloud/bible/content/texts/MSBWBT/index.html
-msc-x-bible.txt	https://www.bible.com/de/versions/1555 http://www.pioneerbible.org
-mse-x-bible.txt	https://www.bible.com/de/versions/1130 http://www.unitedbiblesocieties.org
-msk-x-bible.txt	http://bible.cloud/bible/content/texts/MSKWBT/index.html
-mtg-x-bible.txt	https://www.bible.com/de/versions/1670 http://www.alkitab.or.id/
-mto-x-bible.txt	http://www.scriptureearth.org/data/mto
-mtp-x-bible.txt	http://bibles.org/mtp-WHYK/Matt/1
-mua-x-bible.txt	https://www.bible.com/de/versions/863
-mvn-x-bible.txt	http://bible.cloud/bible/content/texts/MVNJLB/index.html
-mwf-x-bible.txt	http://aboriginalbibles.org.au/Murrinhpatha/
-mwm-x-bible.txt	https://www.bible.com/de/bible/446/gen.1.bs
-mwp-x-bible.txt	https://www.bible.com/de/versions/1399 http://www.wycliffe.org
-mwv-x-bible.txt	http://alkitab.mobi/mentawai/Mrk/1/
-mxp-x-bible.txt	http://www.scriptureearth.org/data/mxp
 mya-x-bible-1835.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-mya-x-bible-common.txt	https://www.bible.com/de/bible/404/gen.1.bcl
-mya-x-bible-newworld.txt	http://www.jw.org/mya/စာပေများ/သမ္မာကျမ်းစာ/nwt/ကျမ်းစောင်များ/
-myb-x-bible.txt	https://www.bible.com/de/bible/444/gen.1.bm80
-myu-x-bible.txt	http://www.scriptureearth.org/data/myu
-mza-x-bible.txt	https://www.bible.com/de/versions/1385 http://www.wycliffe.org
-mzh-x-bible.txt	http://bibles.org/mzh-WCHB/Matt/1
-mzl-x-bible.txt	https://www.bible.com/de/bible/357/mat.1.mixe
-nab-x-bible.txt	http://www.scriptureearth.org/data/nab/
-naq-x-bible.txt	https://www.bible.com/de/bible/548/mat.1.kkg
-nav-x-bible.txt	https://www.bible.com/de/versions/1098 http://www.americanbible.org/
-nbc-x-bible.txt	https://www.bible.com/de/versions/961 http://www.bsind.org/
-nbe-x-bible.txt	https://www.bible.com/de/versions/933 http://www.bsind.org/
-nbl-x-bible.txt	https://www.bible.com/de/bible/450/jhn.1
 nbq-x-bible.txt	http://ebible.org/Scriptures/nbq_usfx.zip
-ncj-x-bible.txt	http://www.scriptureearth.org/data/ncj/
-ncl-x-bible.txt	http://www.scriptureearth.org/data/ncl/
-nct-x-bible.txt	https://www.bible.com/de/versions/1541 http://www.bsind.org/
-ndc-x-bible.txt	https://www.bible.com/de/versions/1694 http://biblesociety-zimbabwe.org/
-nde-x-bible.txt	https://www.bible.com/de/bible/450/gen.1.snd12
-ndi-x-bible.txt	https://www.bible.com/de/versions/1118 http://www.biblesociety-cameroon.org/
-ndj-x-bible.txt	https://www.bible.com/de/versions/1038 http://www.pioneerbible.org
-ndo-x-bible.txt	https://www.bible.com/de/bible/372/gen.1.ondb
 nds-x-bible.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/NDS/Daut%20niee%20Testamente%20en%20de%20Psalme/
-nep-x-bible-revised.txt	https://www.bible.com/de/versions/1483 http://www.nepalbiblesociety.org
-nep-x-bible-simple.txt	https://www.bible.com/de/versions/1711 http://www.nepalbiblesociety.org
-nfa-x-bible.txt	https://www.bible.com/de/versions/1402 http://www.wycliffe.org
-ngc-x-bible.txt	https://www.bible.com/de/versions/1490 http://www.biblesociety-cd.org/
-ngp-x-bible.txt	https://www.bible.com/de/versions/1043 http://www.pioneerbible.org
-nhd-x-bible-1913.txt	https://www.bible.com/de/versions/805
-nhd-x-bible-2006.txt	https://www.bible.com/de/versions/66
-nhe-x-bible.txt	http://www.scriptureearth.org/data/nhe/
-nhg-x-bible.txt	http://www.scriptureearth.org/data/nhg/
-nho-x-bible.txt	https://www.bible.com/de/versions/1552
-nhr-x-bible.txt	http://bible.cloud/bible/content/texts/NHRBSB/index.html
-nhw-x-bible.txt	http://www.scriptureearth.org/data/nhw/
-nhx-x-bible-revised.txt	https://www.bible.com/de/versions/1654 http://www.wycliffe.org
-nhx-x-bible.txt	https://www.bible.com/de/versions/1661 http://www.wycliffe.org
-nhy-x-bible.txt	http://www.scriptureearth.org/data/nhy/
-nin-x-bible.txt	https://www.bible.com/de/bible/367/mat.1.ninnt
-niq-x-bible.txt	https://www.bible.com/de/versions/1586 http://www.biblesociety-kenya.org/
-niy-x-bible.txt	https://www.bible.com/de/versions/1431 http://www.wycliffe.org
-njb-x-bible.txt	https://www.bible.com/de/versions/1051 http://www.bsind.org/
-njm-x-bible.txt	https://www.bible.com/de/bible/338/gen.1.naga
-njn-x-bible.txt	https://www.bible.com/de/versions/1537
-njo-x-bible.txt	https://www.bible.com/de/versions/1008
-njz-x-bible.txt	https://www.bible.com/de/versions/1536
-nko-x-bible.txt	http://www.scriptureearth.org/data/nko/
 nlc-x-bible.txt	http://www.docstoc.com/docs/142757763/Nalca-Bible---New-Testament
-nld-x-bible-1951.txt	https://www.bible.com/de/bible/328/gen.1.nbg51
-nld-x-bible-2004.txt	https://www.bible.com/de/bible/398/gen.1.nbv
-nld-x-bible-2007.txt	https://www.bible.com/de/bible/75/gen.1.htb
-nld-x-bible-newworld.txt	http://www.jw.org/nl/publicaties/bijbel/nwt/
 nld-x-bible-statenvertaling.txt	http://bijbel.coas.nl/bijbel/
-nma-x-bible.txt	https://www.bible.com/de/versions/1023
-nmf-x-bible.txt	https://www.bible.com/de/versions/1545
-nmo-x-bible.txt	https://www.bible.com/de/versions/1046 http://www.bsind.org/
-nmw-x-bible.txt	https://www.bible.com/de/versions/1648
-nng-x-bible.txt	https://www.bible.com/de/versions/1544
-nnh-x-bible.txt	https://www.bible.com/de/bible/299/mat.1.nbgm
-nno-x-bible-1978.txt	http://bibles.org/nno-N78NN/Matt/1
-nno-x-bible-2011.txt	https://www.bible.com/de/bible/119/gen.1.n11nn
 nno-x-bible-student.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/NOR/Studentmallagsbibelen%201921/
-nnp-x-bible.txt	https://www.bible.com/de/versions/1064
-nnq-x-bible.txt	https://www.bible.com/de/versions/1674
-noa-x-bible-1988.txt	http://www.scriptureearth.org/data/noa/
-noa-x-bible-2011.txt	http://bible.cloud/bible/content/texts/NOAWBE/index.html
-nob-x-bible-1985.txt	https://www.bible.com/de/bible/30/gen.1.n78bm
-nob-x-bible-1988.txt	https://www.bible.com/de/bible/115/mat.1.bnor
-nob-x-bible-2007.txt	https://www.bible.com/de/bible/102/gen.1.nb
-nob-x-bible-2011.txt	https://www.bible.com/de/bible/29/gen.1.n11bm
-nob-x-bible-newworld.txt	http://www.jw.org/no/publikasjoner/bibelen/nwt/
-nog-x-bible.txt	http://ibtrussia.org/en/text?m=NOG
-not-x-bible.txt	https://www.bible.com/de/bible/647/mat.1.notnt
-nph-x-bible.txt	https://www.bible.com/de/versions/1050
-npi-x-bible-newworld.txt	http://www.jw.org/ne/प्रकाशनहरू/बाइबल/nwt/
-npi-x-bible.txt	http://bible.cloud/bible/content/texts/NEPWTC/index.html
-npo-x-bible.txt	https://www.bible.com/de/versions/1546
-nso-x-bible-2000.txt	https://www.bible.com/de/bible/256/gen.1.nso00
-nso-x-bible-neworthography.txt	https://www.bible.com/de/bible/124/gen.1.nso51
-nso-x-bible-newworld.txt	http://www.jw.org/nso/dikgatišo/beibele/nwt/
-nuy-x-bible.txt	http://aboriginalbibles.org.au/Wubuy/ https://www.bible.com/sk/bible/1333/gen.1
-nwi-x-bible.txt	https://www.bible.com/de/bible/485/mat.1.nwint
-nya-x-bible-newworld.txt	http://www.jw.org/ny/mabuku/baibulo/nwt/
 nya-x-bible.txt	http://www.docstoc.com/docs/151583149/Chewa-Holy-Bible-New-Testament-PDF
-nyu-x-bible.txt	http://bible.cloud/bible/content/texts/NYUWBT/index.html
-obo-x-bible.txt	https://www.bible.com/de/bible/425/mat.1.obont
-omw-x-bible-aatasara.txt	http://bible.cloud/bible/content/texts/OMWAAT/index.html
-ons-x-bible.txt	http://bible.cloud/bible/content/texts/ONSPNG/index.html
-ood-x-bible.txt	http://www.scriptureearth.org/data/ood/
-oss-x-bible-newworld.txt	http://www.jw.org/os/публикацитӕ/библи/nwt/
-otm-x-bible.txt	http://www.scriptureearth.org/data/otm/
-otn-x-bible.txt	http://www.scriptureearth.org/data/otn/
-ots-x-bible.txt	http://bibles.org/ots-OTSNT/Matt/1
-pab-x-bible.txt	http://www.scriptureearth.org/data/pab/
-pad-x-bible.txt	http://www.scriptureearth.org/data/pad/
-pag-x-bible-newworld.txt	http://www.jw.org/pag/publikasyon/biblia/nwt/
-pah-x-bible.txt	http://www.scriptureearth.org/data/pah/
-pan-x-bible-newworld.txt	http://www.jw.org/pa/ਮੈਗਜ਼ੀਨ-ਅਤੇ-ਕਿਤਾਬਾਂ/ਬਾਈਬਲ/nwt/
-pap-x-bible-newworld.txt	http://www.jw.org/pap/publikashon/beibel/nwt/
-pbb-x-bible.txt	http://www.scriptureearth.org/data/pbb
-pbl-x-bible.txt	https://www.bible.com/de/bible/208/gen.1.ziv
-pdt-x-bible.txt	http://bibles.org/pdt-PB/Matt/1
-pes-x-bible-1995.txt	https://www.bible.com/de/bible/136/gen.1.pov-fas
-pes-x-bible-2007.txt	https://www.bible.com/de/bible/181/gen.1.tpv
-pes-x-bible-newmillennium2011.txt	https://www.bible.com/de/bible/118/gen.1.nmv
-pes-x-bible-newworld.txt	http://www.jw.org/fa/نشریات/کتاب-مقدس/nwt/کتاب%E2%80%8Cها/
-pib-x-bible.txt	http://www.scriptureearth.org/data/pib
-pio-x-bible.txt	https://www.bible.com/de/bible/226/mat.1.piont
-pir-x-bible.txt	http://www.scriptureearth.org/data/pir
-pis-x-bible-newworld.txt	http://www.jw.org/pis/olketa-pablikeson/bible/nwt/
-pis-x-bible.txt	http://bibles.org/versions/pis-SIDC/
-plg-x-bible.txt	https://www.bible.com/de/bible/443/mat.1.plgnt
-pls-x-bible.txt	http://www.scriptureearth.org/data/pls
-plt-x-bible-1865.txt	https://www.bible.com/de/bible/96/gen.1.mg1865
-plt-x-bible-newworld.txt	http://www.jw.org/mg/zavatra-misy/baiboly/nwt/
-plu-x-bible.txt	http://bible.cloud/bible/content/texts/PLUWBT/index.html
-pma-x-bible.txt	http://bible.cloud/bible/content/texts/PMAWBT/index.html
-pne-x-bible.txt	https://www.bible.com/de/bible/134/mat.1.rj
-poe-x-bible.txt	http://www.scriptureearth.org/data/poe
-poi-x-bible.txt	http://www.scriptureearth.org/data/poi
-pol-x-bible-living.txt	https://www.bible.com/de/bible/137/mat.1.psz
-pol-x-bible-newworld.txt	http://www.jw.org/pl/publikacje/biblia/nwt/
-pol-x-bible-nowagdansk.txt	https://www.bible.com/de/bible/319/gen.1.nbg
-pon-x-bible-new.txt	http://bible.cloud/bible/content/texts/PONPSA/index.html
-pon-x-bible-old.txt	http://bible.cloud/bible/content/texts/PONPJA/index.html
-pon-x-bible.txt	http://bible.cloud/bible/content/texts/PONSSP/index.html
 por-x-bible-almeidaatualizada.txt	http://www.biblegateway.com/versions/?action=getVersionInfo&vid=25
 por-x-bible-kingjames.txt	http://bibliaportugues.com/kja/matthew/1.htm
 por-x-bible-livro.txt	http://www.biblica.com/en-us/bible/online-bible/ol/mateus/1/
-por-x-bible-newworld1996.txt	http://www.jw.org/pt/publicacoes/biblia/bi12/
-por-x-bible-versaofacil.txt	https://www.bible.com/bible/200/mat.1.vfl
-por-x-bible-versaointernacional.txt	https://www.bible.com/bible/129/gen.1.nvi
 pot-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-poy-x-bible.txt	http://bible.cloud/bible/content/texts/POYPBT/index.html
 ppk-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-prf-x-bible.txt	https://www.bible.com/de/bible/438/mat.1.prfnt
-pri-x-bible.txt	https://www.bible.com/de/bible/486/mat.1.print
-prk-x-bible.txt	https://www.bible.com/de/bible/325/mat.1.wcl
-prs-x-bible-todays.txt	http://bibles.org/prs-TDV08/Gen/1
 pse-x-bible.txt	http://de.scribd.com/doc/46461965/Serawai-Bible-New-Testament
-pua-x-bible.txt	https://www.bible.com/de/bible/549/mat.1.pnt
-qub-x-bible.txt	http://www.scriptureearth.org/data/qub
-quc-x-bible-1995.txt	https://www.bible.com/de/bible/490/gen.1.quich1
-quc-x-bible-cantel.txt	http://bible.cloud/bible/content/texts/QUCNEW/index.html
-quf-x-bible.txt	http://www.scriptureearth.org/data/quf
-qug-x-bible-chimborazo.txt	https://www.bible.com/de/bible/262/gen.1.qchi04
-qug-x-bible-chimborazo2010.txt	https://www.bible.com/de/bible/98/mat.1.mtds
-quh-x-bible-1976.txt	http://www.scriptureearth.org/data/quh
-quh-x-bible-chumacharazani.txt	https://www.bible.com/de/bible/263/mat.1.qnbnt
-qul-x-bible-1985.txt	http://www.scriptureearth.org/data/qul http://bibles.org/versions/qul-QULNT
-quy-x-bible.txt	http://www.scriptureearth.org/data/quy
-qvc-x-bible.txt	http://www.scriptureearth.org/data/qvc
-qve-x-bible.txt	http://www.scriptureearth.org/data/qve/
-qvi-x-bible.txt	https://www.bible.com/de/bible/264/gen.1.quii
-qvm-x-bible.txt	http://www.scriptureearth.org/data/qvm
-qvn-x-bible.txt	http://www.scriptureearth.org/data/qvn
-qvs-x-bible.txt	http://www.scriptureearth.org/data/qvs
-qvw-x-bible.txt	http://www.scriptureearth.org/data/qvw
-qvz-x-bible.txt	http://www.scriptureearth.org/data/qvz
-qwh-x-bible.txt	http://www.scriptureearth.org/data/qwh
-qxh-x-bible.txt	http://www.scriptureearth.org/data/qxh https://www.bible.com/de/bible/457/mat.1.qxhnt
-qxn-x-bible.txt	http://www.scriptureearth.org/data/qxn
-qxo-x-bible.txt	http://www.scriptureearth.org/data/qxo
-qxr-x-bible.txt	https://www.bible.com/de/bible/261/gen.1.qca04
-rkb-x-bible.txt	http://www.scriptureearth.org/data/rkb
 rmy-x-bible.txt	http://www.sacred-texts.com/bib/wb/rmi/mat.htm http://www.jesus-army.com/bible/Romani+NT
-ron-x-bible-2006.txt	https://www.bible.com/de/bible/126/gen.1.ntr
 ron-x-bible-cornilescu.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-ron-x-bible-newworld.txt	http://www.jw.org/ro/publicatii/biblia/nwt/
-rop-x-bible.txt	http://aboriginalbibles.org.au/Kriol/Conc/root.htm https://www.bible.com/sk/bible/1362/gen.1
-ruf-x-bibile.txt	http://bible.cloud/bible/content/texts/RUFPBT/index.html
-run-x-bible-newworld.txt	http://www.jw.org/run/ivyasohowe/bibiliya/nwt/
-rus-x-bible-centralasian.txt	https://www.bible.com/bible/385/gen.1.cars
-rus-x-bible-churchslavonic.txt	https://www.bible.com/bible/45/mat.1.cslav
-rus-x-bible-kulakov.txt	https://www.bible.com/bible/313/mat.1.bti
-rus-x-bible-modern2011.txt	https://www.bible.com/bible/201/mat.1.rsp
-rus-x-bible-newworld.txt	http://www.jw.org/ru/публикации/библия/nwt/
-rus-x-bible-slovozhizny2006.txt	https://www.bible.com/bible/143/gen.1.rsz
 rus-x-bible-synodal.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-sag-x-bible-newworld.txt	http://www.jw.org/sg/ambeti-ti-e/bible/nwt/
-sah-x-bible.txt	http://ibtrussia.org/en/text?m=TVN
-sba-x-bible.txt	http://bibles.org/sba-NB89/Matt/1
-sbe-x-bible.txt	http://bible.cloud/bible/content/texts/SBEWBT/index.html
-seh-x-bible.txt	http://bible.cloud/bible/content/texts/SEHWBT/index.html
-sey-x-bible.txt	http://www.scriptureearth.org/data/sey/
-shp-x-bible.txt	http://bibles.org/shp-SHPNTPO/Matt/1
-shu-x-bible.txt	http://bibles.org/shu-SHULATN/Matt/1
-sin-x-bible-newworld.txt	http://www.jw.org/si/ප්%E2%80%8Dරකාශන/බයිබලය/nwt/
-sja-x-bible.txt	http://www.scriptureearth.org/data/sja
-slk-x-bible-catholic.txt	https://www.bible.com/de/bible/163/gen.1.ssv
-slk-x-bible-newworld.txt	http://www.jw.org/sk/publikacie/biblia/nwt/
-slk-x-bible-standard.txt	https://www.bible.com/de/bible/464/gen.1.seb
-slv-x-bible-newworld.txt	http://www.jw.org/sl/publikacije/sveto-pismo/nwt/
-slv-x-bible.txt	https://www.bible.com/de/bible/376/mat.1.jub
 sme-x-bible.txt	https://victorio.uit.no/biggies/trunk/mt/giza/NT/davviNT.txt
-smk-x-bible.txt	https://www.bible.com/de/bible/413/mat.1.smknt
-smo-x-bible-newworld.txt	http://www.jw.org/sm/lomiga/tusi-paia/nwt/
-sna-x-bible-newworld.txt	http://www.jw.org/sn/mabhuku/bhaibheri/nwt/
-sna-x-bible.txt	https://www.bible.com/de/bible/32/gen.1.bsn
-snd-x-bible.txt	http://gospelgo.com/a/sindhi_nt.htm
-snn-x-bible-1982.txt	http://www.scriptureearth.org/data/snn
-snn-x-bible-2009.txt	https://www.bible.com/de/bible/271/mat.1.snnnt
-sot-x-bible-newworld.txt	http://www.jw.org/st/lingoliloeng/bibele/nwt/
-sot-x-bible-southern1961.txt	https://www.bible.com/de/bible/273/gen.1.sso61so
-sot-x-bible-southern1989.txt	https://www.bible.com/de/bible/274/gen.1.sso89so
-spa-x-bible-americas.txt	https://www.bible.com/versions/89
-spa-x-bible-lapalabra.txt	https://www.bible.com/versions/28
-spa-x-bible-newworld.txt	http://www.jw.org/es/publicaciones/biblia/nwt/
-spa-x-bible-nuevadehoi.txt	https://www.bible.com/versions/103
-spa-x-bible-nuevaviviente.txt	https://www.bible.com/versions/127
-spa-x-bible-nuevointernacional.txt	https://www.bible.com/versions/128
-spa-x-bible-reinavaleracontemporanea.txt	https://www.bible.com/versions/146
-spy-x-bible-2011.txt	https://www.bible.com/de/bible/454/gen.1.spynt
-sqi-x-bible-interconfessional.txt	https://www.bible.com/de/bible/292/mat.1.alnt
-sqi-x-bible.txt	https://www.bible.com/de/bible/7/gen.1.albb
-sri-x-bible.txt	http://www.scriptureearth.org/data/sri
-srm-x-bible.txt	http://www.scriptureearth.org/data/srm
-srn-x-bible-newworld.txt	http://www.jw.org/srn/buku-nanga-tra-sani/bijbel/nwt/
-srp-x-bible-newworld.txt	http://download.jw.org/files/media_bible/35/bi12_SBO.epub
-srp-x-bible.txt	https://www.bible.com/de/bible/202/mat.1.sb-erv
-srq-x-bible.txt	http://www.scriptureearth.org/data/srq
-ssg-x-bible.txt	http://www.scriptureearth.org/data/ssg/
-ssw-x-bible-newworld.txt	http://www.jw.org/ss/tincwadzi-letitfolakalako/libhayibheli/nwt/
-ssw-x-bible.txt	http://bibles.org/ssw-SWT/Matt/1
-stp-x-bible.txt	http://www.scriptureearth.org/data/stp
-sun-x-bible-informal.txt	http://alkitab.mobi/2/sunda/
-swe-x-bible-newworld.txt	http://www.jw.org/sv/publikationer/bibeln/nwt/
-swe-x-bible-nyalevande.txt	https://www.bible.com/de/bible/33/mat.1.bsv
 swg-x-bible.txt	http://www.alemannischebibel.de/buecher.html
-swh-x-bible-habarinjema.txt	https://www.bible.com/de/bible/393/gen.1.bhnd
-swh-x-bible-newworld.txt	http://www.jw.org/sw/machapisho/biblia/nwt/
 swh-x-bible-union1952.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-swh-x-bible-union1997.txt	https://www.bible.com/de/bible/164/gen.1.suv
-sxb-x-bible.txt	https://www.bible.com/de/bible/484/mat.1.sxbnt
-sxn-x-bible-sangir.txt	http://gospelgo.com/p/siau_nt.htm
 syc-x-bible.txt	http://biblehub.com/pes/mark/1.htm
-szb-x-bible.txt	http://gospelgo.com/p/ngalum_nt.htm
-tac-x-bible.txt	http://www.scriptureearth.org/data/tac
-tam-x-bible-newworld.txt	http://www.jw.org/ta/வெளியீடுகள்/பைபிள்/nwt/
-tar-x-bible.txt	http://www.scriptureearth.org/data/tar/
-tav-x-bible.txt	http://www.scriptureearth.org/data/tav
-tbg-x-bible.txt	http://www.scriptureearth.org/data/tbg/
-tbl-x-bible.txt	https://www.bible.com/de/bible/288/mat.1.tblnt
-tcs-x-bible.txt	http://torresstraitbibles.org.au/Yumplatok/
-tcz-x-bible.txt	http://www.biblesos.org/tcz/bible/thado-kuki/the-holy-biblein-thado-168/
-tdt-x-bible-newworld.txt	http://www.jw.org/tdt/livru-sira/b%C3%ADblia/nwt/
-tdt-x-bible.txt	http://www.jw.org/tdt/livru-sira/b%C3%ADblia/nwt/livru-sira/
-teo-x-bible.txt	https://www.bible.com/de/bible/436/gen.1.ate61
-tfr-x-bible.txt	http://www.scriptureearth.org/data/tfr
 tgl-x-bible-1905.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-tgl-x-bible-newworld.txt	http://www.jw.org/tl/publikasyon/bibliya/nwt/
-tgp-x-bible.txt	http://vanuatubibles.org/tgp/copyright.htm
-tha-x-bible-easy.txt	https://www.bible.com/versions/203-tha-erv-phrakhristthrrmkhamphiir-chbabaanekhaaaicchngaay-phaakhkhamsayyaaaihm
-tha-x-bible-kjv.txt	https://www.bible.com/versions/175-kjv-phrakhamphiirphaasaaaithychbab-kjv
-tha-x-bible-newcontemporary.txt	https://www.bible.com/versions/179-tncv-phrakhristthrrmkhamphiiraithy-chbabmtthrrmrwmsmay
-tha-x-bible-newworld.txt	http://www.jw.org/th/สิ่งพิมพ์และวีดิทัศน์/ไบเบิล/bi12/
-tha-x-bible-standard1971.txt	https://www.bible.com/versions/275
-tha-x-bible-standard2011.txt	https://www.bible.com/versions/174
-tih-x-bible.txt	http://bibles.org/tih-MTNT/Matt/1
-tir-x-bible-newworld.txt	http://www.jw.org/ti/እዋናዊ/መጽሓፍ-ቅዱስ/nwt/
-tir-x-bible.txt	http://gospelgo.com/f/tigrinya_nt.htm http://www.biblesos.org/ti/bible/tigrinya/the-holy-bible-in-tigrinya-188/
-tku-x-bible.txt	http://www.scriptureearth.org/data/tot
 tlh-x-bible.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/XKL/Klingon%20Version/
-tna-x-bible.txt	http://www.scriptureearth.org/data/tna
-tnn-x-bible.txt	https://www.bible.com/sv/bible/1228/jhn.1
-tob-x-bible.txt	http://bibles.org/tob-TSB/Matt/1
-toc-x-bible.txt	http://www.scriptureearth.org/data/toc
-toj-x-bible.txt	http://www.scriptureearth.org/data/toj
-too-x-bible.txt	http://www.scriptureearth.org/data/too
-top-x-bible.txt	http://www.scriptureearth.org/data/top
-tos-x-bible.txt	http://www.scriptureearth.org/data/tos
-tpi-x-bible-newworld.txt	http://www.jw.org/tpi/buk-magasin-pablikesen/baibel/nwt/
-tqb-x-bible.txt	https://www.bible.com/de/bible/613/jhn.1<dr>http://www.scriptureearth.org/data/gub/
-trc-x-bible.txt	http://www.scriptureearth.org/data/trc
-trq-x-bible.txt	http://www.scriptureearth.org/data/trq
-tsn-x-bible-1908.txt	https://www.bible.com/de/bible/278/gen.1.tsw08no
-tsn-x-bible-1970.txt	https://www.bible.com/de/bible/185/gen.1.tsw70
-tso-x-bible-1929.txt	https://www.bible.com/de/bible/607/mat.1.tso29no
-tso-x-bible-1989.txt	https://www.bible.com/de/bible/418/gen.1.tso89
-tso-x-bible-newworld.txt	http://www.jw.org/ts/minkandziyiso/bibele/nwt/
-tsz-x-bible.txt	http://bibles.org/tsz-PNT/Matt/1
 ttq-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-tuc-x-bible-patabuang.txt	https://www.bible.com/de/versions/473
-tuc-x-bible-patabuyaang.txt	https://www.bible.com/de/versions/470
-tue-x-bible.txt	http://www.scriptureearth.org/data/tue
-tuf-x-bible.txt	http://www.scriptureearth.org/data/tuf
-tui-x-bible.txt	http://bibles.org/tui-TUPB/Matt/1
-tuk-x-bible-cyrillic.txt	http://ibtrussia.org/en/text?m=TKCI
-tuk-x-bible-injil.txt	http://ibtrussia.org/en/text?m=TKLI
-tuk-x-bible-mukaddes.txt	http://ibtrussia.org/en/text?m=TKL
-tuo-x-bible-2009.txt	http://www.scriptureearth.org/data/tuo/
 tur-x-bible-2004.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/TUR/Southern%20Azeri%20Translation/
-tur-x-bible-newworld.txt	http://www.jw.org/tr/yayinlar/kutsal-kitap/nwt/
-twi-x-bible-newworld.txt	http://www.jw.org/tw/nhoma/bible/nwt/
 twi-x-bible.txt	http://www.biblica.com/es-us/la-biblia/biblia-en-linea/hof/matthaeus/1/na-twi/
-txu-x-bible.txt	http://www.scriptureearth.org/data/txu
-tyv-x-bible.txt	http://ibtrussia.org/en/text?m=TVN
-tzh-x-bible-bachajon.txt	https://www.bible.com/de/bible/361/gen.1.tzh
-tzh-x-bible-oxchuc.txt	https://www.bible.com/de/bible/363/gen.1.tzoxch
-tzj-x-bible-eastern.txt	http://www.scriptureearth.org/data/tzj
-tzj-x-bible-western.txt	http://www.scriptureearth.org/data/tzt
-tzo-x-bible-1997.txt	https://www.bible.com/de/bible/382/gen.1.tze97
-tzo-x-bible-chamula.txt	http://www.scriptureearth.org/data/tzc
-tzo-x-bible-chamula2000.txt	https://www.bible.com/de/bible/334/gen.1.tzc00
-tzo-x-bible-chenalho.txt	http://www.scriptureearth.org/data/tze
-tzo-x-bible-huixtan.txt	http://www.scriptureearth.org/data/tzu
-tzo-x-bible-newworld.txt	http://www.jw.org/tzo/vunetik/biblia/nwt/
-tzo-x-bible-zinacantan.txt	http://www.scriptureearth.org/data/tzz
-uig-x-bible-cyrillic.txt	https://www.bible.com/versions/1224
-uig-x-bible-romanized.txt	http://gospelgo.com/a/uyghur_r/mat.htm
 ukr-x-bible-1871.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-ukr-x-bible-2007.txt	https://www.bible.com/de/bible/204/mat.1.umt
 ukr-x-bible-2009.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/RUS/Ukrainian%20Version/
-upv-x-bible.txt	https://www.bible.com/de/bible/525/jhn.1
-urb-x-bible.txt	https://www.bible.com/de/versions/688
-urd-x-bible-devanagari.txt	https://www.bible.com/de/bible/481/gen.1.ugvdv
-urd-x-bible-international.txt	https://www.bible.com/de/bible/187/gen.1.ugv
-urd-x-bible-revised2010.txt	https://www.bible.com/de/bible/189/gen.1.urd
-uzb-x-bible-latin2008.txt	http://ibtrussia.org/en/text?m=UZIBTL
-uzb-x-bible-latin2013.txt	http://ibtrussia.org/en/text?m=UZVL
-uzb-x-bible-newworld.txt	http://www.jw.org/uz-cyrl/адабиётлар/муқаддас-китоб/nwt/
-ven-x-bible-newworld.txt	http://www.jw.org/ve/dzikhandiso/bivhili/nwt/
-ven-x-bible.txt	http://bibles.org/ven-VEN98/Matt/1
-vie-x-bible-1926nocompounds.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain https://www.bible.com/versions/193
 vie-x-bible-2002.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/VIE/New%20Vietnamese%20Bible%20%282002%29/
-vie-x-bible-bandich.txt	https://www.bible.com/de/bible/19/gen.1.bd2011
-vie-x-bible-banphothong.txt	https://www.bible.com/de/bible/205/gen.1.bpt
-vie-x-bible-newworld.txt	http://www.jw.org/vi/an-pham/kinh-thanh/nwt/
-vie-x-bible-revised.txt	https://www.bible.com/de/bible/151/gen.1.rvv11
-vut-x-bible.txt	http://bibles.org/vut-VNT/Matt/1
-wap-x-bible.txt	https://www.bible.com/de/bible/451/mat.1.wapnt
-war-x-bible-newworld.txt	http://www.jw.org/war/publikasyon/biblia/nwt/
-wbm-x-bible.txt	https://www.bible.com/de/bible/325/gen.1.wcl
-wbp-x-bible.txt	http://aboriginalbibles.org.au/Warlpiri/
-whk-x-bible.txt	http://gospelgo.com/a/kenyah_nt.htm https://www.bible.com/bible/918/mat.1.knt
 wol-x-bible.txt	http://www.sacred-texts.com/bib/wb/wlf/index.htm
 xbr-x-bible.txt	http://amazinggracebibleinstitute.com/unicode/kambera_nt.htm
-xho-x-bible-1996.txt	https://www.bible.com/de/bible/282/gen.1.xho96
 xho-x-bible-2012.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
-xho-x-bible-newworld.txt	http://www.jw.org/xh/iimpapasho/ibhayibhile/nwt/
-xtd-x-bible.txt	http://www.scriptureearth.org/data/xtd
-xtm-x-bible.txt	http://bibles.org/xtm-XTMNTPP/Matt/1
-yaa-x-bible.txt	https://www.bible.com/de/bible/679/mat.1.yaant
-yad-x-bible.txt	http://www.scriptureearth.org/data/yad
-yan-x-bible.txt	http://bibles.org/yan-SUMU/Matt/1
-yaq-x-bible.txt	http://www.scriptureearth.org/data/yaq
-ycn-x-bible.txt	http://www.scriptureearth.org/data/ycn
-yor-x-bible-2010.txt	https://www.bible.com/de/bible/207/gen.1.yce
-yor-x-bible-newworld.txt	http://www.jw.org/yo/ìwé/b%C3%ADbélì/nwt/
-yre-x-bible.txt	http://bible.cloud/bible/content/texts/YREWBT/index.html
-yrk-x-bible.txt	http://ibtrussia.org/en/text?m=NEN
-yua-x-bible-newworld.txt	http://www.jw.org/yua/jóoʼsaʼaniloʼob/biblia-maya/nwt/
-yua-x-bible.txt	https://www.bible.com/de/bible/324/gen.1.mayabi
-yva-x-bible.txt	https://www.bible.com/de/bible/475/mat.1.yvant
-zaa-x-bible.txt	http://bible.cloud/bible/content/texts/ZAATBL/index.html
-zae-x-bible.txt	https://www.bible.com/de/versions/1353 http://www.wycliffe.org
-zar-x-bible.txt	http://www.scriptureearth.org/data/zar
-zas-x-bible.txt	http://www.scriptureearth.org/data/zas
-zat-x-bible.txt	http://www.scriptureearth.org/data/zat
-zav-x-bible.txt	http://www.scriptureearth.org/data/zav
-zca-x-bible.txt	https://www.bible.com/de/bible/857/mat.1.zcant
-zho-x-bible-contemp.txt	https://www.bible.com/de/versions/1392 http://www.Biblica.com
-zho-x-bible-new.txt	https://www.bible.com/de/versions/40 http://www.wwbible.org
-zho-x-bible-newworld.txt	http://www.jw.org/yue-hant/出版物/聖經/nwt/聖經經卷/
-zho-x-bible-orthodox.txt	https://www.bible.com/de/versions/1580
-zho-x-bible-revised.txt	https://www.bible.com/de/versions/139 http://www.hkbs.org.hk
-zho-x-bible-shangti.txt	https://www.bible.com/de/versions/414 http://www.hkbs.org.hk
-zho-x-bible-shen.txt	https://www.bible.com/de/versions/46 http://www.hkbs.org.hk
-zho-x-bible-standard.txt	https://www.bible.com/de/versions/312 http://www.globalbibleinitiative.org
-ziw-x-bible.txt	https://www.bible.com/versions/1035
-zom-x-bible.txt	https://www.bible.com/de/bible/208/mat.1
-zos-x-bible.txt	http://www.scriptureearth.org/data/zos
-zpc-x-bible.txt	http://www.scriptureearth.org/data/zpc
-zpl-x-bible.txt	http://www.scriptureearth.org/data/zpl
-zpo-x-bible.txt	http://www.scriptureearth.org/data/zpo
-zpq-x-bible.txt	http://www.scriptureearth.org/data/zpq
-zpt-x-bible.txt	https://www.bible.com/de/versions/1398 http://www.wycliffe.org
-zpv-x-bible.txt	http://www.scriptureearth.org/data/zpv
-zsr-x-bible.txt	http://www.scriptureearth.org/data/zsr
-ztq-x-bible.txt	http://www.scriptureearth.org/data/ztq
-zty-x-bible.txt	http://www.scriptureearth.org/data/zty
-zul-x-bible-newworld.txt	http://www.jw.org/zu/izincwadi/ibhayibheli/nwt/
 zul-x-bible.txt	https://bibles.biblesociety.co.za/es/versions/286
-zyp-x-bible.txt	http://bible.cloud/bible/content/texts/ZYPWBT/index.html
