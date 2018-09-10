@@ -19,7 +19,6 @@ from biblecrawler.crawler_general import BibleCrawler
 from biblecrawler.parser_general import BibleParser
 
 class PNGScriptCrawl(BibleCrawler,BibleParser):
-    SLEEPTIME = 4  # seconds
     log=[]
 
     def __init__(self, triple, print=False):
@@ -44,14 +43,21 @@ class PNGScriptCrawl(BibleCrawler,BibleParser):
         return None
 
     @staticmethod
-    def parallel_crawl(triples, num_p):
-        print ('Start parallel crawling..')
-        pool = Pool(processes=num_p)
-        res=[]
-        for x in tqdm.tqdm(pool.imap_unordered(PNGScriptCrawl, triples, chunksize=num_p),total=len(triples)):
-            res.append(x)
-        pool.close()
-        FileUtility.save_list(triples[0][1]+'log.txt',PNGScriptCrawl.log)
+    def parallel_crawl(triples, num_p, override=False):
+        if not override:
+            new_list=[]
+            for x,y,z in triples:
+                if not FileUtility.exists(y+z):
+                    new_list.append((x,y,z))
+            triples=new_list
+        if len(triples)>0:
+            print ('Start parallel crawling..')
+            pool = Pool(processes=num_p)
+            res=[]
+            for x in tqdm.tqdm(pool.imap_unordered(PNGScriptCrawl, triples, chunksize=num_p),total=len(triples)):
+                res.append(x)
+            pool.close()
+            FileUtility.save_list(triples[0][1]+'log.txt',PNGScriptCrawl.log)
 
 
     @staticmethod
@@ -157,4 +163,4 @@ class PNGScriptCrawl(BibleCrawler,BibleParser):
 if __name__ == '__main__':
 
     triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/pngscript/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/handled_pngscriptures.org.txt')]
-    PNGScriptCrawl.sequential_crawl(triple)
+    PNGScriptCrawl.parallel_crawl(triple,5)

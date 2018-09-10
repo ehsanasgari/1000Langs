@@ -11,7 +11,7 @@ from lxml import html
 
 
 class BibleCrawler(object):
-    SLEEPTIME = 4  # seconds
+    SLEEPTIME = 0  # seconds
     log = []
     def run_crawler(self, nextpath, url, destination_directory):
 
@@ -40,7 +40,7 @@ class BibleCrawler(object):
                     print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
                 BibleCrawler.log.append(
                     '\t'.join([self.output_file, 'Error', str(url), str(response.url), str(response.status_code)]))
-                sys.exit(1)
+                return
             self.save_response(response, destination_directory)
             url = self.get_next_url(response)
             if not url or not url.startswith('http'):

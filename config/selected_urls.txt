@@ -1,0 +1,3 @@
+btx-x-bible.txt	http://alkitab.mobi/karo/
+arz-x-bible.txt	http://www.bible.is/ARZVDV/Mark/1
+nhr-x-bible.txt	http://bible.cloud/bible/content/texts/NHRBSB/index.html

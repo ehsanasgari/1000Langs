@@ -17,7 +17,7 @@ import tqdm
 
 
 class BibleIsCrawl(object):
-    SLEEPTIME = 4  # seconds
+    SLEEPTIME = 0  # seconds
     log=[]
 
     def __init__(self, triple, print=False):
@@ -38,7 +38,7 @@ class BibleIsCrawl(object):
         books=self.destination_directory + self.lang_directory
         self.run_parser(books, self.output_file )
         # remove the directory
-        FileUtility.remove_dir(self.destination_directory + self.lang_directory)
+        # FileUtility.remove_dir(self.destination_directory + self.lang_directory)
         return None
 
     @staticmethod
@@ -51,13 +51,14 @@ class BibleIsCrawl(object):
                     new_list.append((x,y,z))
             triples=new_list
 
-        print ('Start parallel crawling..')
-        pool = Pool(processes=num_p)
-        res=[]
-        for x in tqdm.tqdm(pool.imap_unordered(BibleIsCrawl, triples, chunksize=num_p),total=len(triples)):
-            res.append(x)
-        pool.close()
-        FileUtility.save_list(triples[0][1]+'log.txt',BibleIsCrawl.log)
+        if len(triples)>0:
+            print ('Start parallel crawling..')
+            pool = Pool(processes=num_p)
+            res=[]
+            for x in tqdm.tqdm(pool.imap_unordered(BibleIsCrawl, triples, chunksize=num_p),total=len(triples)):
+                res.append(x)
+            pool.close()
+            FileUtility.save_list(triples[0][1]+'log.txt',BibleIsCrawl.log)
 
     @staticmethod
     def sequential_crawl(triples, override=False):
@@ -98,7 +99,7 @@ class BibleIsCrawl(object):
                     print('Error', url, response.url, response.status_code, file=sys.stderr)
                     print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
                 BibleIsCrawl.log.append('\t'.join([self.output_file, 'Error', str(url), str(response.url), str(response.status_code)]))
-                sys.exit(1)
+                return
             self.save_response(response, destination_directory)
             url = self.get_next_url(response)
             if not url or not url.startswith('http'):
@@ -109,6 +110,7 @@ class BibleIsCrawl(object):
             time.sleep(BibleIsCrawl.SLEEPTIME)
         if self.print:
             print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
+
 
     def get_filename(self, url, base_dir):
         """Derive a filename from the given URL"""
@@ -241,4 +243,4 @@ class BibleIsCrawl(object):
 if __name__ == '__main__':
 
     triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/bibleis/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/handled_bible.is.txt')]
-    BibleIsCrawl.sequential_crawl(triple)
+    BibleIsCrawl.parallel_crawl(triple,10)

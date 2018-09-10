@@ -19,7 +19,6 @@ from biblecrawler.crawler_general import BibleCrawler
 from biblecrawler.parser_general import BibleParser
 
 class BibleISCrawl(BibleCrawler,BibleParser):
-    SLEEPTIME = 4  # seconds
     log=[]
 
     def __init__(self, triple, print=False):
@@ -37,14 +36,20 @@ class BibleISCrawl(BibleCrawler,BibleParser):
         # crawl the pages
         BibleCrawler.run_crawler(self,'//a[@class = "chapter-nav-right"]/@href',self.url, self.destination_directory)
         # parse the output file
-        #books=self.destination_directory + self.lang_directory
-        #self.run_parser(books, self.output_file )
+        books=self.destination_directory + self.lang_directory
+        self.run_parser(books, self.output_file )
         # remove the directory
         #FileUtility.remove_dir(self.destination_directory + self.lang_directory)
         return None
 
     @staticmethod
-    def parallel_crawl(triples, num_p):
+    def parallel_crawl(triples, num_p, override=False):
+        if not override:
+            new_list=[]
+            for x,y,z in triples:
+                if not FileUtility.exists(y+z):
+                    new_list.append((x,y,z))
+            triples=new_list
         print ('Start parallel crawling..')
         pool = Pool(processes=num_p)
         res=[]
@@ -74,4 +79,4 @@ class BibleISCrawl(BibleCrawler,BibleParser):
 if __name__ == '__main__':
 
     triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/bibleis/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/handled_bible.is.txt')]
-    BibleISCrawl.sequential_crawl([triple[1]])
+    BibleISCrawl.parallel_crawl(triple,5)
