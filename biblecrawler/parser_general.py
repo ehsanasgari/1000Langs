@@ -31,3 +31,4 @@ class BibleParser(object):
                     alt_name = alt_name.lower()
                     books2numbers[alt_name] = book_number
         return books2numbers
+

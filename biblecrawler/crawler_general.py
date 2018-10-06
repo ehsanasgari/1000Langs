@@ -5,7 +5,7 @@ import os.path
 import sys
 import time
 from urllib.parse import urljoin, urlsplit
-
+import urllib
 import requests
 from lxml import html
 
@@ -13,10 +13,10 @@ from lxml import html
 class BibleCrawler(object):
     SLEEPTIME = 0  # seconds
     log = []
-    def run_crawler(self, nextpath, url, destination_directory):
-
+    def run_crawler(self, nextpath, url, destination_directory, ifbiblecom=False):
+        self.JW=False
         self.nextpath=nextpath
-
+        self.ifbiblecom=ifbiblecom
         session = requests.Session()
         session.headers.update({'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0',
                                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -66,14 +66,42 @@ class BibleCrawler(object):
         return filename
 
     def save_response(self, response, base_dir):
+
         filename = self.get_filename(response.url, base_dir)
-        with open(filename, 'wb') as f:
-            f.write(response.content)
+
+        if self.JW:
+            #try to save only a part of the response
+            tree = html.fromstring(response.content)
+            text_divs = tree.xpath('//div[@id="bibleText"]')
+            text_div = text_divs[0] if text_divs else None
+            if text_div is not None:
+                with open(filename, 'wb') as f:
+                    f.write(etree.tostring(text_div))
+            else:
+                with open(filename, 'wb') as f:
+                    f.write(handle.write(response.content))
+        else:
+            with open(filename, 'wb') as f:
+                f.write(response.content)
+
 
     def get_next_url(self, response):
         tree = html.fromstring(response.content)
-        xpath_result = list(set(tree.xpath(self.nextpath)))
-        relevant = xpath_result[0] if len(xpath_result) == 1 else None
+        if self.JW:
+            link = tree.xpath('//div[@class="navLinkNext"]/a/@href')
+            if link:
+                url = urllib.parse.urljoin(response.url, link[0])
+            else:
+                url = None
+            return url
+        elif not self.ifbiblecom:
+            xpath_result = list(set(tree.xpath(self.nextpath)))
+            relevant = xpath_result[0] if len(xpath_result) == 1 else None
+        else:
+            xpath_result = tree.xpath('//a[contains(@class, "bible-nav-button nav-right fixed dim br-100 ba b--black-20 pa2 pa3-m flex items-center justify-center bg-white right-1")]//@href')
+            relevant = xpath_result[0] if len(xpath_result) >= 1 else None
+            #mydivs = soup.findAll("a", {"class": 'bible-nav-button nav-right fixed dim br-100 ba b--black-20 pa2 pa3-m flex items-center justify-center bg-white right-1'})
+            #print ('Yes', 'bible-nav-button nav-right fixed dim br-100 ba b--black-20 pa2 pa3-m flex items-center justify-center bg-white right-1' in str(response.content))
         if relevant:
             return urljoin(response.url, relevant)
         else:

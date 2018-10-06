@@ -1,3 +1,5 @@
+ksw-x-bible.txt	http://www.myanmarbible.com/bible/SgawKaren/html/index.html
+eng-x-bible-basic.txt	http://www.o-bible.com/bbe.html
 afr-x-bible-1953.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 afr-x-bible-1983.txt	https://bibles.biblesociety.co.za/de/bible/6/mrk.1.1-8.afr83
 afr-x-bible-viralmal.txt	https://bibles.biblesociety.co.za/de/bible/2/mrk.1.aba
@@ -20,9 +22,14 @@ ces-x-bible-preklad.txt	http://unbound.biola.edu/index.cfm?method=downloads.show
 cha-x-bible-1908.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 cha-x-bible-2010.txt	http://sourceforge.net/projects/zefania-sharp/files/Bibles/CHA/
 chu-x-bible.txt	bibleonline.ru/bible/csl/41/01/
+cfm-x-bible.txt	http://www.myanmarbible.com/bible/Falam/html/index.html
 cop-x-bible-bohairic.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 cop-x-bible-bohairicdiacritics.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 cop-x-bible-sahidic.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+cnh-x-bible.txt	http://www.myanmarbible.com/bible/Hakha/html/index.html
+cnw-x-bible.txt	http://www.myanmarbible.com/bible/Ngawn/html/NT/Matthew/Matthew001.html
+csy-x-bible.txt	http://www.myanmarbible.com/bible/Sizang/html/index.html
+czt-x-bible.txt	http://www.myanmarbible.com/bible/bible.php?version=Zotung&testament=NT&book=Mark&chapter=1
 dak-x-bible.txt	http://www.bushfarms.com/dakotawowapiwakan.htm
 dan-x-bible-1931.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 deu-x-bible-bolsinger.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
@@ -137,6 +144,7 @@ lav-x-bible.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownload
 lex-x-bible.txt	http://ebible.org/Scriptures/lex_usfx.zip
 lit-x-bible-tikejimozodis.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
 luo-x-bible.txt	http://jesusforafrica.net/luo/matthew.htm http://www.worldscriptures.org/pages/dholuo.html
+mal-x-bible.txt	http://gujaratibible.com/Malayalam-Transliteration/
 mhy-x-bible.txt	http://de.scribd.com/doc/78663612/Maanyan-Bible-New-Testament
 min-x-bible.txt	http://agapekoor.files.wordpress.com/2013/06/bahasa-minangkabau_pb.pdf
 mlt-x-bible.txt	http://www.laikos.org/Bibbja-TG.htm
