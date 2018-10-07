@@ -23,7 +23,7 @@ if __name__ == '__main__':
     sparse=[]
     for file in tqdm.tqdm(bible_files):
         res=[1 if l.split()[1:3]==['1','1'] else 0 for l in FileUtility.load_list(file)[1::] if l.split()[1:3]==['1','0'] or l.split()[1:3]==['1','1']]
-        if np.mean(res) < 0.9:
+        if np.mean(res) < 0.99:
             sparse.append('\t'.join([tr_file_dict[file.split('/')[-1]],file.split('/')[-1],str(round(np.mean(res),2))]))
     sparse.sort()
     FileUtility.save_list('sparse_translations.txt',sparse)

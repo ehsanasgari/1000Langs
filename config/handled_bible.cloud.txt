@@ -30,7 +30,7 @@ fuh-x-bible.txt	http://bible.cloud/inscript/content/texts/FUHSIM/MT1.html
 geb-x-bible.txt	http://bible.cloud/inscript/content/texts/GEBPBT/MT1.html
 glk-x-bible.txt	http://bible.cloud/inscript/content/texts/GLKWBT/MT1.html
 heg-x-bible.txt	http://bible.cloud/inscript/content/texts/HEGWBT/MT1.html
-hin-x-bible-easy.txt	http://bible.cloud/inscript/content/texts/HNDWTC/MT1.html
+hin-x-bible-easy.txt http://bible.cloud/inscript/content/texts/HNDWTC/MT1.html
 ikk-x-bible.txt	http://bible.cloud/inscript/content/texts/IKKWBT/MT1.html
 ikw-x-bible.txt	http://bible.cloud/inscript/content/texts/IKWWBT/MT1.html
 ilo-x-bible-popular.txt	http://bible.cloud/inscript/content/texts/ILOMBC/MT1.html
