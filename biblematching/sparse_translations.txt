@@ -1,13 +1,3 @@
-http://bible.cloud/bible/content/texts/AZBBSA/index.html	aze-x-bible-latin.txt	0.98
-http://bible.cloud/bible/content/texts/BGSWBT/index.html	bgs-x-bible.txt	0.95
-http://bible.cloud/bible/content/texts/BLWWBT/index.html	blw-x-bible.txt	0.92
-http://bible.cloud/bible/content/texts/LBKWBT/index.html	lbk-x-bible.txt	0.82
-http://bible.cloud/bible/content/texts/MPPWBT/index.html	mpp-x-bible.txt	0.98
-http://bible.cloud/bible/content/texts/NYUWBT/index.html	nyu-x-bible.txt	0.42
-http://bible.cloud/bible/content/texts/PMAWBT/index.html	pma-x-bible.txt	0.65
-http://bible.cloud/bible/content/texts/PONPJA/index.html	pon-x-bible-old.txt	0.9
-http://bible.cloud/bible/content/texts/PONSSP/index.html	pon-x-bible.txt	0.98
-http://bible.cloud/bible/content/texts/ZYPWBT/index.html	zyp-x-bible.txt	0.91
 http://bibles.org/versions/djr-DJNT/	djr-x-bible.txt	0.0
 http://bibles.org/versions/mcn-MASSANA	mcn-x-bible.txt	0.0
 http://ibtrussia.org/en/text?m=CHE	che-x-bible.txt	0.0

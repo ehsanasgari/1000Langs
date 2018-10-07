@@ -11,13 +11,15 @@ import codecs
 from multiprocessing import Pool
 import tqdm
 import re
-from biblecrawler.crawler_general import BibleCrawler
-from biblecrawler.parser_general import BibleParser
+from biblecrawler.general_crawler import BibleCrawler
+from biblecrawler.general_parser import BibleParser
 
 
 class BibleCloud(BibleCrawler, BibleParser):
+    '''
+    Crawler for bible.cloud website
+    '''
     log = []
-
     def __init__(self, triple, crawl=True, parse=True, remove_after_parse=False, printing=False):
         '''
         :param url:
@@ -32,8 +34,7 @@ class BibleCloud(BibleCrawler, BibleParser):
             # crawl the pages
             # to be fixed
             if crawl:
-                BibleCrawler.run_crawler(self, '//a[@class = "next"]/@href', self.url, self.destination_directory,
-                                     ifbiblecom=False)
+                BibleCrawler.run_crawler(self, '//a[@class = "next"]/@href', self.url, self.destination_directory)
             if parse:
                 # find the lang ID in the website
                 self.lang_directory = '/'.join(self.url.split('/')[3:7]) + '/'
@@ -184,5 +185,5 @@ class BibleCloud(BibleCrawler, BibleParser):
 
 if __name__ == '__main__':
     triple = [(l.split()[1], '/mounts/data/proj/asgari/final_proj/000_datasets/testbib/biblecloud/', l.split()[0]) for l
-              in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/biblecloud_remained.txt')]
+              in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/finalized_urls/biblecloud.txt')]
     BibleCloud.parallel_crawl(triple, True, 30)
