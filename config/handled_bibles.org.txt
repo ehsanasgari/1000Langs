@@ -1,9 +1,5 @@
 agw-x-bible.txt	http://bibles.org/agw-KCB/Gen/int
-aly-x-bible.txt	http://aboriginalbibles.org.au/Alyawarr/
-amx-x-bible.txt	http://aboriginalbibles.org.au/Anmatyerr/
 anv-x-bible.txt	http://bibles.org/anv-ANVNT/Matt/1
-aoi-x-bible.txt	http://aboriginalbibles.org.au/Anindilyakwa/
-are-x-bible.txt	http://aboriginalbibles.org.au/Western%20Arrarnta/
 bbc-x-bible.txt	http://bibles.org/bbc-BBC/Gen/Bind
 bmb-x-bible.txt	http://bibles.org/bmb-NTB/Matt/1
 bmr-x-bible.txt	http://bibles.org/bmr-BMRNT/Matt/1
@@ -16,10 +12,8 @@ fon-x-bible.txt	http://bibles.org/fon-FON/Matt/1
 giz-x-bible.txt	http://bibles.org/giz-BEGDC/Matt/1
 gkp-x-bible.txt	http://bibles.org/gkp-KWB/Matt/1
 gle-x-bible.txt	http://bibles.org/gle-ADN/Gen/1
-gnn-x-bible.txt	http://aboriginalbibles.org.au/Gumatj/
 gud-x-bible.txt	http://bibles.org/gut-DNT/Matt/1
 gvl-x-bible.txt	http://bibles.org/gvl-GUL/Matt/1
-gvn-x-bible.txt	http://aboriginalbibles.org.au/Kuku%20Yalanji/
 gya-x-bible.txt	http://bibles.org/gya-GB11/Matt/1
 jic-x-bible.txt	http://bibles.org/versions/jic-JICNT
 jra-x-bible.txt	http://bibles.org/jra-JNT/Matt/1
@@ -36,7 +30,6 @@ mck-x-bible.txt	http://bibles.org/mck-MBB/Matt/1
 mkl-x-bible.txt	http://af.bibles.org/versions/mkl-MNKNT
 mqy-x-bible.txt	http://bibles.org/mqy-BMNT/Matt/1
 mtp-x-bible.txt	http://bibles.org/mtp-WHYK/Matt/1
-mwf-x-bible.txt	http://aboriginalbibles.org.au/Murrinhpatha/
 mzh-x-bible.txt	http://bibles.org/mzh-WCHB/Matt/1
 nno-x-bible-1978.txt	http://bibles.org/nno-N78NN/Matt/1
 ots-x-bible.txt	http://bibles.org/ots-OTSNT/Matt/1
@@ -55,6 +48,5 @@ tsz-x-bible.txt	http://bibles.org/tsz-PNT/Matt/1
 tui-x-bible.txt	http://bibles.org/tui-TUPB/Matt/1
 ven-x-bible.txt	http://bibles.org/ven-VEN98/Matt/1
 vut-x-bible.txt	http://bibles.org/vut-VNT/Matt/1
-wbp-x-bible.txt	http://aboriginalbibles.org.au/Warlpiri/
 xtm-x-bible.txt	http://bibles.org/xtm-XTMNTPP/Matt/1
 yan-x-bible.txt	http://bibles.org/yan-SUMU/Matt/1

@@ -34,12 +34,12 @@ class BibleCloud(BibleCrawler,BibleParser):
             self.print=printing
             # crawl the pages
             # to be fixed
-            #BibleCrawler.run_crawler(self,'//a[@class = "next"]/@href',self.url, self.destination_directory, ifbiblecom=False)
+            BibleCrawler.run_crawler(self,'//a[@class = "next"]/@href',self.url, self.destination_directory, ifbiblecom=False)
             # find the lang ID in the website
             self.lang_directory ='/'.join(self.url.split('/')[3:7])+'/'
-            #self.url=self.url[self.url.find('.com')+5::]
-            #if '.' in self.url.split('/')[-1]:
-            #    self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
+            self.url=self.url[self.url.find('.com')+5::]
+            if '.' in self.url.split('/')[-1]:
+                self.lang_directory = '/'.join(self.url.split('/')[3:-1])+'/'
             books=self.destination_directory + self.lang_directory
             self.run_parser(books, self.output_file)
             # parse the output file
@@ -166,5 +166,5 @@ class BibleCloud(BibleCrawler,BibleParser):
 
 
 if __name__ == '__main__':
-    triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/biblecloud/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/handled_bible.cloud.txt')]
-    BibleCloud.sequential_crawl(triple,False)
+    triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/biblecloud/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/bible.cloud_remained.txt')]
+    BibleCloud.parallel_crawl(triple,True,30)

@@ -112,7 +112,7 @@ if __name__ == '__main__':
     global AccBible
     AccBible = AccessBible(AccessBible.path)
     miss_matches=[]
-    for website in ['biblecloud','biblecom','bibleis','pngscript','bibleis']:
+    for website in ['biblecloud']:#,'biblecom','bibleis','pngscript','bibleis'
         miss_matches+=[website+'---------------------------------------------']
         files=FileUtility.recursive_glob('/mounts/data/proj/asgari/final_proj/000_datasets/testbib/'+website+'/','*.txt')
         corrects=[]

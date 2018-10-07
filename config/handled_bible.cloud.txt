@@ -1,6 +1,6 @@
 abx-x-bible.txt	http://bible.cloud/inscript/content/texts/ABXWBT/MT1.html
 agt-x-bible.txt	http://bible.cloud/inscript/content/texts/AGTWBT/MT1.html
-aii-x-bible.txt	http://bible.cloud/inscript/content/texts/AIIABT/MT1.html
+aii-x-bible.txt	https://bible.cloud/inscript/content/texts/AIIWBT/MT1.html
 amf-x-bible.txt	http://bible.cloud/inscript/content/texts/AMFSIM/MT1.html
 amk-x-bible.txt	http://bible.cloud/inscript/content/texts/AMKWBT/MT1.html
 amn-x-bible-naineri.txt	http://bible.cloud/inscript/content/texts/AMNNAI/MT1.html

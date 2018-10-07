@@ -1,3 +1,11 @@
+aoi-x-bible.txt	http://aboriginalbibles.org.au/Anindilyakwa/
+are-x-bible.txt	http://aboriginalbibles.org.au/Western%20Arrarnta/
+aly-x-bible.txt	http://aboriginalbibles.org.au/Alyawarr/
+amx-x-bible.txt	http://aboriginalbibles.org.au/Anmatyerr/
+gnn-x-bible.txt	http://aboriginalbibles.org.au/Gumatj/
+gvn-x-bible.txt	http://aboriginalbibles.org.au/Kuku%20Yalanji/
+mwf-x-bible.txt	http://aboriginalbibles.org.au/Murrinhpatha/
+wbp-x-bible.txt	http://aboriginalbibles.org.au/Warlpiri/
 ksw-x-bible.txt	http://www.myanmarbible.com/bible/SgawKaren/html/index.html
 eng-x-bible-basic.txt	http://www.o-bible.com/bbe.html
 afr-x-bible-1953.txt	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
