@@ -35,7 +35,7 @@ big-x-bible.txt	http://pngscriptures.org/big/MAT01.htm
 bjp-x-bible.txt	http://pngscriptures.org/tgg/MAT01.htm
 bjr-x-bible.txt	http://pngscriptures.org/bjr/MAT01.htm
 bmh-x-bible.txt	http://pngscriptures.org/bmh/MAT01.htm
-bmk-x-bible.txt	http://pngscriptures.org/bmk/MAT01.htm
+bmk-x-bible.txt	http://pngscriptures.org/bmk/MRK01.htm
 bmu-x-bible.txt	http://pngscriptures.org/bmu/MAT01.htm
 bnp-x-bible.txt	http://pngscriptures.org/bnp/MAT01.htm
 boj-x-bible.txt	http://www.pngscriptures.org/boj/MAT01.htm

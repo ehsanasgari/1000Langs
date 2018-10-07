@@ -72,7 +72,6 @@ class BibleCloud(BibleCrawler,BibleParser):
 
     @staticmethod
     def sequential_crawl(triples, override=False):
-
         if not override:
             new_list=[]
             for x,y,z in triples:
