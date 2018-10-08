@@ -7,7 +7,5 @@ files=FileUtility.recursive_glob('/mounts/data/proj/asgari/superparallelproj/par
 urls=[]
 for f in tqdm.tqdm(files):
     urls+=['\t'.join([l,f.split('/')[-1][0:3],f.split('/')[-1]]) for l in  FileUtility.load_list(f)[0:30] if 'url' in l.lower()]
-
 urls.sort()
-
 FileUtility.save_list('config/url.txt',urls)

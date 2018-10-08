@@ -112,7 +112,7 @@ if __name__ == '__main__':
     global AccBible
     AccBible = AccessBible(AccessBible.path)
     miss_matches=[]
-    for website in ['pngscript']#['bibleis','biblecom','pngscript','biblecloud']:
+    for website in ['pngscript','bibleis','biblecom','pngscript','biblecloud']:
         miss_matches+=[website+'---------------------------------------------']
         files=FileUtility.recursive_glob('/mounts/data/proj/asgari/final_proj/000_datasets/testbib/'+website+'/','*.txt')
         corrects=[]
@@ -120,7 +120,7 @@ if __name__ == '__main__':
 
         pool = Pool(processes=10)
         for bible_file , translation,miss_match in tqdm.tqdm(pool.imap_unordered(get_diff, files, chunksize=10),total=len(files)):
-            FileUtility.save_list('/mounts/data/proj/asgari/final_proj/000_datasets/testbib/extracted_bibles/'+bible_file.split('/')[-1],translation)
+            FileUtility.save_list('/mounts/data/proj/asgari/superparallelproj/crawled/'+bible_file.split('/')[-1],translation)
             miss_matches+=miss_match
     FileUtility.save_list('found.txt',miss_matches)
     pool.close()
