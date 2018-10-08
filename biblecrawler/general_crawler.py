@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """Crawl bibles hosted on http://pngscriptures.org."""
-
+import sys
+sys.path.append('../')
 import os.path
 import sys
 import time
 import urllib
 from urllib.parse import urljoin, urlsplit
+from utility.file_utility import FileUtility
+from utility.file_utility import FileUtility
 
 import requests
 from lxml import html
@@ -23,22 +26,25 @@ class BibleCrawler(object):
         :param website:
         :return:
         '''
+        self.url=url
         self.nextpath = nextpath
         self.website = website
+        self.counter=-1
         session = requests.Session()
         session.headers.update({'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0',
                                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
                                 'Accept-Language': 'en-US,en;q=0.5'})
         if self.print:
             print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
-        seen = set()
+        self.seen = set()
+        self.useless_url = set()
         while True:
-            if url in seen:
+            if (url in self.seen and  not self.website == 'PNG') or (self.website == 'PNG' and self.counter>=1188):
                 if self.print:
                     print('Break on seen url:', url, file=sys.stderr)
                 BibleCrawler.log.append('\t'.join([self.output_file, 'Break on seen url:', str(url)]))
                 break
-            seen.add(url)
+            self.seen.add(url)
             if self.print:
                 print(url)
             response = session.get(url)
@@ -48,17 +54,43 @@ class BibleCrawler(object):
                     print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
                 BibleCrawler.log.append(
                     '\t'.join([self.output_file, 'Error', str(url), str(response.url), str(response.status_code)]))
-                return
+                if self.website == 'PNG':
+                    url=self.jump_url()
+                    if not url:
+                        return
+                else:
+                    return
             self.save_response(response, destination_directory)
             url = self.get_next_url(response)
             if not url or not url.startswith('http'):
                 if self.print:
                     print('Break on invalid url:', url, file=sys.stderr)
                 BibleCrawler.log.append('\t'.join([self.output_file, 'Break on invalid url:', str(url)]))
-                break
+                url=self.jump_url()
+                if not url:
+                    break
             time.sleep(BibleCrawler.SLEEPTIME)
         if self.print:
             print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
+
+    def jump_url(self):
+        '''
+        :return:
+        '''
+        while self.counter < 1188:
+            self.counter+=1
+            url_select='/'.join(self.url.split('/')[0:-1])+'/'+FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/finalized_urls/pngscript_filenames.txt')[self.counter]
+            if url_select not in self.seen and url_select not in self.useless_url:
+                if requests.get(url_select).status_code==404:
+                    if requests.get('/'.join(self.url.split('/')[0:-1])).status_code==404:
+                        self.counter=1189
+                        return None
+                    self.useless_url.add(url_select)
+                else:
+                    url=url_select
+                    self.useless_url.add(url)
+                    return url
+        return None
 
     def get_filename(self, url, base_dir):
         '''
@@ -111,13 +143,13 @@ class BibleCrawler(object):
             else:
                 url = None
             return url
-        elif self.website == 'bible.com':
+        elif self.website == 'bible.com' or self.website=='bible.org':
             xpath_result = tree.xpath(
                 '//a[contains(@class, "bible-nav-button nav-right fixed dim br-100 ba b--black-20 pa2 pa3-m flex items-center justify-center bg-white right-1")]//@href')
             relevant = xpath_result[0] if len(xpath_result) >= 1 else None
             # mydivs = soup.findAll("a", {"class": 'bible-nav-button nav-right fixed dim br-100 ba b--black-20 pa2 pa3-m flex items-center justify-center bg-white right-1'})
             # print ('Yes', 'bible-nav-button nav-right fixed dim br-100 ba b--black-20 pa2 pa3-m flex items-center justify-center bg-white right-1' in str(response.content))
-        elif self.website == 'generic':
+        elif self.website == 'generic' or self.website == 'PNG':
             xpath_result = list(set(tree.xpath(self.nextpath)))
             relevant = xpath_result[0] if len(xpath_result) == 1 else None
         if relevant:

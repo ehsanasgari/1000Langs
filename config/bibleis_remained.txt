@@ -1,2 +1,0 @@
-chk-x-bible.txt https://bible.cloud/inscript/content/texts/CHKBSM/GN1.html
-pma-x-bible.txt https://bible.cloud/inscript/content/texts/PMAWBT/RT1.html

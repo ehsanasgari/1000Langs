@@ -1,0 +1,10 @@
+# No text anymore
+bibleis dur-x-bible.txt http://listen.bible.is/DURABC/Matt/1/D
+bibleis tgk-x-bible.txt http://listen.bible.is/TGKIBT/Matt/1/D
+pngscriptures mps-x-bible.txt http://pngscriptures.org/mps/MAT01.htm
+pngscriptures yon-x-bible.txt http://pngscriptures.org/yon/MAT01.htm
+pngscriptures yrb-x-bible.txt http://pngscriptures.org/yrb/MAT01.htm
+# i fixed
+bjp-x-bible.txt http://pngscriptures.org/bjp/MRK01.htm
+
+

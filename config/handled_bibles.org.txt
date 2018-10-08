@@ -31,7 +31,7 @@ mkl-x-bible.txt	http://af.bibles.org/versions/mkl-MNKNT
 mqy-x-bible.txt	http://bibles.org/mqy-BMNT/Matt/1
 mtp-x-bible.txt	http://bibles.org/mtp-WHYK/Matt/1
 mzh-x-bible.txt	http://bibles.org/mzh-WCHB/Matt/1
-nno-x-bible-1978.txt	http://bibles.org/nno-N78NN/Matt/1
+nno-x-bible-1978.txt http://bibles.org/nno-N78NN/Matt/1
 ots-x-bible.txt	http://bibles.org/ots-OTSNT/Matt/1
 pdt-x-bible.txt	http://bibles.org/pdt-PB/Matt/1
 pis-x-bible.txt	http://bibles.org/versions/pis-SIDC/
