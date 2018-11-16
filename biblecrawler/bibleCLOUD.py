@@ -191,6 +191,6 @@ if __name__ == '__main__':
         else:
             print("OK, Let's continue..")
 
-    triple = [(l.split()[1], '/mounts/data/proj/asgari/final_proj/000_datasets/testbib/biblecloud/', l.split()[0]) for l
-              in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/finalized_urls/biblecloud.txt')]
-    BibleCloud.parallel_crawl(triple, 30, True)
+    triple = [(l.split()[1], '/mounts/data/proj/asgari/final_proj/000_datasets/testbib/biblecloud_extra/', l.split()[0]) for l
+              in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/extra_handled_bible.cloud.txt')]
+    BibleCloud.parallel_crawl(triple, 10, True)

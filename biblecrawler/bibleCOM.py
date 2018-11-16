@@ -197,5 +197,5 @@ if __name__ == '__main__':
         else:
             print("OK, Let's continue..")
 
-    triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/biblecom_new/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/biblecom_remained.txt')]
-    BibleCom.sequential_crawl(triple,)
+    triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/biblecom_extra/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/extra_handled_bible.com.txt')]
+    BibleCom.parallel_crawl(triple, num_p=20)
