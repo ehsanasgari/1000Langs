@@ -172,5 +172,5 @@ if __name__ == '__main__':
             exit()
         else:
             print("OK, Let's continue..")
-    triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/pngscript_new/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/finalized_urls/pngscriptures.txt')]
-    PNGScriptCrawl.parallel_crawl(triple,5)
+    triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/pngscriptures_etxra/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/pngscriptures_etxra.txt')]
+    PNGScriptCrawl.parallel_crawl(triple,20)
