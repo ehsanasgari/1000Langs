@@ -26,6 +26,10 @@ def get_sym_kl_rows(A):
     a=stats.entropy(norm_A.T[:,:,None], norm_A.T[:,None,:])
     return a+a.T
 
+def generate_binary(N):
+    return [''.join(list(b)[::-1]) for b in  ['{:0{}b}'.format(i, N) for i in range(2**N)][1::]]
+
+
 def get_kl_rows(A):
     '''
     :param A: matrix A

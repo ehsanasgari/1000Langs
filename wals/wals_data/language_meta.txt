@@ -1,0 +1,1170 @@
+ISO-code    language-name   number-of-verses    url
+aai	Arifama-Miniafia	20	http://pngscriptures.org/aai/
+aak	Ankave	20	http://pngscriptures.org/aak/
+aau	Abau	20	http://pngscriptures.org/aau/
+abt	Ambulas	20	http://pngscriptures.org/abt-wosera/
+abx	Inabaknon	20	http://bible.cloud/bible/content/texts/ABXWBT/index.html
+aby	Aneme Wake	20	http://pngscriptures.org/aby/
+acd	Gikyode	20	http://www.bible.is/ACDWBT/Matt/1
+ace	Achinese	20	http://alkitab.mobi/2/aceh/<br>http://www.bible.is/AC1IBS/Matt/1
+acf	Saint Lucian Creole French	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=acf&ROD_Code=00000&Variant_Code=#<br>https://bibles.org/versions/acf-ACFNT/
+acn	Achang	20	http://www.bible.is/ACNBSM/Matt/1<br>http://bibles.org/versions/acn-NGCL/
+acr	Achi	20	http://www.bible.is/ACRWBT/Matt/1
+acu	Achuar-Shiwiar	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=acu&ROD_Code=00000&Variant_Code=<br>http://www.bible.is/ACUTBL/Matt/1<br>http://bibles.org/versions/acu-ACUNT/
+ade	Adele	20	http://www.bible.is/ADETBL/Matt/1
+adh	Adhola	20	http://www.bible.is/ADHBSU/Matt/1
+adj	Adioukrou	20	http://www.bible.is/ADJWBT/Matt/1
+ady	Adyghe	0	http://ibtrussia.org/en/text?m=ADG
+aey	Amele	20	http://pngscriptures.org/aey/index.htm
+afr	Afrikaans	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+agd	Agarabi	20	http://pngscriptures.org/agd/
+agg	Angor	20	http://pngscriptures.org/agg/FRT01.htm
+agm	Angaataha	20	http://pngscriptures.org/agm/MAT01.htm
+agn	Agutaynen	20	http://www.bible.is/AGNWPS/Matt/1
+agr	Aguaruna	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=agr&ROD_Code=00000&Variant_Code=#
+agt	Central Cagayan Agta	20	http://bible.cloud/bible/content/texts/AGTWBT/index.html
+agu	Aguacateco	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=agu&ROD_Code=00000&Variant_Code=
+agw	Kahua	20	http://bibles.org/agw-KCB/Gen/int
+agx	Aghul	8	http://ibtrussia.org/en/text?m=AGL
+ahk	Akha	20	http://www.bible.is/AHKTBS/Matt/1
+aia	Arosi	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=aia&ROD_Code=00000&Variant_Code=#
+aii	Assyrian Neo-Aramaic	20	http://bible.cloud/bible/content/texts/AIIABT/index.html
+akb	Batak Angkola	20	http://www.bible.is/AKBLAI/Matt/1/D
+ake	Akawaio	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=ake&ROD_Code=00000&Variant_Code=#
+akh	Angal Heneng	20	http://pngscriptures.org/akh/copyright.htm
+alj	Alangan	20	http://www.bible.is/ALJOMF/Matt/1
+aln	Gheg Albanian	20	http://www.jw.org/sq/botime/bibla/nwt/
+alp	Alune	20	https://www.bible.com/de/bible/323/mrk.1.alpnt
+alq	Algonquin	20	https://www.bible.com/de/bible/487/jhn.1.algnt
+alt	Southern Altai	20	http://www.bible.is/ALTIBT/Matt/1
+aly	Alyawarr	17	http://aboriginalbibles.org.au/Alyawarr/
+alz	Alur	20	http://www.bible.is/ALZBSU/Matt/1
+ame	Yanesha'	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=ame&ROD_Code=00000&Variant_Code=#
+amf	Hamer-Banna	20	http://bible.cloud/bible/content/texts/AMFSIM/index.html
+amh	Amharic	20	https://bible.org/foreign/amharic/
+amk	Ambai	20	http://bible.cloud/bible/content/texts/AMKWBT/index.html
+amm	Ama (Papua New Guinea)	20	http://pngscriptures.org/amm/copyright.htm
+amn	Amanab	20	http://pngscriptures.org/amn-amanab/copyright.htm
+amp	Alamblak	18	http://pngscriptures.org/amp/copyright.htm
+amr	Amarakaeri	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=amr&ROD_Code=00000&Variant_Code=#
+amu	Guerrero Amuzgo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=amu&ROD_Code=00000&Variant_Code=#
+amx	Anmatyerre	5	http://aboriginalbibles.org.au/Anmatyerr/
+ann	Obolo	20	http://www.bible.is/ANNWBT/Matt/1
+anv	Denya	20	http://bibles.org/anv-ANVNT/Matt/1
+aoi	Anindilyakwa	10	http://aboriginalbibles.org.au/Anindilyakwa/
+aoj	Mufian	20	http://pngscriptures.org/aoj-filifita/copyright.htm
+aom	Ömie	20	http://pngscriptures.org/aom/copyright.htm
+aon	Bumbita Arapesh	20	http://pngscriptures.org/aon/copyright.htm
+aoz	Uab Meto	20	http://www.bible.is/AOZLAI/Matt/1/D
+ape	Bukiyip	20	http://pngscriptures.org/ape/copyright.htm
+apn	Apinayé	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=apn&ROD_Code=00000&Variant_Code=#
+apr	Arop-Lokep	20	http://pngscriptures.org/apr/
+apu	Apurinã	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=apu&ROD_Code=00000&Variant_Code=
+apw	Western Apache	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=apw&ROD_Code=00000&Variant_Code=#
+apy	Apalaí	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=apy&ROD_Code=00000&Variant_Code=#
+apz	Safeyoka	20	http://pngscriptures.org/apz/copyright.htm
+arb	Standard Arabic	20	http://www.jw.org/ar/اصدارات/الكتاب-المقدس/nwt/اسفار-الكتاب-المقدس/
+are	Western Arrarnta	20	http://aboriginalbibles.org.au/Western%20Arrarnta/
+arl	Arabela	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=arl&ROD_Code=00000&Variant_Code=
+arn	Mapudungun	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=arn&ROD_Code=00000&Variant_Code=#
+arp	Arapaho	8	http://bible.cloud/bible/content/texts/ARPABS/index.html
+arz	Egyptian Arabic	20	http://www.bible.is/ARZVDV/Mark/1
+aso	Dano	20	http://pngscriptures.org/aso/copyright.htm
+ata	Pele-Ata	20	http://pngscriptures.org/ata/copyright.htm
+atb	Zaiwa	20	http://bible.cloud/bible/content/texts/ATBWBT/index.html
+atd	Ata Manobo	20	http://bible.cloud/bible/content/texts/ATDWBT/index.html
+atg	Ivbie North-Okpela-Arhe	20	https://www.bible.com/de/bible/350/jhn.1.atgnt
+att	Pamplona Atta	20	http://bible.cloud/bible/content/texts/ATTWBT/index.html
+auc	Waorani	20	http://www.scriptureearth.org/data/auc/PDF/00-WNTauc-web.pdf
+aui	Anuki	2	http://www.pngscriptures.org/aui/MRK01.htm
+auy	Awiyaana	19	http://pngscriptures.org/auy/copyright.htm
+ava	Avaric	20	http://www.bible.is/AVAIBT/Matt/1<br>http://ibtrussia.org/en/text?m=AVR
+avt	Au	20	http://pngscriptures.org/avt/copyright.htm
+avu	Avokaya	20	http://www.bible.is/AVUWBT/Matt/1
+awa	Awadhi	20	http://www.bible.is/AOZLAI/Matt/1/D
+awb	Awa (Papua New Guinea)	20	http://pngscriptures.org/awb/copyright.htm
+awi	Aekyom	20	Notavailable
+awx	Awara	0	http://pngscriptures.org/awx/
+ayo	Ayoreo	20	http://gospelgo.com/s/ayoreo_nt.htm
+ayr	Central Aymara	20	http://www.bible.is/AYMSBU/Matt/1
+azb	South Azerbaijani	20	http://bible.cloud/bible/content/texts/AZBBSA/index.html
+aze	Azerbaijani	20	http://download.jw.org/files/media_bible/80/nwt_AJ.epub
+azg	San Pedro Amuzgos Amuzgo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=azg&ROD_Code=00000&Variant_Code=#
+azz	Highland Puebla Nahuatl	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=azz&ROD_Code=00000&Variant_Code=
+bak	Bashkir	20	http://ibtrussia.org/en/text?m=ALT
+bam	Bambara	20	http://www.bible.is/BAMLSB/Matt/1
+ban	Balinese	20	http://www.bible.is/BANIBS/Mark/1/D
+bao	Waimaha	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=boa&ROD_Code=00000&Variant_Code=
+bar	Bavarian	20	http://bibeltext.com/bairisch/genesis/1.htm
+bav	Vengo	20	http://www.bible.is/BAVWBT/Matt/1
+bba	Baatonum	20	http://www.bible.is/BBABSB/Matt/1
+bbb	Barai	19	http://pngscriptures.org/bbb/copyright.htm
+bbc	Batak Toba	20	http://bibles.org/bbc-BBC/Gen/Bind
+bbr	Girawa	19	http://pngscriptures.org/bbr/copyright.htm
+bch	Bariai	20	http://bible.cloud/bible/content/texts/BCHPNG/index.html
+bcl	Central Bikol	20	http://www.bible.is/BCLBPV/Matt/1
+bco	Kaluli	2	http://bible.cloud/bible/content/texts/BCOWBT/index.html
+bcw	Bana	20	http://www.bible.is/SWCSBZ/Matt/1
+bdd	Bunama	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=bdd&ROD_Code=00000&Variant_Code=#
+bea	Beaver	2	http://bible.cloud/bible/content/texts/BEABFB/index.html
+bef	Benabena	20	http://pngscriptures.org/bef/copyright.htm
+bem	Bemba (Zambia)	20	http://www.jw.org/bem/impapulo/baibolo/nwt/
+ben	Bengali	20	http://www.bible.is/BNGWTC/Matt/1
+bex	Jur Modo	20	http://www.bible.is/BEXWBT/Matt/1
+bfd	Bafut	20	http://www.bible.is/BFDWBT/Matt/1
+bfo	Malba Birifor	20	http://www.bible.is/BFOBSB/Matt/1/D
+bgr	Bawm Chin	20	http://www.bible.is/BGRBBS/Matt/1
+bgs	Tagabawa	20	http://bible.cloud/bible/content/texts/BGSWBT/index.html
+bgz	Banggai	20	http://gospelgo.com/p/banggai_nt.htm
+bhg	Binandere	12	http://pngscriptures.org/bhg/
+bhl	Bimin	20	http://pngscriptures.org/bhl/copyright.htm
+bhp	Bima	20	http://gospelgo.com/q/Bima%20Bible%20-%20New%20Testament.pdf
+bib	Bissa	20	http://www.bible.is/BIBWBT/Matt/1
+big	Biangai	20	http://pngscriptures.org/big/
+bim	Bimoba	20	http://www.bible.is/BIMWBT/Matt/1/D
+bis	Bislama	20	http://www.bible.is/BISBSP/Matt/1
+biv	Southern Birifor	20	http://www.bible.is/BIVWBT/Matt/1
+bjp	Fanamaket	3	http://pngscriptures.org/tgg/
+bjr	Binumarien	19	http://pngscriptures.org/bjr/copyright.htm
+bjv	Bedjond	20	http://www.bible.is/BJVWYI/Matt/1
+bkd	Talaandig	20	http://bible.cloud/bible/content/texts/BKDWBT/index.html
+bkq	Bakairí	20	https://www.bible.com/de/bible/408/mat.1.bkqnt
+bku	Buhid	20	http://www.bible.is/BKUOMF/Matt/1
+bkv	Bekwarra	20	http://www.bible.is/BKVWYI/Matt/1/D
+blh	Kuwaa	20	http://www.bible.is/BLHLBT/Matt/1
+blw	Balangao	20	http://bible.cloud/bible/content/texts/BLWWBT/index.html
+blz	Balantak	20	http://www.bible.is/BLZLAI/Matt/1<br>http://alkitab.mobi/2/balantak/
+bmb	Bembe	20	http://bibles.org/bmb-NTB/Matt/1
+bmh	Kein	19	http://pngscriptures.org/bmh/copyright.htm
+bmk	Ghayavi	2	http://pngscriptures.org/bmk/copyright.htm
+bmq	Bomu	20	http://www.bible.is/BMQBSM/Matt/1/D
+bmr	Muinane	20	http://bibles.org/bmr-BMRNT/Matt/1
+bmu	Somba-Siawari	20	http://pngscriptures.org/bmu/copyright.htm
+bnj	Eastern Tawbuid	20	http://www.bible.is/BNJOMF/Matt/1/D
+bnp	Bola	20	http://pngscriptures.org/bnp/copyright.htm
+boa	Bora	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=boa&ROD_Code=00000&Variant_Code=#
+boj	Anjam	20	http://www.pngscriptures.org/boj/FRT01.htm
+bon	Bine	20	http://www.pngscriptures.org/bon/MAT01.htm
+box	Buamu	20	https://www.bible.com/de/bible/381/mat.1.boxnt
+bpr	Koronadal Blaan	20	http://www.bible.is/BPRWYI/Matt/1
+bps	Sarangani Blaan	20	http://www.bible.is/BPRWYI/Matt/1
+bqc	Boo	20	http://www.bible.is/BQCSIM/Gen/1/
+bqp	Busa	20	http://www.bible.is/BQPSIM/Matt/1/D
+bre	Breton	16	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+bru	Eastern Bru	20	http://www.bible.is/BRUNXB/Matt/1
+bsn	Barasana-Eduria	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=bsn&ROD_Code=00000&Variant_Code=#
+bss	Akoose	20	http://www.bible.is/BSSWBT/Matt/1
+btd	Batak Dairi	20	http://www.bible.is/BTDLAI/Acts/13
+bth	Biatah Bidayuh	20	https://www.bible.com/de/bible/18/gen.1.tbv
+bto	Rinconada Bikol	20	http://dongants.wordpress.com/tag/batak/page/195/
+bts	Batak Simalungun	20	http://www.bible.is/BTSLAI/Matt/1
+btt	Bete-Bendi	20	http://www.bible.is/BTTPD1/Matt/1/D
+btx	Batak Karo	20	http://alkitab.mobi/karo/
+bud	Ntcham	20	http://www.bible.is/BUDIBS/Matt/1
+bug	Buginese	20	http://dongants.wordpress.com/2009/10/10/markus-1-6/
+buk	Bugawac	20	http://pngscriptures.org/buk/copyright.htm
+bul	Bulgarian	20	https://www.bible.com/de/bible/196/mat.1.spb
+bum	Bulu (Cameroon)	20	http://bibles.org/bum-BULDCB/Gen/int
+bus	Bokobaru	20	http://www.bible.is/BUSSIM/Matt/1/D
+bvr	Burarra	20	http://aboriginalbibles.org.au/Burrara/Conc/42%20LUK%20-%20ABurrara-3.htm<br>https://www.bible.com/bible/1291/mat.1
+bvz	Bauzi	20	http://www.bible.is/BVZYSS/Matt/1
+bwq	Southern Bobo Madaré	20	http://www.bible.is/BWQBSB/Matt/1
+bwu	Buli (Ghana)	20	http://www.bible.is/BWUTBL/Matt/1
+bxh	Buhutu	4	http://pngscriptures.org/bxh/
+bxr	Russia Buriat	20	http://www.bible.is/BXRIBT/Mark/1<br>http://ibtrussia.org/en/text?m=BUR
+byr	Yipma	20	http://pngscriptures.org/byr/copyright.htm
+byx	Qaqet	20	http://pngscriptures.org/byx/copyright.htm
+bzd	Bribri	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=bzd&ROD_Code=00000&Variant_Code=
+bzh	Mapos Buang	20	http://pngscriptures.org/bzh/index.htm
+bzj	Belize Kriol English	20	https://www.bible.com/de/bible/409/mat.1.bzjnt
+caa	Chortí	20	http://www.bible.is/CAAWBT/Matt/1
+cab	Garifuna	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cab&ROD_Code=00000&Variant_Code=#
+cac	Chuj	20	http://www.bible.is/CACSBG/Matt/1
+caf	Southern Carrier	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=caf&ROD_Code=00000&Variant_Code=
+cak	Kaqchikel	20	http://bibles.org/versions_api/cak-CAKENT
+cao	Chácobo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cao&ROD_Code=00000&Variant_Code=#
+cap	Chipaya	20	http://www.bible.is/CAPSBB/Matt/1
+car	Galibi Carib	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=car&ROD_Code=00000&Variant_Code=#
+cas	Tsimané	20	http://www.bible.is/CASNTM/Matt/1/N
+cat	Valencian	20	http://www.ibec.cat/BIBLIA/
+cav	Cavineña	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cav&ROD_Code=00000&Variant_Code=
+cax	Chiquitano	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cax&ROD_Code=00000&Variant_Code=
+cbc	Carapana	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cbc&ROD_Code=00000&Variant_Code=
+cbi	Chachi	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cbi&ROD_Code=00000&Variant_Code=#
+cbk	Chavacano	20	http://bible.cloud/bible/content/texts/CBKWBT/index.html
+cbr	Cashibo-Cacataibo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cbr&ROD_Code=00000&Variant_Code=
+cbs	Cashinahua	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cbs&ROD_Code=00000&Variant_Code=d
+cbt	Chayahuita	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cbt&ROD_Code=00000&Variant_Code=#
+cbu	Candoshi-Shapra	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cbu&ROD_Code=00000&Variant_Code=#
+cbv	Cacua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cbv&ROD_Code=00000&Variant_Code=
+cce	Chopi	20	http://www.bible.is/CCESBM/Mark/1/D
+cco	Comaltepec Chinantec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cco&ROD_Code=00000&Variant_Code=
+ceb	Cebuano	20	https://www.bible.com/de/bible/9/gen.1.apsd-ceb
+ceg	Chamacoco	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=ceg&ROD_Code=00000&Variant_Code=#
+ces	Czech	20	http://www.jw.org/cs/publikace/bible-online/nwt/
+cfm	Falam Chin	20	http://www.myanmarbible.com/bible/Falam/html/index.html
+cgc	Kagayanen	20	http://www.bible.is/CGCTBL/Matt/1/D
+cha	Chamorro	20	Notavailable
+chd	Highland Oaxaca Chontal	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=chd&ROD_Code=00000&Variant_Code=#
+che	Chechen	20	http://ibtrussia.org/en/text?m=CHE<br>http://www.bible.is/CHEIBT/Mark/1/4
+chf	Tabasco Chontal	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=chf&ROD_Code=00000&Variant_Code=#
+chk	Chuukese	20	http://bible.cloud/bible/content/texts/CHKBSM/index.html
+chq	Quiotepec Chinantec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=chq&ROD_Code=00000&Variant_Code=
+chr	Cherokee	20	Notavailable
+chu	Old Slavonic	20	bibleonline.ru/bible/csl/41/01/
+chv	Chuvash	20	http://ibtrussia.org/en/text?m=CHV
+chz	Ozumacín Chinantec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=chz&ROD_Code=00000&Variant_Code=
+cjo	Ashéninka Pajonal	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cjo&ROD_Code=00000&Variant_Code=
+cjp	Cabécar	20	http://www.bible.is/CJPTJV/Matt/1
+cjs	Shor	5	http://ibtrussia.org/en/text?m=SHR
+cjv	Chuave	20	http://pngscriptures.org/cjv/copyright.htm
+cko	Anufo	20	http://www.bible.is/CKOGIL/Matt/1
+ckt	Chukot	8	http://ibtrussia.org/en/text?m=CHK
+cle	Lealao Chinantec	20	http://www.bible.is/CLETBL/Matt/1
+clu	Caluyanun	20	http://bible.cloud/bible/content/texts/CLUWBT/index.html
+cly	Eastern Highland Chatino	20	http://www.bible.is/CLYAVA/Matt/1/D
+cme	Cerma	20	http://www.bible.is/CMEWBT/Matt/1
+cmn	Mandarin Chinese	20	http://sourceforge.net/projects/zefania-sharp/files/Bibles/CHI/New%20Chinese%20Version%20Simplified/
+cnh	Hakha Chin	20	http://www.myanmarbible.com/bible/Hakha/html/index.html
+cni	Asháninka	20	http://www.bible.is/CNIWBT/Matt/1<br>http://bibles.org/versions_api/cni-CNINT<br>http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cni&ROD_Code=00000&Variant_Code=
+cnl	Lalana Chinantec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cnl&ROD_Code=00000&Variant_Code=
+cnt	Tepetotutla Chinantec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cnt&ROD_Code=00000&Variant_Code=#
+cnw	Ngawn Chin	20	http://www.myanmarbible.com/bible/Ngawn/html/NT/Matthew/Matthew001.html
+coe	Koreguaje	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=coe&ROD_Code=00000&Variant_Code=#
+cof	Colorado	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cof&ROD_Code=00000&Variant_Code=#
+cok	Santa Teresa Cora	20	Notavailable
+con	Cofán	20	http://www.bible.is/CONWBT/Matt/1
+cop	Coptic	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+cot	Caquinte	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cot&ROD_Code=00000&Variant_Code=
+cpa	Palantla Chinantec	20	http://www.bible.is/CPATBL/Matt/1
+cpb	Ucayali-Yurúa Ashéninka	20	http://www.scriptureearth.org/data/cpb/study/cpb.bbl.mybible
+cpc	Ajyíninka Apurucayali	20	https://www.bible.com/de/bible/579/mat.1.cpcnt
+cpu	Pichis Ashéninka	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cpu&ROD_Code=00000&Variant_Code=
+crh	Crimean Turkish	18	http://ibtrussia.org/en/text?m=CRT
+crm	Moose Cree	20	https://www.bible.com/de/bible/483/mat.1.mcnt
+crn	El Nayar Cora	20	http://gospelgo.com/n/cora/bible_elnayar.pdf
+crq	Iyo'wujwa Chorote	19	https://www.bible.com/de/bible/371/mat.intro1.chrnt
+crs	Seselwa Creole French	20	https://www.bible.com/versions/1054
+crt	Iyojwa'ja Chorote	19	http://gospelgo.com/s/chorote_joh.htm
+crx	Carrier	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=crx&ROD_Code=00000&Variant_Code=
+csk	Jola-Kasa	20	http://www.bible.is/CSKATB/Matt/1
+cso	Sochiapan Chinantec	20	http://www.bible.is/CSOTBL/Matt/1
+csy	Siyin Chin	20	http://www.myanmarbible.com/bible/Sizang/html/index.html
+cta	Tataltepec Chatino	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cta&ROD_Code=00000&Variant_Code=
+ctd	Tedim Chin	20	https://www.bible.com/de/bible/368/gen.1.tdb
+ctp	Western Highland Chatino	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=ctp&ROD_Code=00000&Variant_Code=
+ctu	Chol	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cti&ROD_Code=00000&Variant_Code=
+cub	Cubeo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cub&ROD_Code=00000&Variant_Code=
+cuc	Usila Chinantec	20	Notavailable
+cui	Cuiba	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cui&ROD_Code=00000&Variant_Code=
+cuk	San Blas Kuna	20	http://www.bible.is/CUKNVS/Matt/1
+cut	Teutila Cuicatec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cut&ROD_Code=00000&Variant_Code=#
+cux	Tepeuxila Cuicatec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=cux&ROD_Code=00000&Variant_Code=
+cwe	Kwere	20	http://bible.cloud/bible/content/texts/CWEPBT/index.html
+cwt	Kuwaataay	20	http://www.bible.is/CWTATB/Matt/1
+cya	Nopala Chatino	20	http://www.bible.is/CYAAVV/Matt/1
+cym	Welsh	20	https://www.bible.com/de/bible/287/gen.1.bwm
+czt	Zotung Chin	20	http://www.myanmarbible.com/bible/bible.php?version=Zotung&testament=NT&book=Mark&chapter=1
+daa	Dangaléat	20	http://www.bible.is/DAAWYI/Matt/1
+dad	Marik	20	https://www.bible.com/de/bible/349/mat.1.dadnt
+dah	Gwahatike	20	http://pngscriptures.org/dah/copyright.htm
+dak	Dakota	2	http://www.bushfarms.com/dakotawowapiwakan.htm
+dan	Danish	20	https://www.bible.com/de/bible/20/gen.1.bph
+dar	Dargwa	11	http://ibtrussia.org/en/text?m=DRG
+ded	Dedua	20	http://pngscriptures.org/ded/copyright.htm
+des	Desano	20	http://www.bible.is/DESWBT/Matt/1
+deu	German	20	http://bitflow.dyndns.org/german/Bible/Das_Neue_Testament_Johann_Albrecht_Bengel_Uebersetzung.txt
+dgc	Casiguran Dumagat Agta	20	http://bible.cloud/bible/content/texts/DGCWBT/index.html
+dgi	Northern Dagara	20	http://www.bible.is/DGIABB/Matt/1
+dgr	Dogrib	20	https://www.bible.com/de/bible/800/jhn.1
+dgz	Daga	20	http://pngscriptures.org/dgz/copyright.htm
+dhm	Zemba	20	http://bibles.org/dhm-DBNT/Matt/1
+dig	Digo	20	http://www.bible.is/DIGTBL/Matt/1
+dik	Southwestern Dinka	20	http://www.bible.is/DIKTBL/Matt/1
+dip	Northeastern Dinka	20	http://www.bible.is/DIPBSS/Matt/1
+dje	Zarma	20	http://visionneuse.free.fr/DJE/
+djk	Nenge	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=djk&ROD_Code=00000&Variant_Code=
+djr	Djambarrpuyngu	19	http://bibles.org/versions/djr-DJNT/<br>http://bible.com/versions/244
+dng	Dungan	0	http://ibtrussia.org/en/text?m=DNG
+dnj	Dan	20	http://www.bible.is/DA1EST/Matt/1
+dob	Dobu	20	http://pngscriptures.org/dob/copyright.htm
+dop	Lukpa	20	http://www.bible.is/DOPBSB/Matt/1
+dow	Doyayo	20	http://bibles.org/dow-NTD/Matt/1
+dtp	Kadazan Dusun	20	https://www.bible.com/de/bible/172/gen.1.bdk
+dts	Toro So Dogon	20	http://www.bible.is/DTSABM/Matt/1
+dug	Duruma	20	http://www.bible.is/DUGBTL/Matt/1
+dur	Dii	20	http://www.bible.is/DURABC/Matt/1
+dwr	Dawro	20	http://www.bible.is/DWRTBL/Matt/1
+dww	Dawawa	20	http://pngscriptures.org/dww/copyright.htm
+dyi	Djimini Senoufo	20	http://www.bible.is/DYIIBS/Matt/1/D
+dyo	Jola-Fonyi	20	http://www.bible.is/DYOBSG/Matt/1
+dyu	Dyula	20	http://www.bible.is/DYUBSB/Matt/1
+ebk	Eastern Bontok	20	http://bible.cloud/bible/content/texts/EBKWBT/index.html
+efi	Efik	20	http://www.jw.org/efi/se-ẹdọn̄de/bible/nwt/mme-n̄wed/
+eka	Ekajuk	20	http://www.bible.is/EKAWYI/Matt/1
+eko	Koti	9	http://bible.cloud/bible/content/texts/EKOWBT/index.html
+ell	Modern Greek (1453-)	20	http://sourceforge.net/projects/zefania-sharp/files/Bibles/GRC/Modern%20Greek/
+emi	Mussau-Emira	13	http://pngscriptures.org/emi/copyright.htm
+emp	Northern Emberá	20	http://www.bible.is/EMPWYI/Matt/1
+enb	Markweeta	20	http://www.bible.is/ENBBTL/Matt/1
+eng	English	20	http://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/The%20Common%20Edition%20New%20Testament/
+enm	Middle English (1100-1500)	20	https://en.wikisource.org/wiki/Bible_%28Wycliffe%29
+epo	Esperanto	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+ese	Ese Ejja	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=ese&ROD_Code=00000&Variant_Code=
+esi	North Alaskan Inupiatun	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=esi&ROD_Code=00000&Variant_Code=
+esk	Northwest Alaska Inupiatun	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=esk&ROD_Code=00000&Variant_Code=
+est	Estonian	20	http://etabetapi.com/read/est/Gen/1
+etr	Edolo	7	http://pngscriptures.org/etr/copyright.htm
+eus	Basque	20	http://sourceforge.net/projects/zefania-sharp/files/Bibles/BAQ/Basque%28Navarro-Labourdin%29NT/
+ewe	Ewe	20	http://www.jw.org/ee/agbalẽwo/biblia/bi12/agbalẽwo/
+faa	Fasu	19	http://pngscriptures.org/faa/copyright.htm
+fai	Faiwol	20	http://pngscriptures.org/fai/copyright.htm
+fal	South Fali	20	http://www.bible.is/FALTBL/Matt/1
+fao	Faroese	20	http://biblia.fo/bible.php<br>https://www.bible.com/de/bible/374/gen.1.fb
+ffm	Maasina Fulfulde	20	http://bible.cloud/bible/content/texts/FFMWBT/index.html
+fij	Fijian	20	http://www.bible.is/FIJBSP/Mark/1
+fil	Pilipino	20	https://www.bible.com/de/bible/177/gen.1.tlab
+fin	Finnish	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+fon	Fon	20	http://bibles.org/fon-FON/Matt/1
+for	Fore	20	http://pngscriptures.org/for/copyright.htm
+fra	French	20	#title:BibledesPeuples<br>TheBibleinFrench
+fry	Western Frisian	20	http://images.tresoar.nl/wumkes/pdf/Bibel_Wumkes_1943_watermerk.pdf
+fub	Adamawa Fulfulde	20	Notavailable
+fue	Borgu Fulfulde	8	http://bible.cloud/bible/content/texts/FUESIM/index.html
+fuf	Pular	20	http://www.bible.is/FUFPBT/Matt/1
+fuh	Western Niger Fulfulde	20	http://bible.cloud/bible/content/texts/FUHSIM/index.html
+fuv	Nigerian Fulfulde	20	http://www.bible.is/FUVTBL/Matt/1
+gaa	Ga	20	http://www.jw.org/gaa/woji-kɛ-nibii/biblia/nwt/woji/
+gag	Gagauz	20	http://www.bible.is/GAGIBT/Matt/1<br>http://ibtrussia.org/en/text?m=GGZL
+gah	Alekano	20	http://pngscriptures.org/gah/copyright.htm
+gam	Kandawo	20	http://pngscriptures.org/gam/
+gaw	Nobonob	20	http://pngscriptures.org/gaw/copyright.htm
+gbi	Galela	20	http://www.bible.is/GBILAI/Matt/1
+gbo	Northern Grebo	20	http://www.bible.is/GBOLBT/Matt/1
+gde	Gude	20	http://www.bible.is/GDEWBT/Matt/1
+gdn	Umanakaina	20	http://pngscriptures.org/gdn/copyright.htm
+gdr	Wipi	20	http://pngscriptures.org/gdr/copyright.htm
+geb	Kire	20	http://bible.cloud/bible/content/texts/GEBPBT/index.html
+gej	Gen	20	http://www.bible.is/GEJBS2/Matt/1
+gfk	Patpatar	20	http://pngscriptures.org/gfk/copyright.htm
+ghs	Guhu-Samane	20	http://pngscriptures.org/ghs/copyright.htm
+gil	Gilbertese	19	http://www.bible.is/GILBSP/Matt/1
+giz	South Giziga	20	http://bibles.org/giz-BEGDC/Matt/1
+gkn	Gokana	20	http://www.bible.is/GKNIBS/Matt/1
+gkp	Guinea Kpelle	20	http://bibles.org/gkp-KWB/Matt/1
+gla	Scottish Gaelic	2	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+gle	Irish	20	http://bibles.org/gle-ADN/Gen/1
+glk	Gilaki	3	http://bible.cloud/bible/content/texts/GLKWBT/index.html
+glv	Manx	16	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+gmv	Gamo	20	http://www.bible.is/GMVTBL/Matt/1
+gnd	Zulgo-Gemzek	20	http://www.bible.is/GNDWYI/Matt/1
+gng	Ngangam	19	https://www.bible.com/de/bible/474/mat.1.gngnt
+gnn	Gumatj	20	#title:GumatjBible
+gnw	Western Bolivian Guaraní	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=gnw&ROD_Code=00000&Variant_Code=
+gof	Gofa	19	https://www.bible.com/de/bible/435/mat.1.gofrnt
+gog	Gogo	20	http://www.bible.is/GOGBST/Matt/1
+gor	Gorontalo	20	http://alkitab.mobi/tb/Mrk/1/4/
+grc	Ancient Greek (to 1453)	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+grt	Garo	20	http://www.bible.is/GRTBBS/Matt/1<br>http://gospelgo.com/a/garo_nt.htm
+gso	Southwest Gbaya	20	http://gospelgo.com/f/gbaya_sw_nt<br>htmhttp://findabible.net
+gub	Guajajára	20	https://www.bible.com/de/bible/613/jhn.1<dr>http://www.scriptureearth.org/data/gub/PDF/00-WBIgub-web.pdf
+guc	Wayuu	18	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=guc&ROD_Code=00000&Variant_Code=
+gud	Yocoboué Dida	20	http://bibles.org/gut-DNT/Matt/1
+gug	Paraguayan Guaraní	20	Notavailable
+guh	Guahibo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=guh&ROD_Code=00000&Variant_Code=
+gui	Eastern Bolivian Guaraní	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=gui&ROD_Code=00000&Variant_Code=
+guj	Gujarati	20	http://www.bible.is/GUJWTC/Matt/1
+guk	Gumuz	20	http://gospelgo.com/z/GUK/NT.htm
+gul	Sea Island Creole English	20	https://www.bible.com/de/bible/815/mat.1.gul
+gum	Guambiano	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=gum&ROD_Code=00000&Variant_Code=
+gun	Mbyá Guaraní	20	http://www.bible.is/GUNWBT/Matt/1
+guo	Guayabero	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=guo&ROD_Code=00000&Variant_Code=
+guq	Aché	20	http://www.bible.is/GUQLPY/Matt/1
+gur	Farefare	20	http://www.bible.is/GU1WBT/Matt/1
+guw	Gun	20	http://www.jw.org/guw/owe-lẹ/biblu/nwt/owe-lẹ/
+gux	Gourmanchéma	20	http://www.bible.is/GUXABB/Matt/1
+guz	Gusii	20	http://gospelgo.com/f/ekegusii_nt.htm<br>http://gospelgo.com/g/Ekegusii%20Bible%20-%20Genesis%201.pdf
+gvc	Guanano	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=gvc&ROD_Code=00000&Variant_Code=
+gvf	Golin	20	http://pngscriptures.org/gvf/copyright.htm
+gvl	Gulay	20	http://bibles.org/gvl-GUL/Matt/1
+gvn	Kuku-Yalanji	20	http://aboriginalbibles.org.au/Kuku%20Yalanji/
+gwi	Gwichʼin	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=gwi&ROD_Code=00000&Variant_Code=
+gya	Northwest Gbaya	20	http://bibles.org/gya-GB11/Matt/1
+gym	Ngäbere	20	http://www.bible.is/GYMWBT/Matt/1
+gyr	Guarayu	20	https://www.bible.com/de/bible/224/mat.1.gyob0253
+hae	Eastern Oromo	20	http://www.bible.is/HAEBSE/Matt/1
+hag	Hanga	20	http://www.bible.is/HAGGIL/Matt/1
+hak	Hakka Chinese	20	Notavailable
+hat	Haitian Creole	20	http://www.bible.is/HATSBH/Matt/1
+hau	Hausa	20	Notavailable
+haw	Hawaiian	11	Notavailable
+hay	Haya	20	http://www.bible.is/HAYBST/Matt/1
+hbo	Ancient Hebrew	0	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+hch	Huichol	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=hch&ROD_Code=00000&Variant_Code=
+heb	Hebrew	20	http://www.jw.org/he/פרסומים/מקרא/nwt/ספרים/
+heg	Helong	20	http://bible.cloud/bible/content/texts/HEGWBT/index.html
+heh	Hehe	20	http://www.bible.is/HEHBST/Matt/1
+hif	Fiji Hindi	20	http://www.bible.is/HIFBSP/Matt/1
+hig	Kamwe	20	http://www.bible.is/HIGTBL/Matt/1
+hil	Hiligaynon	20	http://www.bible.is/HILHPV/Matt/1
+hin	Hindi	20	http://bible-server.org/Bible.php?L2=&translation=HIN&book=Genesis&ch=1<br>https://www.wordproject.org/bibles/in/
+hla	Halia	20	http://pngscriptures.org/hla/copyright.htm
+hlt	Matu Chin	20	http://www.bible.is/CNKBSM/Matt/1
+hmo	Hiri Motu	20	http://www.jw.org/ho/pablikeisen/baibel/nwt/
+hne	Chhattisgarhi	20	http://www.bible.is/HNEBGC/Matt/1
+hnn	Hanunoo	20	http://www.bible.is/HNNOMF/Matt/1
+hns	Caribbean Hindustani	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=hns&ROD_Code=00000&Variant_Code=
+hop	Hopi	20	https://www.bible.com/de/bible/595/jhn.1
+hot	Malê	20	http://pngscriptures.org/hot/copyright.htm
+hrv	Croatian	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+hto	Minica Huitoto	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=hto&ROD_Code=00000&Variant_Code=
+hub	Huambisa	19	http://www.bible.is/HUBWBT/Matt/1
+hui	Huli	20	http://www.bible.is/HUIPNG/Matt/1
+hun	Hungarian	20	http://www.jw.org/hu/kiadvanyok/biblia/bi12/
+hus	Huastec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=hva&ROD_Code=00000&Variant_Code=
+huu	Murui Huitoto	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=huu&ROD_Code=00000&Variant_Code=
+huv	San Mateo Del Mar Huave	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=huv&ROD_Code=00000&Variant_Code=
+hvn	Sabu	20	Notavailable
+hwc	Hawai'i Pidgin	20	https://www.bible.com/de/bible/76/mat.1.hwcnt
+hye	Armenian	20	Notavailable
+ian	Iatmul	20	http://pngscriptures.org/ian/copyright.htm
+iba	Iban	20	Notavailable
+ibo	Igbo	20	http://www.jw.org/ig/akwụkwọ/baịbụl/nwt/akwụkwọ/
+ifb	Batad Ifugao	20	http://www.bible.is/IFBTBL/Matt/1
+ifk	Tuwali Ifugao	20	http://www.bible.is/IFKTBL/Matt/1
+ifu	Mayoyao Ifugao	20	http://www.bible.is/IFUWPS/Matt/1
+ify	Keley-I Kallahan	20	http://www.bible.is/IFYWBT/Matt/1
+ign	Ignaciano	20	http://www.bible.is/IGNSBB/Matt/1
+ika	Ika	20	http://bible.cloud/bible/content/texts/IKKWBT/index.html
+ike	Eastern Canadian Inuktitut	20	https://www.bible.com/de/bible/455/gen.1.eaib
+ikw	Ikwere	20	http://bible.cloud/bible/content/texts/IKWWBT/index.html
+ilo	Iloko	20	http://www.jw.org/ilo/publikasion/biblia/nwt/
+imo	Imbongu	20	http://pngscriptures.org/imo/copyright.htm
+inb	Inga	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=inb&ROD_Code=00000&Variant_Code=
+ind	Indonesian	20	http://sabdaweb.sabda.org/bible/chapter/?version=bis
+ino	Inoke-Yate	20	http://pngscriptures.org/ino/
+iou	Tuma-Irumu	19	http://pngscriptures.org/iou/copyright.htm
+ipi	Ipili	18	http://pngscriptures.org/ipi/copyright.htm
+iri	Irigwe	20	http://www.bible.is/IRIWYI/Matt/1
+irk	Iraqw	20	http://www.bible.is/IRKBST/Matt/1
+iry	Iraya	20	http://www.bible.is/IRYOMF/Matt/1
+isl	Icelandic	20	Notavailable
+ita	Italian	20	https://www.bible.com/bible/122/gen.1.nr06
+itv	Itawit	20	http://www.bible.is/ITVSTP/Matt/1
+ium	Iu Mien	20	https://www.bible.com/de/bible/232/gen.1.iuminor
+iws	Sepik Iwam	20	http://pngscriptures.org/iws/copyright.htm
+ixl	Ixil	20	http://www.bible.is/IXIWBT/Matt/1
+izr	Izere	20	http://www.bible.is/FIZTBL/Matt/1
+jac	Popti'	20	http://www.bible.is/JACWBT/Matt/1
+jae	Yabem	20	http://pngscriptures.org/jae/MAT01.htm
+jam	Jamaican Creole English	20	https://www.bible.com/de/bible/476/mat.1.jnt
+jav	Javanese	20	http://alkitab.mobi/jawa2/
+jbu	Jukun Takum	20	http://www.bible.is/JBUIBS/Matt/1
+jic	Tol	20	Notavailable
+jiv	Shuar	20	http://bible.cloud/bible/content/texts/JIVAIE/index.html
+jmc	Machame	20	http://www.bible.is/JMCBST/Matt/1
+jpn	Japanese	20	http://www.jw.org/ja/出版物/聖書/nwt/各書/
+jra	Jarai	20	http://bibles.org/jra-JNT/Matt/1
+jvn	Caribbean Javanese	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=jvn&ROD_Code=00000&Variant_Code=
+kaa	Kara-Kalpak	20	http://ibtrussia.org/en/text?m=TVN
+kab	Kabyle	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+kac	Kachin	20	http://www.bible.is/KACUBS/Gen/1
+kal	Kalaallisut	17	Notavailable
+kan	Kannada	20	http://www.bible.is/ERVWTC/Matt/1<br>http://dbs.org/bible/content/texts/KANWTC/
+kao	Xaasongaxango	20	http://www.bible.is/KAOABM/Matt/1
+kap	Bezhta	0	http://ibtrussia.org/en/text?m=BEZ
+kaq	Capanahua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kaq&ROD_Code=00000&Variant_Code=
+kat	Georgian	20	http://ibtrussia.org/en/text?m=GRG
+kaz	Kazakh	20	http://ww.j.org/kk/басылымдар/киелі-кітап/bi12/кітаптар/
+kbc	Kadiwéu	20	https://www.bible.com/de/bible/584/jhn.1
+kbd	Kabardian	8	http://ibtrussia.org/en/text?m=KBD
+kbh	Camsá	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kbh&ROD_Code=00000&Variant_Code=#
+kbm	Iwal	19	http://pngscriptures.org/kbm/
+kbp	Kabiyè	20	http://www.bible.is/KBPABT/Matt/1
+kbq	Kamano	20	http://pngscriptures.org/kbq/
+kbr	Kafa	19	http://www.bible.is/KBRSIM/Matt/1
+kdc	Kutu	20	http://bible.cloud/bible/content/texts/KDCPBT/index.html
+kde	Makonde	20	http://bible.cloud/bible/content/texts/KDEWBT/index.html
+kdi	Kumam	20	http://www.bible.is/KDIBSU/Matt/1/D
+kdj	Karamojong	20	http://www.bible.is/KDJBSU/Matt/1
+kdl	Tsikimba	20	https://www.bible.com/de/bible/426/mat.1.kdlnt
+kek	Kekchí	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kek&ROD_Code=00000&Variant_Code=#
+ken	Kenyang	20	http://www.bible.is/KENWBT/Matt/1
+kew	West Kewa	20	http://pngscriptures.org/kew/
+kez	Kukele	20	http://www.bible.is/KEZLCN/Matt/1
+kff	Koya	20	http://www.biblesos.org/kff/bible/koya/the-holy-bible-in-koya-154/<br>http://indianbibles.net/index.php?bibleVersion=koya&bookName=matthew&chapterNo=1
+kgf	Kube	20	http://pngscriptures.org/kgf/
+kgk	Kaiwá	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kgk&ROD_Code=00000&Variant_Code=#
+kgp	Kaingang	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kgp&ROD_Code=00000&Variant_Code=#
+khk	Halh Mongolian	20	http://www.biblesos.org/mn/Abrahamyn-udam-Davidyn-udam-Yesus-Hristiin-ugiin-bichig/
+khm	Central Khmer	20	http://www.jw.org/km/សៀវភៅផ្សេងៗ/គម្ពីរ/nwt/សៀវភៅ/
+khz	Keapara	20	http://pngscriptures.org/khz/
+kia	Kim	20	http://bibles.org/kia-KB/Matt/1
+kik	Kikuyu	20	https://www.bible.com/de/bible/1202/gen.1.gikdc
+kin	Kinyarwanda	20	https://www.bible.com/de/bible/395/gen.1.bir
+kir	Kyrgyz	20	http://ibtrussia.org/en/text?m=KYROHC
+kjb	Q'anjob'al	20	http://www.bible.is/KJBSBG/Gen/1
+kje	Kisar	20	http://bible.cloud/bible/content/texts/KJEWBT/index.html
+kjh	Khakas	20	http://gospelgo.com/z/KHK/NT.htm<br>http://ibtrussia.org/en/text?m=XKS
+kjs	East Kewa	20	http://pngscriptures.org/kjs/
+kkc	Odoodee	18	http://pngscriptures.org/kkc/
+kki	Kagulu	20	http://www.bible.is/KKIBST/Matt/1
+kkj	Kako	20	http://www.bible.is/KKJWBT/Matt/1
+kkl	Kosarek Yale	4	http://bible.cloud/bible/content/texts/KKLWBT/index.html
+klt	Nukna	2	http://pngscriptures.org/klt/
+klv	Maskelynes	20	https://www.bible.com/de/bible/1247/jhn.1
+kma	Konni	20	http://www.bible.is/KMAWBT/Matt/1
+kmg	Kâte	15	http://pngscriptures.org/kmg/
+kmh	Kalam	20	http://pngscriptures.org/kmh/
+kmk	Limos Kalinga	20	http://bible.cloud/bible/content/texts/KMKWBT/index.html
+kmo	Kwoma	20	http://pngscriptures.org/kmo/
+kmr	Northern Kurdish	20	http://www.kitebipiroz.com/en/bible/mrk/1
+kms	Kamasau	20	http://pngscriptures.org/kms/
+kmu	Kanite	20	http://pngscriptures.org/kmu/
+kne	Kankanaey	20	http://www.bible.is/KNETBL/Matt/1
+knf	Mankanya	20	http://bible.cloud/bible/content/texts/KNFWBT/index.html
+kng	Koongo	20	Notavailable
+knj	Western Kanjobal	20	http://www.bible.is/KNJSBI/Matt/1
+knk	Kuranko	20	http://www.bible.is/KNKBSL/Matt/1
+kno	Kono (Sierra Leone)	20	http://www.bible.is/KNOBSL/Matt/1/
+knv	Tabo	20	http://www.bible.is/KNVPNG/Matt/1<br>http://pngscriptures.org/knv-fly_river/FRT01.htm
+kor	Korean	20	http://www.jw.org/ko/publications/성경/bi12/books/
+kos	Kosraean	0	http://www.fsmbibles.org/kos/GEN01.htm
+kpf	Komba	20	http://pngscriptures.org/kpf/
+kpg	Kapingamarangi	20	http://ebible.org/Scriptures/kpg_usfx.zip<br>http://pacificbibles.org/kpg/copyright.htm
+kpj	Karajá	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kpj&ROD_Code=00000&Variant_Code=#
+kpr	Korafe-Yegha	20	http://pngscriptures.org/kpr/
+kpv	Komi-Zyrian	20	http://www.bible.is/KPVIBT/Matt/1/
+kpw	Kobon	20	http://pngscriptures.org/kpw/
+kpx	Mountain Koiali	20	http://pngscriptures.org/kpx/
+kpz	Kupsabiny	20	http://www.bible.is/KPZBSU/Matt/1
+kqc	Doromu-Koki	18	http://pngscriptures.org/kqc/
+kqf	Kakabai	2	http://pngscriptures.org/kqf/
+kqp	Kimré	20	http://www.bible.is/KQPWBT/Matt/1
+kqw	Kandas	8	http://pngscriptures.org/kqw/
+kqy	Koorete	20	http://www.bible.is/KQETBL/Matt/1/D
+krc	Karachay-Balkar	20	http://www.bible.is/KRCLIO/Matt/1
+kri	Krio	20	http://www.bible.is/KRINVS/Matt/1
+krj	Kinaray-A	20	http://www.bible.is/KRJWBT/Matt/1
+ksd	Kuanua	20	http://ebible.org/study/content/texts/KSDPNG/LK3.html
+ksf	Bafia	20	https://www.bible.com/de/bible/876/mat.1.bafnt
+ksr	Borong	20	http://pngscriptures.org/ksr/
+kss	Southern Kisi	20	https://www.bible.com/de/bible/496/mat.1.kbq
+ksw	S'gaw Karen	20	http://www.myanmarbible.com/bible/SgawKaren/html/index.html
+ktb	Kambaata	20	http://www.bible.is/KTBBSE/Matt/1
+ktj	Plapo Krumen	20	http://www.bible.is/KTJWBT/Matt/1
+kto	Kuot	20	http://pngscriptures.org/kto/
+kua	Kwanyama	20	http://bibles.org/kua-OKYB/Matt/1
+kub	Kutep	20	http://www.bible.is/KUBTBL/Matt/1
+kud	'Auhelawa	20	http://pngscriptures.org/kud/
+kue	Kuman (Papua New Guinea)	20	http://www.bible.is/KUEPNG/Matt/1
+kum	Kumyk	20	http://www.bible.is/KUMIBT/Matt/1<br>http://ibtrussia.org/en/text?m=KUM
+kup	Kunimaipa	20	http://pngscriptures.org/kup/
+kus	Kusaal	20	http://www.bible.is/KUSTBL/Matt/1/
+kvn	Border Kuna	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kvn&ROD_Code=00000&Variant_Code=#
+kwd	Kwaio	20	http://bible.cloud/bible/content/texts/KWDWBT/index.html
+kwf	Kwara'ae	20	http://www.bible.is/KWFWBT/Mark/1
+kwi	Awa-Cuaiquer	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kwi&ROD_Code=00000&Variant_Code=#
+kwj	Kwanga	20	http://pngscriptures.org/kwj/
+kxc	Konso	20	http://www.bible.is/KXCBSE/Matt/1/D
+kxm	Northern Khmer	20	http://www.bible.is/KXMTBS/Matt/1/
+kyc	Kyaka	20	http://pngscriptures.org/kyc/copyright.htm
+kyf	Kouya	20	http://www.bible.is/KYFWBT/Matt/1
+kyg	Keyagana	20	http://pngscriptures.org/kyg/
+kyq	Kenga	20	http://www.bible.is/KYQWYI/Mark/3/D
+kyu	Western Kayah	20	http://www.scriptureearth.org/data/kyu/PDF/00-WNTkyu-KALI.pdf
+kyz	Kayabí	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=kyz&ROD_Code=00000&Variant_Code=#
+kze	Kosena	19	http://pngscriptures.org/kze/
+kzf	Da'a Kaili	18	http://www.bible.is/KZFLAI/Mark/1
+lac	Lacandon	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=lac&ROD_Code=00000&Variant_Code=#
+laj	Lango (Uganda)	20	http://bibles.org/laj-B79/Matt/1
+las	Lama (Togo)	20	http://www.bible.is/LASABT/Matt/1
+lat	Latin	20	http://sourceforge.net/projects/zefania-sharp/files/Bibles/LAT/Clementine%20Vulgate/
+lav	Latvian	20	https://www.bible.com/de/bible/488/gen.1.rt65
+lbb	Label	2	http://bible.cloud/bible/content/texts/LBBWBT/index.html
+lbk	Central Bontok	20	http://bible.cloud/bible/content/texts/LBKWBT/index.html
+lcm	Tungag	20	http://pngscriptures.org/lcm/
+ldi	Laari	20	Notavailable
+lee	Lyélé	20	http://www.bible.is/LEEWBT/Matt/1
+lef	Lelemi	20	http://www.bible.is/LEFTBL/Matt/1
+leh	Lenje	20	http://bibles.org/leh-LEN03/Matt/1
+lem	Nomaande	20	http://www.bible.is/LEMWBT/Matt/1
+leu	Kara (Papua New Guinea)	20	http://pngscriptures.org/leu/
+lew	Ledo Kaili	20	http://www.bible.is/LEWLAI/Matt/1
+lex	Luang	20	http://ebible.org/Scriptures/lex_usfx.zip
+lhm	Lhomi	20	Notavailable
+lhu	Lahu	20	http://www.bible.is/LHUTBS/Matt/1
+lia	West-Central Limba	20	http://www.bible.is/LIABSL/Matt/1
+lid	Nyindrou	20	http://pngscriptures.org/lid/
+lif	Limbu	20	http://www.bible.is/LIFWBT/Matt/1
+lin	Lingala	20	http://www.jw.org/ln/mikanda/biblia/nwt/
+lip	Sekpele	20	http://www.bible.is/LIPWBT/Matt/1
+lit	Lithuanian	20	https://www.bible.com/de/bible/419/gen.1.lbd
+ljp	Lampung Api	20	http://www.bible.is/LJPLAI/Mark/1
+lob	Lobi	20	http://www.bible.is/LOBBSB/Matt/1
+loz	Lozi	20	http://bibles.org/loz-LOZI09/Gen/1
+lsi	Lashi	20	https://www.bible.com/de/bible/390/gen.1.lcl
+lsm	Saamia	20	http://www.bible.is/LSMBSU/Matt/1/D
+luo	Luo (Kenya and Tanzania)	20	http://jesusforafrica.net/luo/matthew.htm<br>http://www.worldscriptures.org/pages/dholuo.html
+lus	Lushai	20	https://www.bible.com/de/bible/253/gen.1.miz
+lvs	Standard Latvian	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+lwo	Luwo	20	http://www.bible.is/LWOWBT/Matt/1
+maa	San Jerónimo Tecóatl Mazatec	20	http://www.bible.is/MAASJV/Matt/1
+mad	Madurese	20	http://www.bible.is/MADIBS/Mark/1
+mah	Marshallese	20	http://www.bible.is/MAHWGM/Gen/1
+mai	Maithili	20	http://www.bible.is/MAIWBT/Matt/1
+maj	Jalapa De Díaz Mazatec	20	http://bibles.org/maj-MAJNT/Matt/1
+mak	Makasar	20	http://www.bible.is/MAKLAI/Mark/1
+mal	Malayalam	20	http://gujaratibible.com/Malayalam-Transliteration/<br>http://findabible.net/
+mam	Mam	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mvj&ROD_Code=00000&Variant_Code=#
+maq	Chiquihuitlán Mazatec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=maq&ROD_Code=00000&Variant_Code=#
+mar	Marathi	20	http://www.bible.is/MARWTC/Matt/1
+mau	Huautla Mazatec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mau&ROD_Code=00000&Variant_Code=#
+mav	Sateré-Mawé	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mav&ROD_Code=00000&Variant_Code=#
+maw	Mampruli	20	http://www.bible.is/MAWWBT/Matt/1
+maz	Central Mazahua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=maz&ROD_Code=00000&Variant_Code=#
+mbb	Western Bukidnon Manobo	19	http://www.bible.is/MBBWPS/Matt/1
+mbc	Macushi	20	http://bibles.org/mbc-MBCNT/Matt/1
+mbf	Baba Malay	20	http://alkitab.mobi/tb/Mrk/1/4/
+mbh	Mangseng	20	https://www.bible.com/de/bible/1122/jhn.1<br>http://www.scriptureearth.org/data/mbh/PDF/41-MATmbh-web.pdf
+mbj	Nadëb	20	https://www.bible.com/de/bible/452/mat.1.mbjnt
+mbl	Maxakalí	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mbl&ROD_Code=00000&Variant_Code=#
+mbs	Sarangani Manobo	20	http://bible.cloud/bible/content/texts/MBSWBT/index.html
+mbt	Matigsalug Manobo	20	http://www.bible.is/MBTWBT/Mark/3/D
+mca	Maca	20	http://www.scriptureearth.org/data/mca/PDF/00-WNTmca-web.pdf
+mcb	Machiguenga	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mcb&ROD_Code=00000&Variant_Code=#
+mcd	Sharanahua	20	https://www.bible.com/de/bible/522/jhn.1
+mcf	Matsés	20	http://www.scriptureearth.org/data/mcf/PDF/00-WNTmcf-web.pdf
+mck	Mbunda	20	http://bibles.org/mck-MBB/Matt/1
+mcn	Masana	20	http://bibles.org/versions/mcn-MASSANA<br>https://www.bible.com/de/versions/557-massana-bibalda-ta-peldetta
+mco	Coatlán Mixe	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mco&ROD_Code=00000&Variant_Code=#
+mcp	Makaa	20	http://bible.cloud/bible/content/texts/MCPWBT/index.html
+mcq	Ese	20	http://pngscriptures.org/mcq/
+mcu	Cameroon Mambila	20	http://www.bible.is/MCUTBL/Matt/1
+mda	Mada (Nigeria)	20	http://www.bible.is/MDAWBT/Matt/1
+mdy	Male (Ethiopia)	20	http://www.bible.is/MDYBSE/Matt/1
+med	Melpa	20	http://pngscriptures.org/med/
+mee	Mengen	20	http://pngscriptures.org/mee/
+mej	Meyah	20	http://www.bible.is/MEJTBL/Mark/4/D
+mek	Mekeo	20	http://pngscriptures.org/mek/
+men	Mende (Sierra Leone)	20	http://www.bible.is/MENBSL/Matt/1
+meq	Merey	20	https://www.bible.com/de/bible/1168/mat.1.meqnt
+meu	Motu	20	http://www.scriptureearth.org/data/meu/PDF/00-WNTmeu-web.pdf
+mfe	Morisyen	20	https://www.bible.com/de/bible/344/mat.1.ntkm
+mfh	Matal	20	http://www.bible.is/MFHWYI/Matt/1
+mfi	Wandala	20	http://www.bible.is/MFIWYI/Matt/1
+mfq	Moba	20	http://www.bible.is/MFQABT/Matt/1
+mfy	Mayo	20	http://www.bible.is/MFYWBT/Matt/1
+mfz	Mabaan	20	http://www.bible.is/MFZBSS/Matt/1
+mgh	Makhuwa-Meetto	2	http://bible.cloud/bible/content/texts/MGHWBT/index.html
+mhi	Ma'di	20	http://www.bible.is/MHIBSU/Matt/1/D
+mhl	Mauwake	20	http://pngscriptures.org/mhl/
+mhr	Eastern Mari	20	http://www.bible.is/MHRIBT/Mark/4/D
+mhx	Maru	20	http://www.bible.is/MHXBSM/Matt/1
+mhy	Ma'anyan	20	http://de.scribd.com/doc/78663612/Maanyan-Bible-New-Testament
+mib	Atatláhuca Mixtec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mib&ROD_Code=00000&Variant_Code=#
+mic	Mi'kmaq	20	http://bible.cloud/bible/content/texts/MICCBS/index.html
+mie	Ocotepec Mixtec	20	http://www.bible.is/MIETBL/Matt/1
+mif	Mofu-Gudur	20	http://www.bible.is/MIFWBT/Matt/1
+mig	San Miguel El Grande Mixtec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mig&ROD_Code=00000&Variant_Code=#
+mih	Chayuco Mixtec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mih&ROD_Code=00000&Variant_Code=#
+mil	Peñoles Mixtec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mil&ROD_Code=00000&Variant_Code=#
+min	Minangkabau	20	http://agapekoor.files.wordpress.com/2013/06/bahasa-minangkabau_pb.pdf
+mio	Pinotepa Nacional Mixtec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mio&ROD_Code=00000&Variant_Code=#
+miq	Mískito	20	https://www.bible.com/de/bible/298/gen.1.msktu
+mir	Isthmus Mixe	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mir&ROD_Code=00000&Variant_Code=#
+mit	Southern Puebla Mixtec	20	http://www.bible.is/MITTBL/Matt/1
+miz	Coatzospan Mixtec	20	http://www.bible.is/MIZTBL/Matt/1
+mjc	San Juan Colorado Mixtec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mjc&ROD_Code=00000&Variant_Code=#
+mkd	Macedonian	20	https://www.bible.com/de/bible/322/mat.1.mnt
+mkl	Mokole	20	40001006IzɑimɔíbíDɑvidiiyiínɑíjɛilɑɑluu.DɑvidiumɔíbíSɑlomɔɔ.IyeiSɑlomɔɔuiíjɛɑboiUriiiyiDɑvidiísou.
+mkn	Kupang Malay	20	http://bible.cloud/bible/content/texts/MKNUBB/index.html
+mks	Silacayoapan Mixtec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mks&ROD_Code=00000&Variant_Code=#
+mlh	Mape	20	http://pngscriptures.org/mlh/
+mlp	Bargam	20	http://pngscriptures.org/mlp/
+mlt	Maltese	20	http://www.jw.org/mt/pubblikazzjonijiet/bibbja/nwt/
+mmo	Mangga Buang	20	http://pngscriptures.org/mmo/
+mmx	Madak	20	http://pngscriptures.org/mmx/
+mna	Mbula	20	http://pngscriptures.org/mna/
+mnb	Muna	20	http://www.bible.is/MNBTBL/Matt/1
+mnf	Mundani	20	http://www.bible.is/MNFCAB/Matt/1
+mnh	Mono (Democratic Republic of Congo)	20	http://pngscriptures.org/mbh/
+mnk	Mandinka	20	http://www.bible.is/MNKBSG/Matt/1
+mnx	Manikion	20	http://gospelgo.com/q/Sougb%20Bible%20-%20New%20Testament.pdf
+moc	Mocoví	20	https://www.bible.com/de/bible/332/gen.1.mcv
+mog	Mongondow	20	http://alkitab.mobi/mongondow/Mrk/1/
+mop	Mopán Maya	20	http://www.bible.is/MOPWBT/Matt/1/
+mor	Moro	20	http://www.bible.is/MORBSS/Matt/1
+mos	Mossi	20	http://www.bible.is/MHMCAT/Matt/1
+mox	Molima	20	http://pngscriptures.org/mox/
+mpm	Yosondúa Mixtec	20	http://www.bible.is/MPMBTT/Matt/1
+mpp	Migabac	13	http://bible.cloud/bible/content/texts/MPPWBT/index.html
+mps	Dadibi	20	http://pngscriptures.org/mps/
+mpt	Mian	19	http://pngscriptures.org/mpt/
+mpx	Misima-Panaeati	18	http://pngscriptures.org/mpx/
+mqb	Mbuko	20	http://www.bible.is/MQBWBT/Matt/1
+mqj	Mamasa	20	https://www.bible.com/af/bible/383/mat.1.mqjnt
+mqy	Manggarai	20	http://bibles.org/mqy-BMNT/Matt/1
+mri	Maori	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+mrw	Maranao	20	http://www.bible.is/MRWNVS/Matt/1
+msa	Malay (macrolanguage)	20	http://alkitab.mobi/sbdr/Mat/1#v1
+msb	Masbatenyo	20	http://bible.cloud/bible/content/texts/MSBWBT/index.html
+msk	Mansaka	20	http://bible.cloud/bible/content/texts/MSKWBT/index.html
+msm	Agusan Manobo	19	http://www.bible.is/MSMWPS/Matt/1
+msy	Aruamu	20	http://www.bible.is/MSYPNG/Matt/1
+mta	Cotabato Manobo	20	http://www.bible.is/MTATBL/Matt/1
+mti	Maiwa (Papua New Guinea)	20	http://pngscriptures.org/mti/
+mtj	Moskona	20	http://www.bible.is/MTJTBL/Matt/1
+mto	Totontepec Mixe	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mto&ROD_Code=00000&Variant_Code=#
+mtp	Wichí Lhamtés Nocten	20	http://bibles.org/mtp-WHYK/Matt/1
+muh	Mündü	19	http://www.bible.is/MUHWBT/Matt/1
+mur	Murle	20	http://www.bible.is/MURTBL/Matt/1
+mux	Bo-Ung	20	http://pngscriptures.org/mux/
+muy	Muyang	20	http://www.bible.is/MUYWBT/Matt/1/D
+mva	Manam	20	http://pngscriptures.org/mva/copyright.htm
+mvn	Minaveha	20	http://bible.cloud/bible/content/texts/MVNJLB/index.html
+mvp	Duri	20	http://www.bible.is/MVPLAI/Mark/1
+mwc	Are	8	http://pngscriptures.org/mwc/
+mwf	Murrinh-Patha	0	http://aboriginalbibles.org.au/Murrinhpatha/
+mwm	Sar	20	https://www.bible.com/de/bible/446/gen.1.bs
+mwq	Mün Chin	20	http://www.myanmarbible.com/bible/Cho/html/index.html<br>http://www.bible.is/MWQBSM/Matt/1
+mwv	Mentawai	20	http://alkitab.mobi/mentawai/Mrk/1/
+mww	Hmong Daw	20	http://www.bible.is/MWWHDV/Matt/1
+mxb	Tezoatlán Mixtec	20	http://www.bible.is/MXBMVR/Matt/1
+mxp	Tlahuitoltepec Mixe	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=mxp&ROD_Code=00000&Variant_Code=#
+mxq	Juquila Mixe	20	http://www.bible.is/MXQTBL/Matt/1
+mxt	Jamiltepec Mixtec	20	http://www.bible.is/MXTTBL/Matt/1
+mya	Burmese	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+myb	Mbay	20	https://www.bible.com/de/bible/444/gen.1.bm80
+myk	Mamara Senoufo	20	http://www.bible.is/MYKWBT/Matt/1
+myu	Mundurukú	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=myu&ROD_Code=00000&Variant_Code=#
+myv	Erzya	20	http://www.bible.is/MYVIBT/Mark/2/D
+myw	Muyuw	19	http://pngscriptures.org/myw/copyright.htm
+myx	Masaaba	20	http://www.bible.is/MYXBSU/Matt/1
+myy	Macuna	20	http://www.bible.is/MYYWBT/Matt/1
+mzh	Wichí Lhamtés Güisnay	19	http://bibles.org/mzh-WCHB/Matt/1
+mzk	Nigeria Mambila	20	http://www.bible.is/MZKTBL/Matt/1
+mzl	Mazatlán Mixe	20	https://www.bible.com/de/bible/357/mat.1.mixe
+mzm	Mumuye	20	http://www.bible.is/MZMWBT/Matt/1
+mzw	Deg	20	http://www.bible.is/MZWNVS/Matt/1
+mzz	Maiadomu	2	http://pngscriptures.org/mzz/copyright.htm
+nab	Southern Nambikuára	20	http://www.scriptureearth.org/data/nab/PDF/00-WNTnab-web.pdf
+naf	Nabak	19	http://pngscriptures.org/naf/copyright.htm
+nak	Nakanai	20	http://pngscriptures.org/nak/copyright.htm
+nan	Min Nan Chinese	20	http://www.bible.is/NANTTV/Mark/1/D
+naq	Nama (Namibia)	20	https://www.bible.com/de/bible/548/mat.1.kkg
+nas	Naasioi	20	http://pngscriptures.org/nas/copyright.htm
+nbl	South Ndebele	20	https://www.bible.com/de/bible/450/jhn.1
+nbq	Nggem	14	http://ebible.org/Scriptures/nbq_usfx.zip
+nca	Iyo	20	http://pngscriptures.org/nca/
+nch	Central Huasteca Nahuatl	20	http://www.bible.is/NCHTBL/Matt/1
+ncj	Northern Puebla Nahuatl	20	http://www.scriptureearth.org/data/ncj/PDF/00-WNTncj-web.pdf
+ncl	Michoacán Nahuatl	20	http://www.scriptureearth.org/data/ncl/PDF/00-WNTncl-web.pdf
+ncu	Chumburung	20	http://www.bible.is/NCUWBT/Matt/1
+nde	North Ndebele	20	https://www.bible.com/de/bible/450/gen.1.snd12
+ndo	Ndonga	20	https://www.bible.com/de/bible/372/gen.1.ondb
+ndp	Ndo	20	http://www.bible.is/KD1BSU/Matt/1
+nds	Low Saxon	20	http://sourceforge.net/projects/zefania-sharp/files/Bibles/NDS/Daut%20niee%20Testamente%20en%20de%20Psalme/
+ndz	Ndogo	20	http://www.bible.is/NDZWBT/Matt/1
+neb	Toura (Côte d'Ivoire)	20	http://www.bible.is/NEBWYI/Matt/1
+nfr	Nafaanra	20	http://www.bible.is/NFRIBS/Matt/1
+ngu	Guerrero Nahuatl	20	http://www.bible.is/NAHNVS/Matt/1
+nhe	Eastern Huasteca Nahuatl	20	http://www.scriptureearth.org/data/nhe/PDF/00-WNTnhe-web.pdf
+nhg	Tetelcingo Nahuatl	20	http://www.scriptureearth.org/data/nhg/PDF/00-WNTnhg-web.pdf
+nhi	Zacatlán-Ahuacatlán-Tepetzintla Nahuatl	20	http://www.bible.is/NHIWBT/Matt/1
+nhr	Naro	20	http://bible.cloud/bible/content/texts/NHRBSB/index.html
+nhu	Noone	20	http://www.bible.is/NHUWBT/Matt/1
+nhw	Western Huasteca Nahuatl	20	http://www.scriptureearth.org/data/nhw/PDF/00-WNTnhw-web.pdf
+nhy	Northern Oaxaca Nahuatl	20	http://www.scriptureearth.org/data/nhy/PDF/00-WNTnhy-web.pdf
+nia	Nias	20	http://www.bible.is/NIAIBS/Mark/1
+nif	Nek	16	http://pngscriptures.org/nif/copyright.htm
+nii	Nii	20	http://pngscriptures.org/nii/copyright.htm
+nij	Ngaju	20	http://www.bible.is/NIJLAI/Mark/1
+nim	Nilamba	20	http://www.bible.is/NIMBST/Matt/1
+nin	Ninzo	20	https://www.bible.com/de/bible/367/mat.1.ninnt
+njm	Angami Naga	20	https://www.bible.com/de/bible/338/gen.1.naga
+nko	Nkonya	20	http://www.scriptureearth.org/data/nko/PDF/00-WNTnko-web.pdf
+nlc	Nalca	20	http://www.docstoc.com/docs/142757763/Nalca-Bible---New-Testament
+nld	Flemish	20	http://bijbel.coas.nl/bijbel/
+nmz	Nawdm	20	http://www.bible.is/NMZWSB/Matt/1/D
+nnb	Nande	20	http://www.bible.is/NNBBSU/Matt/1
+nnh	Ngiemboon	19	https://www.bible.com/de/bible/299/mat.1.nbgm
+nno	Norwegian Nynorsk	20	http://bibles.org/nno-N78NN/Matt/1
+nnw	Southern Nuni	20	http://www.bible.is/NNWWBT/Matt/1
+noa	Woun Meu	20	http://www.scriptureearth.org/data/noa/PDF/00-WNTnoa-web.pdf
+nob	Norwegian Bokmål	20	https://www.bible.com/de/bible/102/gen.1.nb
+nop	Numanggang	20	http://pngscriptures.org/nop/copyright.htm
+not	Nomatsiguenga	20	https://www.bible.com/de/bible/647/mat.1.notnt
+nou	Ewage-Notu	20	http://pngscriptures.org/nou/copyright.htm
+npi	Nepali (individual language)	20	http://www.jw.org/ne/प्रकाशनहरू/बाइबल/nwt/
+npl	Southeastern Puebla Nahuatl	20	http://www.bible.is/NPLWYI/Matt/1
+npy	Napu	20	http://www.bible.is/NPYLAI/Mark/1/D
+nsn	Nehan	20	http://pngscriptures.org/nsn/copyright.htm
+nso	Sepedi	20	https://www.bible.com/de/bible/124/gen.1.nso51
+nss	Nali	2	http://pngscriptures.org/nss/copyright.htm
+ntp	Northern Tepehuan	20	http://www.bible.is/NTPTBL/Matt/1
+ntr	Delo	20	http://www.bible.is/NTRWBT/Matt/1
+nus	Nuer	20	http://www.bible.is/NUSBSS/Matt/1
+nvm	Namiae	18	http://pngscriptures.org/nvm/copyright.htm
+nwb	Nyabwa	20	http://www.bible.is/NWBWBT/Matt/1
+nwi	Southwest Tanna	20	https://www.bible.com/de/bible/485/mat.1.nwint
+nya	Nyanja	20	http://www.jw.org/ny/mabuku/baibulo/nwt/
+nyf	Kigiryama	20	http://www.bible.is/NYFBTL/Matt/1
+nyn	Nyankole	20	http://www.bible.is/NYNBSU/Matt/1
+nyo	Nyoro	20	http://www.bible.is/NYOBSU/Matt/1
+nyy	Nyakyusa-Ngonde	20	http://www.bible.is/NYYBST/Matt/1
+obo	Obo Manobo	20	https://www.bible.com/de/bible/425/mat.1.obont
+oji	Ojibwa	20	Notavailable
+ojs	Severn Ojibwa	20	http://www.bible.is/OJSCBS/Matt/1/
+okv	Orokaiva	20	http://pngscriptures.org/okv/copyright.htm
+old	Mochi	20	http://www.bible.is/OLDBST/Matt/1
+omw	South Tairora	20	http://pngscriptures.org/omw/copyright.htm
+ong	Olo	20	http://pngscriptures.org/ong/copyright.htm
+ood	Tohono O'odham	20	http://www.scriptureearth.org/data/ood/PDF/00-WNT-ood-web.pdf
+opm	Oksapmin	20	http://pngscriptures.org/opm/copyright.htm
+ory	Oriya (individual language)	20	http://www.bible.is/ORYWTC/Matt/1
+oss	Ossetic	20	http://www.jw.org/os/публикацитӕ/библи/nwt/
+ote	Mezquital Otomi	20	http://www.bible.is/OTETBL/Matt/1
+otm	Eastern Highland Otomi	20	http://www.scriptureearth.org/data/otm/PDF/00-WNTotm-web.pdf
+otn	Tenango Otomi	20	http://www.scriptureearth.org/data/otn/PDF/00-WNTotn-web.pdf
+otq	Querétaro Otomi	20	http://www.bible.is/OTQTBL/Matt/1
+ots	Estado de México Otomi	20	http://bibles.org/ots-OTSNT/Matt/1
+ozm	Koonzime	20	http://www.bible.is/OZMTBL/Matt/1
+pab	Parecís	20	http://www.scriptureearth.org/data/pab/PDF/00-WNTpab-web.pdf
+pad	Paumarí	20	http://www.scriptureearth.org/data/pad/PDF/00-WNTpad-web.pdf
+pag	Pangasinan	20	http://www.jw.org/pag/publikasyon/biblia/nwt/
+pah	Tenharim	18	http://www.scriptureearth.org/data/pah/PDF/00-WNTpah-web.pdf
+pam	Pampanga	20	http://www.bible.is/PAMPBS/Matt/1
+pan	Punjabi	20	http://www.jw.org/pa/ਮੈਗਜ਼ੀਨ-ਅਤੇ-ਕਿਤਾਬਾਂ/ਬਾਈਬਲ/nwt/
+pao	Northern Paiute	17	http://www.bible.is/PAONAB/Matt/1
+pap	Papiamento	20	http://www.jw.org/pap/publikashon/beibel/nwt/
+pbb	Páez	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=pbb&ROD_Code=00000&Variant_Code=
+pbc	Patamona	20	http://www.bible.is/PBCBSS/Matt/1
+pbi	Parkwa	20	http://www.bible.is/PBIWYI/Mark/2
+pbl	Mak (Nigeria)	20	https://www.bible.com/de/bible/208/gen.1.ziv
+pcm	Nigerian Pidgin	20	http://www.bible.is/PCMTSC/Matt/1
+pdt	Plautdietsch	20	http://bibles.org/pdt-PB/Matt/1
+pes	Iranian Persian	20	https://www.bible.com/de/bible/181/gen.1.tpv
+pib	Yine	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=pib&ROD_Code=00000&Variant_Code=
+pio	Piapoco	20	https://www.bible.com/de/bible/226/mat.1.piont
+pir	Piratapuyo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=pir&ROD_Code=00000&Variant_Code=#
+pis	Pijin	20	http://www.jw.org/pis/olketa-pablikeson/bible/nwt/
+pkb	Pokomo	20	http://www.bible.is/PKBBTL/Matt/1
+plg	Pilagá	20	https://www.bible.com/de/bible/443/mat.1.plgnt
+pls	San Marcos Tlalcoyalco Popoloca	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=pls&ROD_Code=00000&Variant_Code=#
+plt	Plateau Malagasy	20	https://www.bible.com/de/bible/96/gen.1.mg1865
+plw	Brooke's Point Palawano	20	http://www.bible.is/PLWWBT/Matt/1
+pmf	Pamona	20	http://www.bible.is/PMFNTM/Mark/1/D
+pne	Western Penan	20	https://www.bible.com/de/bible/134/mat.1.rj
+poe	San Juan Atzingo Popoloca	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=poe&ROD_Code=00000&Variant_Code=#
+poh	Poqomchi'	20	http://www.bible.is/POHBSG/Gen/1
+poi	Highland Popoluca	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=poi&ROD_Code=00000&Variant_Code=#
+pol	Polish	20	http://www.bible.is/POLNCV/Matt/1
+por	Portuguese	20	http://www.bible.is/PORBSP/Gen/1/
+pot	Potawatomi	5	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+poy	Pogolo	20	http://bible.cloud/bible/content/texts/POYPBT/index.html
+ppk	Uma	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+ppo	Folopa	20	http://pngscriptures.org/ppo/
+prf	Paranan	20	https://www.bible.com/de/bible/438/mat.1.prfnt
+pri	Paicî	20	https://www.bible.com/de/bible/486/mat.1.print
+prk	Parauk	20	https://www.bible.com/de/bible/325/mat.1.wcl
+prs	Dari	20	http://www.bible.is/PRSGNN/Mark/1
+pse	Central Malay	20	http://de.scribd.com/doc/46461965/Serawai-Bible-New-Testament
+ptp	Patep	20	http://pngscriptures.org/ptp/
+ptu	Bambam	20	http://www.bible.is/PTULAI/Matt/1
+pua	Western Highland Purepecha	20	https://www.bible.com/de/bible/549/mat.1.pnt
+pwg	Gapapaiwa	20	http://pngscriptures.org/pwg/
+pww	Pwo Northern Karen	20	http://www.bible.is/PWWTBS/Matt/1
+qub	Huallaga Huánuco Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qub&ROD_Code=00000&Variant_Code=#
+quc	Quiché	20	http://bible.cloud/bible/content/texts/QUCNEW/index.html
+quf	Lambayeque Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=quf&ROD_Code=00000&Variant_Code=#
+qug	Chimborazo Highland Quichua	20	https://www.bible.com/de/bible/262/gen.1.qchi04
+quh	South Bolivian Quechua	20	https://www.bible.com/de/bible/263/mat.1.qnbnt
+qul	North Bolivian Quechua	20	http://www.bible.is/QULSBB/Matt/1<br>https://www.bible.com/de/versions/263
+qup	Southern Pastaza Quechua	20	http://www.bible.is/QUPTBL/Matt/1
+quw	Tena Lowland Quichua	20	http://www.bible.is/QUWHLE/Matt/1
+quy	Ayacucho Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=quy&ROD_Code=00000&Variant_Code=#
+quz	Cusco Quechua	20	http://www.bible.is/QUZPBS/Gen/1
+qvc	Cajamarca Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qvc&ROD_Code=00000&Variant_Code=#
+qve	Eastern Apurímac Quechua	20	http://www.scriptureearth.org/data/qve/PDF/00-WNTqve-web.pdf
+qvh	Huamalíes-Dos de Mayo Huánuco Quechua	20	http://www.bible.is/QEJLLB/Matt/1
+qvi	Imbabura Highland Quichua	20	https://www.bible.com/de/bible/264/gen.1.quii
+qvm	Margos-Yarowilca-Lauricocha Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qvm&ROD_Code=00000&Variant_Code=#
+qvn	North Junín Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qvn&ROD_Code=00000&Variant_Code=#
+qvo	Napo Lowland Quechua	20	http://www.bible.is/QVOVAA/Matt/1/D
+qvs	San Martín Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qvs&ROD_Code=00000&Variant_Code=#
+qvw	Huaylla Wanca Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qvw&ROD_Code=00000&Variant_Code=#
+qvz	Northern Pastaza Quichua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qvz&ROD_Code=00000&Variant_Code=#
+qwh	Huaylas Ancash Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qwh&ROD_Code=00000&Variant_Code=#
+qxh	Panao Huánuco Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qxh&ROD_Code=00000&Variant_Code=#<br>https://www.bible.com/de/bible/457/mat.1.qxhnt
+qxn	Northern Conchucos Ancash Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qxn&ROD_Code=00000&Variant_Code=#
+qxo	Southern Conchucos Ancash Quechua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=qxo&ROD_Code=00000&Variant_Code=#
+qxr	Cañar Highland Quichua	20	https://www.bible.com/de/bible/261/gen.1.qca04
+rai	Ramoaaina	20	http://pngscriptures.org/rai/copyright.htm
+rim	Nyaturu	20	http://www.bible.is/RIMBST/Matt/1
+rkb	Rikbaktsa	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=rkb&ROD_Code=00000&Variant_Code=
+rmo	Sinte Romani	20	http://www.bible.is/RMORAM/Matt/1/D
+rmy	Vlax Romani	20	http://www.sacred-texts.com/bib/wb/rmi/mat.htm<br>http://www.jesus-army.com/bible/Romani+NT
+ron	Romanian	20	https://www.bible.com/de/bible/126/gen.1.ntr
+roo	Rotokas	20	http://pngscriptures.org/roo/copyright.htm
+rop	Kriol	20	http://aboriginalbibles.org.au/Kriol/Conc/root.htm<br>https://www.bible.com/sk/bible/1362/gen.1
+rro	Waima	20	http://pngscriptures.org/rro/copyright.htm
+run	Rundi	20	http://www.jw.org/run/ivyasohowe/bibiliya/nwt/
+rus	Russian	20	https://www.bible.com/bible/201/mat.1.rsp
+rwo	Rawa	20	http://pngscriptures.org/rwo-karo/copyright.htm
+sab	Buglere	20	http://www.bible.is/SABWBT/Matt/1
+sag	Sango	20	http://www.jw.org/sg/ambeti-ti-e/bible/nwt/
+sas	Sasak	20	http://www.bible.is/SASLAI/Matt/1
+sba	Ngambay	20	http://bibles.org/sba-NB89/Matt/1
+sbd	Southern Samo	20	http://www.bible.is/SRNBSS/Matt/1
+sbl	Botolan Sambal	20	http://www.bible.is/SBLTBL/Matt/1
+sda	Toraja-Sa'dan	20	http://www.bible.is/SDALAI/Matt/1
+sey	Secoya	20	http://www.scriptureearth.org/data/sey/PDF/00-WNTsey-web.pdf
+sgb	Mag-antsi Ayta	20	http://www.bible.is/SGBTBL/Matt/1
+sgw	Sebat Bet Gurage	20	http://www.bible.is/SGWBSE/Matt/1
+sgz	Sursurunga	20	http://pngscriptures.org/sgz/copyright.htm
+shi	Tachelhit	20	http://www.bible.is/SHIRBD/Matt/1
+shk	Shilluk	20	http://www.bible.is/SHKBSS/Matt/1
+shp	Shipibo-Conibo	20	http://bibles.org/shp-SHPNTPO/Matt/1
+shu	Chadian Arabic	20	http://bibles.org/shu-SHULATN/Matt/1
+sig	Paasaal	20	http://www.bible.is/SIGWBT/Matt/1
+sil	Tumulung Sisaala	20	http://www.bible.is/SILGIL/Matt/1
+sim	Mende (Papua New Guinea)	19	http://pngscriptures.org/sim/copyright.htm
+sin	Sinhalese	20	http://www.jw.org/si/ප්%E2%80%8Dරකාශන/බයිබලය/nwt/
+sja	Epena	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=sja&ROD_Code=00000&Variant_Code=#
+sld	Sissala	20	http://www.bible.is/SLDTBL/Matt/1
+slk	Slovak	20	http://www.jw.org/sk/publikacie/biblia/nwt/
+sll	Salt-Yui	20	http://pngscriptures.org/sll/copyright.htm
+slv	Slovenian	20	http://www.jw.org/sl/publikacije/sveto-pismo/nwt/
+sme	Northern Sami	20	https://victorio.uit.no/biggies/trunk/mt/giza/NT/davviNT.txt
+smk	Bolinao	20	https://www.bible.com/de/bible/413/mat.1.smknt
+sml	Central Sama	20	http://www.bible.is/SMLTBL/Matt/1/D
+smo	Samoan	20	http://www.jw.org/sm/lomiga/tusi-paia/nwt/
+sna	Shona	20	http://www.jw.org/sn/mabhuku/bhaibheri/nwt/
+snc	Sinaugoro	20	http://pngscriptures.org/snc/copyright.htm
+snd	Sindhi	20	http://gospelgo.com/a/sindhi_nt.htm
+snn	Siona	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=snn&ROD_Code=00000&Variant_Code=#
+snp	Siane	20	http://pngscriptures.org/snp-lambau/copyright.htm
+snw	Selee	20	http://www.bible.is/SNWWBT/Matt/1
+sny	Saniyo-Hiyewe	18	http://pngscriptures.org/sny/copyright.htm
+som	Somali	20	http://www.bible.is/SOMSIM/Matt/1
+soq	Kanasi	20	http://pngscriptures.org/soq/copyright.htm
+sot	Southern Sotho	20	https://www.bible.com/de/bible/274/gen.1.sso89so
+soy	Miyobe	20	http://www.bible.is/SOYSIM/Matt/1/D
+spa	Spanish	20	https://www.bible.com/versions/52
+spl	Selepet	19	http://pngscriptures.org/spl/
+spp	Supyire Senoufo	20	http://www.bible.is/SPPTBL/Matt/1
+sps	Saposa	20	http://pngscriptures.org/sps/
+spy	Sabaot	20	http://www.bible.is/SPYWBT/Matt/1
+sqi	Albanian	20	https://www.bible.com/de/bible/292/mat.1.alnt
+sri	Siriano	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=sri&ROD_Code=00000&Variant_Code=#
+srm	Saramaccan	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=srm&ROD_Code=00000&Variant_Code=#
+srn	Sranan Tongo	20	http://www.jw.org/srn/buku-nanga-tra-sani/bijbel/nwt/
+srp	Serbian	20	http://download.jw.org/files/media_bible/35/bi12_SBO.epub
+srq	Sirionó	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=srq&ROD_Code=00000&Variant_Code=#
+ssd	Siroi	20	http://pngscriptures.org/ssd/
+ssg	Seimat	20	http://www.scriptureearth.org/data/ssg/PDF/00-WNTssg-web.pdf
+ssw	Swati	20	http://www.jw.org/ss/tincwadzi-letitfolakalako/libhayibheli/nwt/
+ssx	Samberigi	20	http://pngscriptures.org/ssx/
+stn	Owa	20	http://www.bible.is/STNBSP/Mark/3/D
+stp	Southeastern Tepehuan	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=stp&ROD_Code=00000&Variant_Code=#
+sua	Sulka	20	http://pngscriptures.org/sua/
+sue	Suena	20	http://pngscriptures.org/sue/copyright.htm
+suk	Sukuma	20	http://www.bible.is/SUACLV/Matt/1
+sum	Mayangna	20	https://www.bible.com/de/bible/285/gen.1.sumu
+sun	Sundanese	20	http://www.bible.is/SUNIBS/Matt/1
+sur	Mwaghavul	20	http://www.bible.is/SURIBS/Matt/1
+sus	Susu	20	http://www.bible.is/SUSPBT/Mark/3/D
+swe	Swedish	20	https://www.bible.com/de/bible/33/mat.1.bsv
+swg	Swabian	20	http://www.alemannischebibel.de/buecher.html
+swh	Swahili (individual language)	20	http://www.jw.org/sw/machapisho/biblia/nwt/
+swk	Malawi Sena	20	Notavailable
+swp	Suau	20	http://pngscriptures.org/swp/
+sxb	Suba	20	https://www.bible.com/de/bible/484/mat.1.sxbnt
+sxn	Sangir	20	http://www.bible.is/SXNLAI/Matt/1
+syc	Classical Syriac	20	http://biblehub.com/pes/mark/1.htm
+szb	Ngalum	20	http://gospelgo.com/p/ngalum_nt.htm
+tab	Tabassaran	20	http://www.bible.is/TABIBT/Matt/1<br>http://ibtrussia.org/en/text?m=TBN
+tac	Lowland Tarahumara	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tac&ROD_Code=00000&Variant_Code=#
+taj	Eastern Tamang	20	http://www.bible.is/TAJWBT/Matt/1
+tam	Tamil	20	http://www.jw.org/ta/வெளியீடுகள்/பைபிள்/nwt/
+taq	Tamasheq	20	http://www.bible.is/TAQWBT/Matt/1
+tar	Central Tarahumara	20	http://www.scriptureearth.org/data/tar/PDF/00WNT-tar-web.pdf
+tat	Tatar	20	http://www.bible.is/TTRIBT/Matt/1
+tav	Tatuyo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tav&ROD_Code=00000&Variant_Code=#
+taw	Tai	20	http://pngscriptures.org/taw/
+tbc	Takia	20	http://pngscriptures.org/tbc/
+tbg	North Tairora	20	http://www.scriptureearth.org/data/tbg/PDF/01-GENtbg-web.pdf
+tbl	Tboli	20	https://www.bible.com/de/bible/288/mat.1.tblnt
+tbo	Tawala	20	http://pngscriptures.org/tbo/
+tby	Tabaru	20	http://www.bible.is/TBYLAI/Mark/1
+tbz	Ditammari	20	http://www.bible.is/TBZBSB/Gen/1
+tca	Ticuna	20	http://www.bible.is/TCATBL/Matt/1
+tcc	Datooga	20	http://www.bible.is/TCCBST/Matt/1
+tcs	Torres Strait Creole	20	http://torresstraitbibles.org.au/Yumplatok/
+tcz	Thado Chin	18	http://www.biblesos.org/tcz/bible/thado-kuki/the-holy-biblein-thado-168/
+tdt	Tetun Dili	20	http://www.jw.org/tdt/livru-sira/b%C3%ADblia/nwt/
+tee	Huehuetla Tepehua	20	http://www.bible.is/TEETBL/Matt/1
+tel	Telugu	20	http://www.bible.is/TCWWTC/Gen/1
+tem	Timne	20	http://www.bible.is/TEMBSL/Mark/1/D
+teo	Teso	20	https://www.bible.com/de/bible/436/gen.1.ate61
+ter	Tereno	20	http://www.bible.is/TERTBL/Matt/1
+tfr	Teribe	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tfr&ROD_Code=00000&Variant_Code=#
+tgk	Tajik	20	http://www.bible.is/TGKIBT/Matt/1
+tgl	Tagalog	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+tgp	Tangoa	20	http://vanuatubibles.org/tgp/copyright.htm
+tha	Thai	20	https://www.bible.com/versions/203-tha-erv-phrakhristthrrmkhamphiir-chbabaanekhaaaicchngaay-phaakhkhamsayyaaaihm
+thk	Tharaka	20	http://www.bible.is/THKBTL/Matt/1
+tih	Timugon Murut	20	http://bibles.org/tih-MTNT/Matt/1
+tik	Tikar	20	http://www.bible.is/TIKWYI/Matt/1
+tim	Timbe	20	http://pngscriptures.org/tim/
+tir	Tigrinya	20	http://www.jw.org/ti/እዋናዊ/መጽሓፍ-ቅዱስ/nwt/
+tku	Upper Necaxa Totonac	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tot&ROD_Code=00000&Variant_Code=#
+tlb	Tobelo	20	http://www.bible.is/TLBLAI/Matt/1
+tlf	Telefol	20	http://pngscriptures.org/tlf/
+tlh	tlhIngan-Hol	20	http://sourceforge.net/projects/zefania-sharp/files/Bibles/XKL/Klingon%20Version/
+tna	Tacana	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tna&ROD_Code=00000&Variant_Code=#
+tnn	North Tanna	20	https://www.bible.com/sv/bible/1228/jhn.1
+tob	Toba	20	http://bibles.org/tob-TSB/Matt/1
+toc	Coyutla Totonac	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=toc&ROD_Code=00000&Variant_Code=#
+toh	Gitonga	20	Notavailable
+toj	Tojolabal	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=toj&ROD_Code=00000&Variant_Code=#
+too	Xicotepec De Juárez Totonac	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=too&ROD_Code=00000&Variant_Code=#
+top	Papantla Totonac	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=top&ROD_Code=00000&Variant_Code=#
+tos	Highland Totonac	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tos&ROD_Code=00000&Variant_Code=#
+tpa	Taupota	2	http://pngscriptures.org/tpa/
+tpi	Tok Pisin	20	http://www.jw.org/tpi/buk-magasin-pablikesen/baibel/nwt/
+tpm	Tampulma	20	http://www.bible.is/TPMWBT/Gen/1
+tpp	Pisaflores Tepehua	20	http://www.bible.is/TPPTBL/Matt/1/D
+tpt	Tlachichilco Tepehua	20	http://www.bible.is/TPTTBL/Matt/1
+tpz	Tinputz	19	http://pngscriptures.org/tpz/
+trc	Copala Triqui	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=trc&ROD_Code=00000&Variant_Code=
+trn	Trinitario	20	http://www.bible.is/TRNNTM/Matt/1
+trq	San Martín Itunyoso Triqui	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=trq&ROD_Code=00000&Variant_Code=#
+tsn	Tswana	20	https://www.bible.com/de/bible/278/gen.1.tsw08no
+tso	Tsonga	20	https://www.bible.com/de/bible/607/mat.1.tso29no
+tsz	Purepecha	20	http://bibles.org/tsz-PNT/Matt/1
+ttc	Tektiteko	20	http://www.bible.is/TTCWBT/Matt/1
+tte	Bwanabwana	20	http://pngscriptures.org/tte/
+ttq	Tawallammat Tamajaq	3	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+tuc	Mutu	18	https://www.bible.com/de/bible/473/mat.1.tucont
+tue	Tuyuca	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tue&ROD_Code=00000&Variant_Code=#
+tuf	Central Tunebo	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tuf&ROD_Code=00000&Variant_Code=#
+tui	Tupuri	20	http://bibles.org/tui-TUPB/Matt/1
+tum	Tumbuka	20	Notavailable
+tuo	Tucano	20	http://www.bible.is/TUOWBT/Matt/1
+tur	Turkish	20	http://www.jw.org/tr/yayinlar/kutsal-kitap/nwt/
+twi	Twi	20	http://www.jw.org/tw/nhoma/bible/nwt/
+twu	Termanu	20	http://www.bible.is/TWULAI/Mark/1/D
+txu	Kayapó	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=txu&ROD_Code=00000&Variant_Code=#
+tzh	Tzeltal	20	https://www.bible.com/de/bible/361/gen.1.tzh
+tzj	Tz'utujil	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=tzj&ROD_Code=00000&Variant_Code=#
+tzo	Tzotzil	20	https://www.bible.com/de/bible/382/gen.1.tze97
+ubr	Ubir	20	http://pngscriptures.org/ubr/
+ubu	Umbu-Ungu	20	http://pngscriptures.org/ubu-kala/
+udu	Uduk	20	http://www.bible.is/UDUSIM/Matt/1
+uig	Uyghur	20	http://gospelgo.com/a/uyghur_r/mat.htm
+ukr	Ukrainian	20	http://unbound.biola.edu/index.cfm?method=downloads.showDownloadMain
+upv	Uripiv-Wala-Rano-Atchin	20	https://www.bible.com/de/bible/525/jhn.1
+ura	Urarina	20	http://www.bible.is/URATBL/Matt/1
+urb	Urubú-Kaapor	20	40001006JeseNdawiru.Ndawikapitãkeruhũtĩ.NdawiSaromãru.SaromãmãiUriambyrrakehar.Amarãrainõhetahakejandejamangamangarahã,awapytumeme(14)hetahaixo.Pe,Ndawirehemangahauhyk.
+urd	Urdu	20	https://www.bible.com/de/bible/187/gen.1.ugv
+urk	Urak Lawoi'	20	http://www.bible.is/URKTBS/Matt/1
+usa	Usarufa	20	http://pngscriptures.org/usa/
+usp	Uspanteco	20	http://www.bible.is/USPWBT/Matt/1
+uvl	Lote	20	http://pngscriptures.org/uvl/
+uzb	Uzbek	20	http://www.jw.org/uz-cyrl/адабиётлар/муқаддас-китоб/nwt/
+vag	Vagla	20	http://www.bible.is/VAGWBT/Matt/1
+ven	Venda	20	http://www.jw.org/ve/dzikhandiso/bivhili/nwt/
+vie	Vietnamese	20	http://www.jw.org/vi/an-pham/kinh-thanh/nwt/
+viv	Iduna	20	http://pngscriptures.org/viv/
+vmy	Ayautla Mazatec	20	http://www.bible.is/VMYTBL/Matt/1
+vun	Vunjo	20	http://www.bible.is/VUNBST/Matt/1
+vut	Vute	20	http://bibles.org/vut-VNT/Matt/1
+waj	Waffa	19	http://pngscriptures.org/waj/
+wal	Wolaytta	20	http://www.bible.is/WALSIM/Gen/1
+wap	Wapishana	20	https://www.bible.com/de/bible/451/mat.1.wapnt
+war	Waray (Philippines)	20	http://www.jw.org/war/publikasyon/biblia/nwt/
+way	Wayana	20	http://www.bible.is/WAYWTV/Matt/1
+wbm	Wa	20	https://www.bible.com/de/bible/325/gen.1.wcl
+wbp	Warlpiri	20	http://aboriginalbibles.org.au/Warlpiri/
+wca	Yanomámi	20	http://www.bible.is/XSUMEV/Matt/1
+wed	Wedau	2	http://pngscriptures.org/wed/
+wer	Weri	20	http://pngscriptures.org/wer/
+whk	Wahau Kenyah	19	http://gospelgo.com/a/kenyah_nt.htm<br>https://www.bible.com/bible/918/mat.1.knt
+wiu	Wiru	20	http://pngscriptures.org/wiu/
+wmw	Mwani	20	http://www.bible.is/WMWWYI/Mark/1/D
+wnc	Wantoat	20	http://pngscriptures.org/wnc/
+wnu	Usan	20	http://pngscriptures.org/wnu/copyright.htm
+wob	Wè Northern	20	http://www.bible.is/WOBWBT/Matt/1
+wol	Wolof	20	http://www.sacred-texts.com/bib/wb/wlf/index.htm
+wos	Hanga Hundi	20	http://pngscriptures.org/wos/MAT01.htm
+wrs	Waris	20	http://pngscriptures.org/wrs/
+wsk	Waskia	20	http://pngscriptures.org/wsk/
+wuv	Wuvulu-Aua	20	http://pngscriptures.org/wuv/index.htm
+wwa	Waama	20	http://www.bible.is/WWAWYI/Matt/1
+xal	Oirat	19	http://www.bible.is/XALIBT/Matt/1
+xav	Xavánte	20	http://www.bible.is/XAVTBL/Matt/1
+xbi	Kombio	5	http://pngscriptures.org/xbi-y/copyright.htm
+xbr	Kambera	19	http://amazinggracebibleinstitute.com/unicode/kambera_nt.htm
+xed	Hdi	20	http://www.bible.is/XEDWYI/Matt/1/D
+xho	Xhosa	20	https://www.bible.com/de/bible/282/gen.1.xho96
+xla	Kamula	20	http://pngscriptures.org/xla/
+xon	Konkomba	20	http://www.bible.is/XO2IBS/Matt/1
+xrb	Eastern Karaboro	20	http://www.bible.is/XRBWBT/Matt/1
+xsi	Sio	20	http://pngscriptures.org/xsi/
+xsm	Kasem	20	http://www.bible.is/XSMBFV/Matt/1
+xsu	Sanumá	20	http://www.bible.is/XSUMEV/Matt/1
+xtd	Diuxi-Tilantongo Mixtec	19	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=xtd&ROD_Code=00000&Variant_Code=
+xtm	Magdalena Peñasco Mixtec	20	http://bibles.org/xtm-XTMNTPP/Matt/1
+xuo	Kuo	20	http://www.bible.is/XUOWBT/Matt/1
+yaa	Yaminahua	20	https://www.bible.com/de/bible/679/mat.1.yaant
+yad	Yagua	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=yad&ROD_Code=00000&Variant_Code=
+yal	Yalunka	20	http://www.bible.is/YALPBT/Matt/1
+yam	Yamba	20	http://www.bible.is/YAMWBT/Matt/1
+yan	Mayangna	20	http://bibles.org/yan-SUMU/Matt/1
+yaq	Yaqui	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=yaq&ROD_Code=00000&Variant_Code=#
+yby	Yaweyuha	20	http://pngscriptures.org/yby/copyright.htm
+ycn	Yucuna	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=ycn&ROD_Code=00000&Variant_Code=#
+yle	Yele	20	http://pngscriptures.org/yle/
+yli	Angguruk Yali	20	http://www.bible.is/YLILAI/Mark/1/D
+yml	Iamalele	20	http://pngscriptures.org/yml/copyright.htm
+yon	Yongkom	20	http://pngscriptures.org/yon/copyright.htm
+yor	Yoruba	20	http://www.jw.org/yo/ìwé/b%C3%ADbélì/nwt/
+yrb	Yareba	20	http://pngscriptures.org/yrb/copyright.htm
+yss	Yessan-Mayo	20	http://pngscriptures.org/yss-yamano/copyright.htm
+yua	Yucateco	20	http://www.jw.org/yua/jóoʼsaʼaniloʼob/biblia-maya/nwt/
+yuj	Karkar-Yuri	20	http://pngscriptures.org/yuj/copyright.htm
+yut	Yopno	20	http://pngscriptures.org/yut/copyright.htm
+yuw	Yau (Morobe Province)	20	http://pngscriptures.org/yuw/MAT01.htm
+yuz	Yuracare	20	http://www.bible.is/YUZNTM/Matt/1/N
+yva	Yawa	20	https://www.bible.com/de/bible/475/mat.1.yvant
+zab	Western Tlacolula Valley Zapotec	20	http://www.bible.is/ZABTBL/Matt/1
+zac	Ocotlán Zapotec	20	http://www.bible.is/ZACSIM/Matt/1<br>http://www.christusrex.org/www1/pater/wolf3-pdf/zapoteco-ocotlan-nt.pdf
+zad	Cajonos Zapotec	20	http://www.bible.is/ZADTBL/Matt/1
+zai	Isthmus Zapotec	20	http://www.bible.is/ZAITBL/Matt/1
+zam	Miahuatlán Zapotec	20	http://www.bible.is/ZAMILM/Matt/1
+zao	Ozolotepec Zapotec	20	http://www.bible.is/ZAOTBL/Matt/1
+zar	Rincón Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zar&ROD_Code=00000&Variant_Code=#
+zas	Santo Domingo Albarradas Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zas&ROD_Code=00000&Variant_Code=#
+zat	Tabaa Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zat&ROD_Code=00000&Variant_Code=#
+zav	Yatzachi Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zav&ROD_Code=00000&Variant_Code=#
+zaw	Mitla Zapotec	20	http://www.bible.is/ZAWMVR/Matt/1
+zca	Coatecas Altas Zapotec	20	https://www.bible.com/de/bible/857/mat.1.zcant
+zia	Zia	20	http://pngscriptures.org/zia/index.htm
+zom	Zou	20	https://www.bible.com/de/bible/208/mat.1
+zos	Francisco León Zoque	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zos&ROD_Code=00000&Variant_Code=#
+zpc	Choapan Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zpc&ROD_Code=00000&Variant_Code=
+zpi	Santa María Quiegolani Zapotec	20	http://www.bible.is/ZPIWYI/Matt/1
+zpl	Lachixío Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zpl&ROD_Code=00000&Variant_Code=
+zpm	Mixtepec Zapotec	20	http://www.bible.is/ZPMTBL/Matt/1
+zpo	Amatlán Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zpo&ROD_Code=00000&Variant_Code=
+zpq	Zoogocho Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zpq&ROD_Code=00000&Variant_Code=#
+zpu	Yalálag Zapotec	20	http://www.bible.is/ZPUTBL/Matt/1
+zpv	Chichicapan Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zpv&ROD_Code=00000&Variant_Code=
+zpz	Texmelucan Zapotec	20	http://www.bible.is/ZPZTBL/Matt/1
+zsm	Standard Malay	20	Notavailable
+zsr	Southern Rincon Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zsr&ROD_Code=00000&Variant_Code=
+ztq	Quioquitani-Quierí Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=ztq&ROD_Code=00000&Variant_Code=#
+zty	Yatee Zapotec	20	http://www.scriptureearth.org/00i-Scripture_Index.php?sortby=lang&name=zty&ROD_Code=00000&Variant_Code=
+zul	Zulu	20	http://www.jw.org/zu/izincwadi/ibhayibheli/nwt/
