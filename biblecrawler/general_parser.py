@@ -1,3 +1,11 @@
+__author__ = "Ehsaneddin Asgari"
+__license__ = "Apache 2"
+__version__ = "1.0.0"
+__maintainer__ = "Ehsaneddin Asgari"
+__email__ = "asgari@berkeley.edu"
+__project__ = "Super parallel project at CIS LMU"
+__website__ = "https://llp.berkeley.edu/asgari/"
+
 #!/usr/bin/env python3
 
 import sys
@@ -18,7 +26,7 @@ class BibleParser(object):
         """
 
         books2numbers = dict()
-        with io.open('/mounts/data/proj/asgari/final_proj/1000langs/data_config/books2numbers.txt', encoding="utf-8") as books_file:
+        with io.open('../meta/books2numbers.txt', encoding="utf-8") as books_file:
             for book_entry in books_file:
                 try:
                     (book_number, book_names) = book_entry.strip().split("\t", 1)

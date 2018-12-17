@@ -1,3 +1,11 @@
+__author__ = "Ehsaneddin Asgari"
+__license__ = "Apache 2"
+__version__ = "1.0.0"
+__maintainer__ = "Ehsaneddin Asgari"
+__email__ = "asgari@berkeley.edu"
+__project__ = "Super parallel project at CIS LMU"
+__website__ = "https://llp.berkeley.edu/asgari/"
+
 #!/usr/bin/env python3
 import sys
 
@@ -26,31 +34,32 @@ class BibleCloud(BibleCrawler, BibleParser):
         :param destination_directory:
         :param output_file:
         '''
-        try:
-            # get parameters
-            self.url, self.destination_directory, output_file = triple
-            self.output_file = self.destination_directory + output_file
-            self.print = printing
-            # crawl the pages
-            if crawl:
-                BibleCrawler.run_crawler(self, '//a[@class = "next"]/@href', self.url, self.destination_directory)
-            if parse:
-                # find the lang ID in the website
-                self.lang_directory = '/'.join(self.url.split('/')[3:7]) + '/'
-                self.url = self.url[self.url.find('.com') + 5::]
-                if '.' in self.url.split('/')[-1]:
-                    self.lang_directory = '/'.join(self.url.split('/')[3:-1]) + '/'
-                books = self.destination_directory + self.lang_directory
-                self.run_parser(books, self.output_file)
-                if remove_after_parse:
-                    # parse the output file
-                    # remove the directory
-                    FileUtility.remove_dir(self.destination_directory + self.lang_directory)
-        except:
+        # get parameters
+        self.url, self.destination_directory, output_file = triple
+        response = requests.get(self.url)
+        if response.status_code == 200:
             try:
-                print(triple)
+                self.output_file = self.destination_directory + output_file
+                self.print = printing
+                # crawl the pages
+                if crawl:
+                    BibleCrawler.run_crawler(self, '//a[@class = "next"]/@href', self.url, self.destination_directory)
+                if parse:
+                    # find the lang ID in the website
+                    self.lang_directory = '/'.join(self.url.split('/')[3:7]) + '/'
+                    self.url = self.url[self.url.find('.com') + 5::]
+                    if '.' in self.url.split('/')[-1]:
+                        self.lang_directory = '/'.join(self.url.split('/')[3:-1]) + '/'
+                    books = self.destination_directory + self.lang_directory
+                    self.run_parser(books, self.output_file)
+                    if remove_after_parse:
+                        # parse the output file
+                        # remove the directory
+                        FileUtility.remove_dir(self.destination_directory + self.lang_directory)
             except:
                 return None
+        else:
+            return None
         return None
 
     @staticmethod
@@ -135,7 +144,6 @@ class BibleCloud(BibleCrawler, BibleParser):
                 verses = self.parse_chapter(os.path.join(dirName, filename))
                 result.extend((book_number + chapter_number + str(i).zfill(3), v) for i, v in verses)
         result.sort()
-
         f = codecs.open(outputfile, 'w', 'utf-8')
         for i, v in result:
             f.write('%s\t%s\n' % (i, ' '.join(w for w in v.split(' ') if w)))

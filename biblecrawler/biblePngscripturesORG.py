@@ -1,3 +1,11 @@
+__author__ = "Ehsaneddin Asgari"
+__license__ = "Apache 2"
+__version__ = "1.0.0"
+__maintainer__ = "Ehsaneddin Asgari"
+__email__ = "asgari@berkeley.edu"
+__project__ = "Super parallel project at CIS LMU"
+__website__ = "https://llp.berkeley.edu/asgari/"
+
 #!/usr/bin/env python3
 import sys
 sys.path.append('../')
@@ -20,7 +28,7 @@ from biblecrawler.general_parser import BibleParser
 import requests
 from utility.interface_util import query_yes_no
 
-class PNGScriptCrawl(BibleCrawler,BibleParser):
+class PNGScriptRetrieve(BibleCrawler,BibleParser):
     log=[]
 
     def __init__(self, triple, crawl=True, parse=True, remove_after_parse=False, printing=False):
@@ -34,13 +42,13 @@ class PNGScriptCrawl(BibleCrawler,BibleParser):
         self.output_file=self.destination_directory + output_file
         self.print=printing
         # find the lang ID in the website
-        self.lang_directory = self.url.split('/')[3]
+        self.lang_directory = self.url.split('/')[0:-1][-1]
         if crawl:
             # crawl the pages
             BibleCrawler.run_crawler(self,'//a[text() = ">"]/@href',self.url, self.destination_directory, website='PNG')
         if parse:
             # parse the output file
-            books=self.destination_directory + self.lang_directory
+            books=self.destination_directory
             self.run_parser(books, self.output_file)
             if remove_after_parse:
                 FileUtility.remove_dir(self.destination_directory + self.lang_directory)
@@ -58,10 +66,10 @@ class PNGScriptCrawl(BibleCrawler,BibleParser):
             print ('Start parallel crawling..')
             pool = Pool(processes=num_p)
             res=[]
-            for x in tqdm.tqdm(pool.imap_unordered(PNGScriptCrawl, triples, chunksize=num_p),total=len(triples)):
+            for x in tqdm.tqdm(pool.imap_unordered(PNGScriptRetrieve, triples, chunksize=num_p),total=len(triples)):
                 res.append(x)
             pool.close()
-            FileUtility.save_list(triples[0][1]+'log.txt',PNGScriptCrawl.log)
+            FileUtility.save_list(triples[0][1]+'log.txt',PNGScriptRetrieve.log)
 
 
     @staticmethod
@@ -76,10 +84,10 @@ class PNGScriptCrawl(BibleCrawler,BibleParser):
 
         print ('Start crawling..')
         for x in tqdm.tqdm(triples):
-            PNGScriptCrawl(x)
-        FileUtility.save_list(triples[0][1]+'log.txt',PNGScriptCrawl.log)
+            PNGScriptRetrieve(x)
+        FileUtility.save_list(triples[0][1]+'log.txt',PNGScriptRetrieve.log)
 
-    def run_parser(self, basedir, outputfile):
+    def run_parser(self, basedir, outputfile, printing=False):
         book2numbers = BibleParser.create_books2numbers(self)
         result = []
         for dirName, subdirList, fileList in os.walk(basedir):
@@ -89,16 +97,19 @@ class PNGScriptCrawl(BibleCrawler,BibleParser):
                     continue
                 match = re.match('[0-9]*[A-Z]+', filename)
                 if not match:
-                    print('skipping unknown file', filename, file=sys.stderr)
+                    if printing:
+                        print('skipping unknown file', filename, file=sys.stderr)
                     continue
                 bookname = match.group().lower()
                 if bookname not in book2numbers:
-                    print('skipping unknown file', filename, file=sys.stderr)
+                    if printing:
+                        print('skipping unknown file', filename, file=sys.stderr)
                     continue
                 book_number = book2numbers[bookname]
                 match = re.search(r'([0-9]+)\.htm', filename)
                 if not match:
-                    print('skipping unknown file', filename, file=sys.stderr)
+                    if printing:
+                        print('skipping unknown file', filename, file=sys.stderr)
                     continue
                 chapter_number = match.group(1).zfill(3)
                 if chapter_number == '000':
@@ -162,15 +173,3 @@ class PNGScriptCrawl(BibleCrawler,BibleParser):
             else:
                 result.append((num, text))
         return result
-
-
-if __name__ == '__main__':
-    if requests.get("http://pngscriptures.org/robot.txt").status_code == 404:
-        print ("No robot.txt found. Let's continue..")
-    else:
-        if query_yes_no("There is a robot.txt file at http://pngscriptures.org/robot.txt. Do you want to check manually your eligibility first?"):
-            exit()
-        else:
-            print("OK, Let's continue..")
-    triple=[(l.split()[1],'/mounts/data/proj/asgari/final_proj/000_datasets/testbib/pngscriptures_etxra/', l.split()[0]) for l in FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/pngscriptures_etxra.txt')]
-    PNGScriptCrawl.parallel_crawl(triple,20)

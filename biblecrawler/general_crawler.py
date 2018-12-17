@@ -1,3 +1,11 @@
+__author__ = "Ehsaneddin Asgari"
+__license__ = "Apache 2"
+__version__ = "1.0.0"
+__maintainer__ = "Ehsaneddin Asgari"
+__email__ = "asgari@berkeley.edu"
+__project__ = "Super parallel project at CIS LMU"
+__website__ = "https://llp.berkeley.edu/asgari/"
+
 #!/usr/bin/env python3
 """Crawl bibles hosted on http://pngscriptures.org."""
 import sys
@@ -38,11 +46,13 @@ class BibleCrawler(object):
             print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
         self.seen = set()
         self.useless_url = set()
-        while True:
+        flag=True
+        while flag:
             if (url in self.seen and  not self.website == 'PNG') or (self.website == 'PNG' and self.counter>=1188):
                 if self.print:
                     print('Break on seen url:', url, file=sys.stderr)
                 BibleCrawler.log.append('\t'.join([self.output_file, 'Break on seen url:', str(url)]))
+                flag=False
                 break
             self.seen.add(url)
             if self.print:
@@ -57,8 +67,10 @@ class BibleCrawler(object):
                 if self.website == 'PNG':
                     url=self.jump_url()
                     if not url:
+                        flag=False
                         return
                 else:
+                    flag=False
                     return
             self.save_response(response, destination_directory)
             url = self.get_next_url(response)
@@ -66,8 +78,10 @@ class BibleCrawler(object):
                 if self.print:
                     print('Break on invalid url:', url, file=sys.stderr)
                 BibleCrawler.log.append('\t'.join([self.output_file, 'Break on invalid url:', str(url)]))
-                url=self.jump_url()
-                if not url:
+                if self.website == 'PNG' and self.counter>=1188:
+                    url=self.jump_url()
+                else:
+                    flag=False
                     break
             time.sleep(BibleCrawler.SLEEPTIME)
         if self.print:
@@ -79,7 +93,7 @@ class BibleCrawler(object):
         '''
         while self.counter < 1188:
             self.counter+=1
-            url_select='/'.join(self.url.split('/')[0:-1])+'/'+FileUtility.load_list('/mounts/data/proj/asgari/final_proj/1000langs/config/finalized_urls/pngscript_filenames.txt')[self.counter]
+            url_select='/'.join(self.url.split('/')[0:-1])+'/'+FileUtility.load_list('../meta/pngscript_filenames.txt')[self.counter]
             if url_select not in self.seen and url_select not in self.useless_url:
                 if requests.get(url_select).status_code==404:
                     if requests.get('/'.join(self.url.split('/')[0:-1])).status_code==404:
