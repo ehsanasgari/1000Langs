@@ -14,11 +14,11 @@ Please feel free to report any technical issue by sending an email or reporting 
 The 1000Langs is written in Python3. For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000langs/tree/master/run_crawler'> installation guideline </a>.
 
 
+<hr />
+
 ### List of covered languages
 
 The 1000Langs super-parallel crawler currently supports crawling of 1500+ unique languages, that are crawled through multiple sources of bible corpora.
-
-<hr />
 
 <table border="1" class="dataframe">
   <thead>
