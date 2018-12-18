@@ -9,9 +9,9 @@ Please feel free to report any technical issue by sending an email or reporting 
 <hr />
 
 
-<h1>Installation</h1>
+### Installation and running
 
-For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000langs/tree/master/run_crawler'> installation guideline </a>.
+The 1000Langs is written in Python3. For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000langs/tree/master/run_crawler'> installation guideline </a>.
 
 
 ### List of covered languages
