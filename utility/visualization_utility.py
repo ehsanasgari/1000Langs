@@ -64,7 +64,7 @@ def methods2venn(res_dict, name=None):
     plt.tight_layout()
     #plt.show()
     if name:
-        plt.savefig(name+'.pdf', dpi=500)
+        plt.savefig(name)
     return final_list
 
 def methods2venn2(res_dict, name=None):
