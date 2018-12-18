@@ -7663,6 +7663,9 @@ Here you can find the list of languages covered by 1000Langs crawler to date (De
   </tbody>
 </table>
 
+
+<hr/>
+
 ### Comparison of 1000Langs and the massive parallel corpora
 
 Here we compare language coverage of massively parallel corpus and 1000Langs:
