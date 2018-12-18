@@ -1,7 +1,0 @@
-http://pngscriptures.org/kqf/	kqf-x-bible.txt	0.0
-http://pngscriptures.org/mps/	mps-x-bible.txt	0.0
-http://pngscriptures.org/mwc/	mwc-x-bible.txt	0.0
-http://pngscriptures.org/wed/	wed-x-bible-wedau.txt	0.0
-http://pngscriptures.org/yon/copyright.htm	yon-x-bible.txt	0.0
-http://pngscriptures.org/yrb/copyright.htm	yrb-x-bible.txt	0.0
-http://www.pngscriptures.org/aui/MRK01.htm	aui-x-bible.txt	0.0

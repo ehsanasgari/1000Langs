@@ -37,7 +37,7 @@ class BDPAPl(object):
         # check the API connection
         response = requests.get('https://dbt.io/api/apiversion?key=' + self.key + '&v=2')
         if response.status_code != 200:
-            print('Enter you API code in the config file')
+            print('Enter a correct API code')
             return False
         else:
             response = json.loads(response.content)

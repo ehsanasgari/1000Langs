@@ -151,6 +151,7 @@ class BibleCloudAPl(object):
                 continue_iter=False
             triples=new_list
             count+=1;
+            print ('Double checking of the missing translations..')
             BibleCloud.parallel_crawl(triples, min(nump,len(triples)), True)
 
         self.create_report_cloud()
