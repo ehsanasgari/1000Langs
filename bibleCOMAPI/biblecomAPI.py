@@ -32,7 +32,7 @@ class BibleComAPl(object):
         FileUtility.ensure_dir(self.output_path + '/reports/')
         
 
-    def crawl_bpc(self,nump=20,update_meta=False, override=False, repeat=4):
+    def crawl_bpc(self,nump=20,update_meta=False, override=False, repeat=1):
         # update the metadata table
         if update_meta:
             self.update_meta_data()
@@ -51,6 +51,7 @@ class BibleComAPl(object):
         
         # iterating for max coverage
         continue_iter = True
+        count =0;
         while continue_iter and count < repeat:
             # update list
             new_list=[]
@@ -60,6 +61,7 @@ class BibleComAPl(object):
                     new_list.append([url,iso])
             if new_list==urliso:
                 continue_iter=False
+            count+=1;
             urliso=new_list
             res=BibleComAPl.make_parallel(min(nump,len(urliso)),self.crawl_a_lang,urliso)
         

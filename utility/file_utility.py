@@ -2,10 +2,10 @@ __author__ = "Ehsaneddin Asgari"
 __license__ = "Apache 2"
 __version__ = "1.0.0"
 __maintainer__ = "Ehsaneddin Asgari"
-__email__ = "asgari@berkeley.edu"
-__project__ = "LLP - DeepSeq2Sec"
-__website__ = "https://llp.berkeley.edu/DeepSeq2Sec/"
-
+__website__ = "https://llp.berkeley.edu/asgari/"
+__git__ = "https://github.com/ehsanasgari/"
+__email__ = "ehsan.asgari@gmail.com"
+__project__ = "1000Langs -- Super parallel project at CIS LMU"
 
 import sys
 sys.path.append('../')

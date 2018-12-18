@@ -52,16 +52,15 @@ class BibleCom(BibleCrawler,BibleParser):
                     BibleCrawler.run_crawler(self,'//div[contains(@class, "next-arrow")]//@href',self.url, self.destination_directory, website='bible.com')
             except:
                 print ('error in crawling '+self.url)
-            try:
-                if parse:
-                    self.url=self.url[self.url.find('.com')+5::]
-                    if '.' in self.url.split('/')[-1]:
-                        self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
-                    self.output_file=self.destination_directory + output_file
-                    books=self.destination_directory + self.lang_directory
-                    self.run_parser(books, self.output_file)
-            except:
-                return None
+            if parse:
+
+                self.url=self.url[self.url.find('.com')+5::]
+                if '.' in self.url.split('/')[-1]:
+                    self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
+                self.output_file=self.destination_directory + output_file
+                books=self.destination_directory + self.lang_directory
+                print('here ',books)
+                self.run_parser(books, self.output_file)
         else:
             response1 = requests.get(self.url.replace(self.url.split('/')[-1],'MAT.1'))
             if response1.status_code == 200:
@@ -73,15 +72,13 @@ class BibleCom(BibleCrawler,BibleParser):
                         BibleCrawler.run_crawler(self,'//div[contains(@class, "next-arrow")]//@href',self.url, self.destination_directory, website='bible.com')
                 except:
                     print ('error in crawling '+self.url)
-                try:
-                    if parse:
-                        self.url=self.url[self.url.find('.com')+5::]
-                        if '.' in self.url.split('/')[-1]:
-                            self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
-                        books=self.destination_directory + self.lang_directory
-                        self.run_parser(books, self.output_file)
-                except:
-                    return None
+                if parse:
+                    self.url=self.url[self.url.find('.com')+5::]
+                    if '.' in self.url.split('/')[-1]:
+                        self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
+                    books=self.destination_directory + self.lang_directory
+                    print('there ',books)
+                    self.run_parser(books, self.output_file)
                 return None
 
             return None
@@ -145,24 +142,28 @@ class BibleCom(BibleCrawler,BibleParser):
         for dirName, subdirList, fileList in os.walk(basedir):
             fileList.sort()
             for filename in fileList:
-                match = re.match('\d*[a-zA-Z]', filename)
-                if not match:
-                    if self.print:
-                        print('skipping unknown file', filename, file=sys.stderr)
-                    BibleCom.log.append(' '.join(['skipping unknown file', filename]))
-                    continue
-                number = re.search('\.', filename)
-                if not number:
-                    bookname = filename
-                    book_number = book2numbers[bookname.lower()]
-                    chapter_number = '001'
-                else:
-                    bookname = filename.split('.')[0]
+                try:
+                    match = re.match('\d*[a-zA-Z]', filename)
+                    if not match:
+                        if self.print:
+                            print('skipping unknown file', filename, file=sys.stderr)
+                        BibleCom.log.append(' '.join(['skipping unknown file', filename]))
+                        continue
+                    number = re.search('\.', filename)
+                    if not number:
+                        bookname = filename
+                        book_number = book2numbers[bookname.lower()]
+                        chapter_number = '001'
+                    else:
+                        bookname = filename.split('.')[0]
 
-                    book_number = book2numbers[bookname.lower()]
-                    chapter_number = filename.split('.')[1].zfill(3)
-                verses = self.parse_chapter(os.path.join(dirName, filename))
-                result.extend((book_number + chapter_number + str(i).zfill(3), v) for i, v in verses)
+                        book_number = book2numbers[bookname.lower()]
+                        chapter_number = filename.split('.')[1].zfill(3)
+                    verses = self.parse_chapter(os.path.join(dirName, filename))
+                    result.extend((book_number + chapter_number + str(i).zfill(3), v) for i, v in verses)
+                except:
+                    if self.print:
+                        print("book number doesn't match")
         result.sort()
 
         if len(result)>0:

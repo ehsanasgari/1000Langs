@@ -21,7 +21,6 @@ import time
 import urllib
 from urllib.parse import urljoin, urlsplit
 from utility.file_utility import FileUtility
-from utility.file_utility import FileUtility
 
 import requests
 from lxml import html
@@ -52,7 +51,8 @@ class BibleCrawler(object):
         self.seen = set()
         self.useless_url = set()
         flag=True
-        while flag:
+        count=0
+        while flag and count <2000:
             if (url in self.seen and  not self.website == 'PNG') or (self.website == 'PNG' and self.counter>=1188):
                 if self.print:
                     print('Break on seen url:', url, file=sys.stderr)
@@ -88,7 +88,9 @@ class BibleCrawler(object):
                 else:
                     flag=False
                     break
-            time.sleep(BibleCrawler.SLEEPTIME)
+            if BibleCrawler.SLEEPTIME>0:
+                time.sleep(BibleCrawler.SLEEPTIME)
+            count+=1
         if self.print:
             print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
 
