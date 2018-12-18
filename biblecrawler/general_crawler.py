@@ -2,12 +2,17 @@ __author__ = "Ehsaneddin Asgari"
 __license__ = "Apache 2"
 __version__ = "1.0.0"
 __maintainer__ = "Ehsaneddin Asgari"
-__email__ = "asgari@berkeley.edu"
-__project__ = "Super parallel project at CIS LMU"
 __website__ = "https://llp.berkeley.edu/asgari/"
+__git__ = "https://github.com/ehsanasgari/"
+__email__ = "ehsan.asgari@gmail.com"
+__project__ = "1000Langs -- Super parallel project at CIS LMU"
 
 #!/usr/bin/env python3
 """Crawl bibles hosted on http://pngscriptures.org."""
+'''
+This code is largely inspired/adapted from Michael Cysouw's crawling code
+'''
+
 import sys
 sys.path.append('../')
 import os.path
@@ -51,7 +56,7 @@ class BibleCrawler(object):
             if (url in self.seen and  not self.website == 'PNG') or (self.website == 'PNG' and self.counter>=1188):
                 if self.print:
                     print('Break on seen url:', url, file=sys.stderr)
-                BibleCrawler.log.append('\t'.join([self.output_file, 'Break on seen url:', str(url)]))
+                BibleCrawler.log.append('\t'.join(['Break on seen url:', str(url)]))
                 flag=False
                 break
             self.seen.add(url)
@@ -63,7 +68,7 @@ class BibleCrawler(object):
                     print('Error', url, response.url, response.status_code, file=sys.stderr)
                     print(time.strftime('%H:%M:%S'), url, file=sys.stderr)
                 BibleCrawler.log.append(
-                    '\t'.join([self.output_file, 'Error', str(url), str(response.url), str(response.status_code)]))
+                    '\t'.join([ 'Error', str(url), str(response.url), str(response.status_code)]))
                 if self.website == 'PNG':
                     url=self.jump_url()
                     if not url:
@@ -77,7 +82,7 @@ class BibleCrawler(object):
             if not url or not url.startswith('http'):
                 if self.print:
                     print('Break on invalid url:', url, file=sys.stderr)
-                BibleCrawler.log.append('\t'.join([self.output_file, 'Break on invalid url:', str(url)]))
+                BibleCrawler.log.append('\t'.join(['Break on invalid url:', str(url)]))
                 if self.website == 'PNG' and self.counter>=1188:
                     url=self.jump_url()
                 else:

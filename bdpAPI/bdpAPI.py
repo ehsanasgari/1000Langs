@@ -2,9 +2,10 @@ __author__ = "Ehsaneddin Asgari"
 __license__ = "Apache 2"
 __version__ = "1.0.0"
 __maintainer__ = "Ehsaneddin Asgari"
-__email__ = "asgari@berkeley.edu"
-__project__ = "Super parallel project at CIS LMU"
 __website__ = "https://llp.berkeley.edu/asgari/"
+__git__ = "https://github.com/ehsanasgari/"
+__email__ = "ehsan.asgari@gmail.com"
+__project__ = "1000Langs -- Super parallel project at CIS LMU"
 
 import sys
 import pandas as pd
@@ -43,7 +44,7 @@ class BDPAPl(object):
             print('Connected successfully to bible digital platform v ' + response['Version'])
             self.load_book_map()
 
-    def create_BPC(self, update_meta_data=False, override=False):
+    def create_BPC(self, update_meta_data=False, override=False, repeat=4):
         '''
             Creating PBC
         '''
@@ -80,7 +81,8 @@ class BDPAPl(object):
         continue_iter = True
         prev_missings = []
         missing_tr_list = []
-        while continue_iter:
+        count=0
+        while continue_iter and count < repeat:
             prev_missings = missing_tr_list
             missing_tr_list = []
             for trID in bible_ids:
@@ -97,10 +99,11 @@ class BDPAPl(object):
                     report['version'].append(self.id2version[trID])
                     report['verses'].append(length)
             print ('Double checking of the missing translations..')
-            bible_ids = self.ret_bible_books(trList = missing_tr_list)
-            bible_ids = list(bible_ids.keys())
-            bible_ids.sort()
-            if missing_tr_list == prev_missings or bible_ids==missing_tr_list:
+            bible_ids_new = self.ret_bible_books(trList = missing_tr_list)
+            bible_ids_new = list(bible_ids_new.keys())
+            bible_ids_new.sort()
+            count+=1;
+            if missing_tr_list == prev_missings:
                 continue_iter=False
 
 
@@ -150,7 +153,7 @@ class BDPAPl(object):
             
         # call in parallel
         print('Retrieving the bible translation')
-        res = BDPAPl.make_parallel(num_p, self.ret_a_book, tr_meta)
+        res = BDPAPl.make_parallel(min(num_p,len(tr_meta)), self.ret_a_book, tr_meta)
         res.update(exists)
         
         return res

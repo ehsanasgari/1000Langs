@@ -2,9 +2,10 @@ __author__ = "Ehsaneddin Asgari"
 __license__ = "Apache 2"
 __version__ = "1.0.0"
 __maintainer__ = "Ehsaneddin Asgari"
-__email__ = "asgari@berkeley.edu"
-__project__ = "Super parallel project at CIS LMU"
 __website__ = "https://llp.berkeley.edu/asgari/"
+__git__ = "https://github.com/ehsanasgari/"
+__email__ = "ehsan.asgari@gmail.com"
+__project__ = "1000Langs -- Super parallel project at CIS LMU"
 
 #!/usr/bin/env python3
 
@@ -14,7 +15,9 @@ import re
 import io
 import lxml.html
 from lxml import etree
-
+'''
+This code is largely inspired/adapted from Michael Cysouw's crawling code
+'''
 
 class BibleParser(object):
     def __init__(self,filename):

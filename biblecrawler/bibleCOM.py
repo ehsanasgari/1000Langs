@@ -2,9 +2,10 @@ __author__ = "Ehsaneddin Asgari"
 __license__ = "Apache 2"
 __version__ = "1.0.0"
 __maintainer__ = "Ehsaneddin Asgari"
-__email__ = "asgari@berkeley.edu"
-__project__ = "Super parallel project at CIS LMU"
 __website__ = "https://llp.berkeley.edu/asgari/"
+__git__ = "https://github.com/ehsanasgari/"
+__email__ = "ehsan.asgari@gmail.com"
+__project__ = "1000Langs -- Super parallel project at CIS LMU"
 
 #!/usr/bin/env python3
 import sys
@@ -37,33 +38,53 @@ class BibleCom(BibleCrawler,BibleParser):
         :param destination_directory:
         :param output_file:
         '''
-        try:
-            # get parameters
-            self.url, self.destination_directory, output_file=triple
-            self.output_file=self.destination_directory + output_file
-            self.print=printing
-
-
-            if not '.' in self.url.split('/')[-1]:
-                self.url=self.url+'/MAT.1'
-
-            print (self.url)
-            if crawl:
-                BibleCrawler.run_crawler(self,'//div[contains(@class, "next-arrow")]//@href',self.url, self.destination_directory, website='bible.com')
-            if parse:
-                self.url=self.url[self.url.find('.com')+5::]
-                if '.' in self.url.split('/')[-1]:
-                    self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
-                print (self.lang_directory)
-                print (self.destination_directory)
-                print (books)
-                books=self.destination_directory + self.lang_directory
-                self.run_parser(books, self.output_file)
-        except:
+        self.url, self.destination_directory, output_file=triple
+        response1 = requests.get(self.url)
+        if response1.status_code == 200:
             try:
-                print (triple)
+                # get parameters
+                self.print=printing
+
+                if not '.' in self.url.split('/')[-1]:
+                    self.url=self.url+'/MAT.1'
+
+                if crawl:
+                    BibleCrawler.run_crawler(self,'//div[contains(@class, "next-arrow")]//@href',self.url, self.destination_directory, website='bible.com')
+            except:
+                print ('error in crawling '+self.url)
+            try:
+                if parse:
+                    self.url=self.url[self.url.find('.com')+5::]
+                    if '.' in self.url.split('/')[-1]:
+                        self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
+                    self.output_file=self.destination_directory + output_file
+                    books=self.destination_directory + self.lang_directory
+                    self.run_parser(books, self.output_file)
             except:
                 return None
+        else:
+            response1 = requests.get(self.url.replace(self.url.split('/')[-1],'MAT.1'))
+            if response1.status_code == 200:
+                try:
+                    # get parameters
+                    self.output_file=self.destination_directory + output_file
+                    self.print=printing
+                    if crawl:
+                        BibleCrawler.run_crawler(self,'//div[contains(@class, "next-arrow")]//@href',self.url, self.destination_directory, website='bible.com')
+                except:
+                    print ('error in crawling '+self.url)
+                try:
+                    if parse:
+                        self.url=self.url[self.url.find('.com')+5::]
+                        if '.' in self.url.split('/')[-1]:
+                            self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
+                        books=self.destination_directory + self.lang_directory
+                        self.run_parser(books, self.output_file)
+                except:
+                    return None
+                return None
+
+            return None
         # parse the output file
         # remove the directory
         #FileUtility.remove_dir(self.destination_directory + self.lang_directory)
@@ -144,10 +165,12 @@ class BibleCom(BibleCrawler,BibleParser):
                 result.extend((book_number + chapter_number + str(i).zfill(3), v) for i, v in verses)
         result.sort()
 
-        f = codecs.open(outputfile, 'w', 'utf-8')
-        for i, v in result:
-            f.write('%s\t%s\n' % (i, ' '.join(w for w in v.split(' ') if w)))
-        f.close()
+        if len(result)>0:
+            f = codecs.open(outputfile, 'w', 'utf-8')
+            for i, v in result:
+                f.write('%s\t%s\n' % (i, ' '.join(w for w in v.split(' ') if w)))
+            f.close()
+
 
 
     def parse_chapter(self,filename):
