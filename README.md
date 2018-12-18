@@ -9,6 +9,9 @@ Please feel free to report any technical issue by sending an email or reporting 
 <hr />
 
 
+<h1>Installation</h1>
+
+For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000langs/tree/master/installations'> installation guideline </a>.
 
 
 ### List of covered languages
