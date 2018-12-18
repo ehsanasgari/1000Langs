@@ -11,7 +11,7 @@ Please feel free to report any technical issue by sending an email or reporting 
 
 <h1>Installation</h1>
 
-For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000langs/tree/master/installations'> installation guideline </a>.
+For the detailed installation and running guideline see the <a href='https://github.com/ehsanasgari/1000langs/tree/master/run_crawler'> installation guideline </a>.
 
 
 ### List of covered languages
