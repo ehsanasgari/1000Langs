@@ -21,11 +21,11 @@ def checkArgs(args):
     # Using the argument parser in case of -h or wrong usage the correct argument usage
     # will be prompted
     parser = argparse.ArgumentParser()
-
+    #5120f8eb40005070f19e9
     # output directory #################################################################################################
     parser.add_argument('--outdir', action='store', dest='output_dir', default=False, type=str,
                         help="directory for storing the output files, if doesn't exist will be created.")
-
+    #f03a423aad9
     # output directory #################################################################################################
     parser.add_argument('--apikey', action='store', dest='apikey', default=False, type=str,
                         help="API key of the Bible Digital Platform")
