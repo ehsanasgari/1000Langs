@@ -1,9 +1,0 @@
-btx-x-bible.txt	http://alkitab.mobi/karo/
-gor-x-bible.txt	http://alkitab.mobi/tb/Mrk/1/4/
-ind-x-bible-firman.txt	http://alkitab.sabda.org/bible.php?book=40&chapter=1&version=fayh
-jav-x-bible-1994.txt	http://alkitab.mobi/jawa2/
-mbf-x-bible.txt	http://alkitab.mobi/tb/Mrk/1/4/
-mog-x-bible.txt	http://alkitab.mobi/mongondow/Mrk/1/
-msa-x-bible-shellabear.txt	http://alkitab.mobi/sbdr/Mat/1#v1
-mwv-x-bible.txt	http://alkitab.mobi/mentawai/Mrk/1/
-sun-x-bible-informal.txt	http://alkitab.mobi/2/sunda/
