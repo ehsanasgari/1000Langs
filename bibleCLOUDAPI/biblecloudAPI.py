@@ -123,7 +123,7 @@ class BibleCloudAPl(object):
             return trCode, False
         return trCode,[iso, trCode, lang, year, description]
 
-    def crawl_bible_cloud(self, nump=20, override=False):
+    def crawl_bible_cloud(self, nump=20, override=False, repeat=3):
         urls=('https://bible.cloud/inscript/content/texts/'+ self.df_cloud['trans_ID']+'/MT1.html').tolist()
         outputs=[self.output_path + '/biblecloud_intermediate/']*len(self.df_cloud['trans_ID'].tolist())
         txt_files=('../'+self.df_cloud['language_iso']+'_'+self.df_cloud['trans_ID']+'.cloud.txt').tolist()
@@ -132,11 +132,27 @@ class BibleCloudAPl(object):
         if not override:
             new_list=[]
             for x,y,z in triples:
-                if not FileUtility.exists(y):
+                if not FileUtility.exists(y+z):
                     new_list.append((x,y,z))
             triples=new_list
 
         BibleCloud.parallel_crawl(triples, min(nump,len(triples)), True)
+
+        # iterating for max coverage
+        continue_iter = True
+        count =0;
+        while continue_iter and count < repeat:
+            # update list
+            new_list=[]
+            for x,y,z in triples:
+                if not FileUtility.exists(y+z):
+                    new_list.append((x,y,z))
+            if len(new_list)==len(triples):
+                continue_iter=False
+            triples=new_list
+            count+=1;
+            BibleCloud.parallel_crawl(triples, min(nump,len(triples)), True)
+
         self.create_report_cloud()
 
     def create_report_cloud(self):

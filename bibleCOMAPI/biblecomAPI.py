@@ -59,7 +59,7 @@ class BibleComAPl(object):
                 num=url.split('/')[0:-1][-1]
                 if not FileUtility.exists(self.output_path+'/'+iso+'_'+num+'.biblecom.txt'):
                     new_list.append([url,iso])
-            if new_list==urliso:
+            if len(new_list)==len(urliso):
                 continue_iter=False
             count+=1;
             urliso=new_list

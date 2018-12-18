@@ -59,7 +59,6 @@ class BibleCom(BibleCrawler,BibleParser):
                     self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
                 self.output_file=self.destination_directory + output_file
                 books=self.destination_directory + self.lang_directory
-                print('here ',books)
                 self.run_parser(books, self.output_file)
         else:
             response1 = requests.get(self.url.replace(self.url.split('/')[-1],'MAT.1'))
@@ -77,7 +76,6 @@ class BibleCom(BibleCrawler,BibleParser):
                     if '.' in self.url.split('/')[-1]:
                         self.lang_directory = '/'.join(self.url.split('/')[0:-1])+'/'
                     books=self.destination_directory + self.lang_directory
-                    print('there ',books)
                     self.run_parser(books, self.output_file)
                 return None
 

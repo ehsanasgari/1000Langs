@@ -15,6 +15,7 @@ sys.path.append('../')
 from utility.file_utility import FileUtility
 import pandas as pd
 import numpy as np
+from massive_parallelbible_IF.accessbible import AccessBible
 
 def warn(*args, **kwargs):
     pass
@@ -62,3 +63,29 @@ def getMetaMerged():
     df.drop_duplicates(subset=['trans_ID'], keep='last', inplace=True)
     df.set_index('trans_ID')
     return df
+
+def getMassiveparallel_meta(update=False):
+    errors=[]
+    if update:
+        # Get michael's corpora
+        AccBible = AccessBible(AccessBible.path)
+        massive_par_corpora=AccBible.get_list_of_all_lang_translations()
+        massive_par_corpora_length=dict()
+        for lang, trnsls in tqdm.tqdm(massive_par_corpora.items()):
+            length_list=[]
+            for trns in trnsls:
+                try:
+                    l=len(AccBible.get_subcorpus_bible_by_lang_trans_filtered(lang,trns))
+                    length_list.append(l)
+                except:
+                    errors.append((lang,trns))
+            if length_list!=[]:
+                massive_par_corpora_length[lang]=(len(length_list),max(length_list),np.mean(length_list))
+        rows=[]
+        for iso, scores in massive_par_corpora_length.items():
+            rows.append([iso, scores[0], scores[1], scores[2]])
+        df=pd.DataFrame(rows)
+        df=df.rename(index=str, columns={0:'language_iso',1:'#trans-massivepar', 2:'max-verse-massivepar',3:'mean-verse-massivepar'})
+        df=df.set_index('language_iso')
+        df.to_csv('../meta/massive_par_stat.tsv', sep='\t', index=True)
+    return pd.read_table('../meta/massive_par_stat.tsv', sep='\t')

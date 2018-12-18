@@ -37,9 +37,9 @@ class PNGAPl(object):
         import warnings
         warnings.warn = warn
 
-    def crawl_bpc(self,nump=20):
+    def crawl_bpc(self,nump=20,override=False, repeat=3):
         self.find_all_languages_on_png()
-        self.crawl_all_found_langs(nump)
+        self.crawl_all_found_langs(nump,override, repeat)
         self.create_report_png()
 
     def download_zipfile(self, url_outpath_rec):
@@ -66,18 +66,39 @@ class PNGAPl(object):
                     url_dict[links.attrs['href'][0:-1]]=(iso,code, 'http://pngscriptures.org/'+links.attrs['href']+links.attrs['href'][0:-1]+'_html.zip',re.sub(" *\\(.*", "", link.text))
         self.url_dict=url_dict
 
-    def crawl_all_found_langs(self,nump=20):
+    def crawl_all_found_langs(self,nump=20, override=False, repeat=3):
         table=[]
         inputs=[]
+        self.lang_dict=dict()
         for code, rec in tqdm.tqdm(self.url_dict.items()):
             inputs.append((rec[2],self.output_path+'/pngscripture_intermediate/'+rec[1]+'/',rec[0],rec[1],rec[3]))
-        res=PNGAPl.make_parallel(nump,self.download_zipfile, inputs)
-        for x,y in res.items():
-            if y:
-                table.append(y)
-        self.df_png=pd.DataFrame(table)
-        self.df_png=self.df_png.rename(index=str,columns={0:'language_iso',1:'trans_ID',2:'language_name'})
+            self.lang_dict[rec[0]]=rec[3]
 
+
+        if not override:
+            new_list=[]
+            for url, outpath, iso, code, langname in inputs:
+                if not FileUtility.exists(self.output_path+'/'+iso+'_'+code.replace('_','-')+'.png.txt'):
+                    new_list.append((url, outpath, iso, code, langname))
+            inputs=new_list
+
+        res=PNGAPl.make_parallel(min(nump,len(inputs)),self.download_zipfile, inputs)
+
+        # iterating for max coverage
+        continue_iter = True
+        count =0;
+        while continue_iter and count < repeat:
+            # update list
+            new_list=[]
+            for url, outpath, iso, code, langname in inputs:
+                if not FileUtility.exists(self.output_path+'/'+iso+'_'+code.replace('_','-')+'.png.txt'):
+                    new_list.append((url, outpath, iso, code, langname))
+            inputs=new_list
+            if len(new_list)==len(inputs):
+                continue_iter=False
+            inputs=new_list
+            count+=1;
+            res=PNGAPl.make_parallel(min(nump,len(inputs)),self.download_zipfile, inputs)
 
     @staticmethod
     def make_parallel(num_p, func, in_list):
@@ -89,13 +110,14 @@ class PNGAPl(object):
         return final_res
 
     def create_report_png(self):
-        self.df_png['verses']=0
-
+        report={'language_iso':[],'trans_ID':[],'language_name':[],'verses':[]}
+        self.df_png=pd.DataFrame(report)
         png_files=FileUtility.recursive_glob(self.output_path+'/', '*.png.txt')
         for png_file in png_files:
             iso,code=png_file.split('/')[-1].split('.')[0:-1][0:-1][-1].split('_')
             length=len(FileUtility.load_list(png_file))
-            self.df_png.loc[:,'verses'][(self.df_png['language_iso']==iso) & (self.df_png['trans_ID']==code)]=length
+            lang_name=self.lang_dict[iso]
+            self.df_png = self.df_png.append({'language_iso':iso, 'trans_ID':code,'language_name':lang_name,'verses':length}, ignore_index=True)
         self.df_png.set_index('trans_ID')
         self.df_png.to_csv(self.output_path + '/reports/crawl_report_png.tsv', sep='\t', index=False, columns=['language_iso','trans_ID','language_name','verses'])
         self.generate_final_rep()

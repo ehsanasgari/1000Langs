@@ -44,7 +44,7 @@ class BDPAPl(object):
             print('Connected successfully to bible digital platform v ' + response['Version'])
             self.load_book_map()
 
-    def create_BPC(self, update_meta_data=False, override=False, repeat=4):
+    def create_BPC(self, nump=20,update_meta_data=False, override=False, repeat=4):
         '''
             Creating PBC
         '''
@@ -73,7 +73,7 @@ class BDPAPl(object):
 
         
         # retrieve all bibles
-        bible_ids = self.ret_bible_books(override=override)
+        bible_ids = self.ret_bible_books(nump=20,override=override)
         bible_ids = list(bible_ids.keys())
         bible_ids.sort()
         
@@ -99,7 +99,7 @@ class BDPAPl(object):
                     report['version'].append(self.id2version[trID])
                     report['verses'].append(length)
             print ('Double checking of the missing translations..')
-            bible_ids_new = self.ret_bible_books(trList = missing_tr_list)
+            bible_ids_new = self.ret_bible_books(nump=20,trList = missing_tr_list)
             bible_ids_new = list(bible_ids_new.keys())
             bible_ids_new.sort()
             count+=1;
@@ -133,10 +133,10 @@ class BDPAPl(object):
             F.write(response.content.decode("utf-8"))
         F.close()
 
-    def ret_bible_books(self, num_p=10, trList=[], override=False):
+    def ret_bible_books(self, nump=10, trList=[], override=False):
         '''
         Retrieving all bibles
-        :param num_p:
+        :param nump:
         :return:
         '''
         
@@ -153,7 +153,7 @@ class BDPAPl(object):
             
         # call in parallel
         print('Retrieving the bible translation')
-        res = BDPAPl.make_parallel(min(num_p,len(tr_meta)), self.ret_a_book, tr_meta)
+        res = BDPAPl.make_parallel(min(nump,len(tr_meta)), self.ret_a_book, tr_meta)
         res.update(exists)
         
         return res
@@ -194,10 +194,10 @@ class BDPAPl(object):
         return trID, len(bible)
 
     @staticmethod
-    def make_parallel(num_p, func, in_list):
-        pool = Pool(processes=num_p)
+    def make_parallel(nump, func, in_list):
+        pool = Pool(processes=nump)
         final_res = dict()
-        for idx, res in tqdm.tqdm(pool.imap_unordered(func, in_list, chunksize=num_p), total=len(in_list)):
+        for idx, res in tqdm.tqdm(pool.imap_unordered(func, in_list, chunksize=nump), total=len(in_list)):
             final_res[idx] = res
         pool.close()
         return final_res
