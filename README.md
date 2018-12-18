@@ -7670,6 +7670,7 @@ Here you can find the list of languages covered by 1000Langs crawler to date (De
 
 Here we compare language coverage of massively parallel corpus and 1000Langs:
 
+![download](https://user-images.githubusercontent.com/8551117/50157022-981cfb00-02d0-11e9-9459-5e318e62ea70.png)
 
 
 
