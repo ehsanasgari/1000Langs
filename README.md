@@ -19,6 +19,7 @@ The 1000Langs is written in Python3. For the detailed installation and running g
 ### List of covered languages
 
 The 1000Langs super-parallel crawler currently supports crawling of 1500+ unique languages, that are crawled through multiple sources of bible corpora.
+Here you can find the list of languages covered by 1000Langs crawler to date (Dec 2018). These language are subject to change based on changes in the crawling sources.
 
 <table border="1" class="dataframe">
   <thead>
