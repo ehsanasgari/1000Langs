@@ -7662,3 +7662,16 @@ Here you can find the list of languages covered by 1000Langs crawler to date (De
     </tr>
   </tbody>
 </table>
+
+### Comparison of 1000Langs and the massive parallel corpora
+
+Here we compare language coverage of massively parallel corpus and 1000Langs:
+
+
+
+
+In  1199  out iso codes of  1526  total, 1000Langs crawled larger max verses for the iso code!
+In  912  out iso codes of  1239  total intersection, 1000Langs crawled larger max verses for the iso code!
+
+For a detailed comparison please see 'reports>comparison.xlsx'.
+
