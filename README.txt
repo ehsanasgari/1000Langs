@@ -1,5 +1,14 @@
-# 1000Langs is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
+## 1000Langs is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
 
+<strong>Developer</strong>: <a href='https://llp.berkeley.edu/asgari/'>Ehsaneddin Asgari </a>(<span style="color: #0000ff;">asgari [at] cis [dot] lmu [dot] de</span>)
+<br/>
+Please feel free to report any technical issue by sending an email or reporting an issue here.
+<br/>
+<strong>PI</strong>: Prof. Hinrich Schuetze
+<br/>
+
+## List of covered languages
+<hr />
 
 <table border="1" class="dataframe">
   <thead>
@@ -13,7632 +22,7632 @@
     <tr>
       <th>aah</th>
       <td>Abu' Arapesh</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>aai</th>
       <td>Arifama-Miniafia</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>aak</th>
       <td>Ankave</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>aau</th>
       <td>Abau</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>aaz</th>
       <td>Amarasi</td>
-      <td>6592.0</td>
+      <td>6592</td>
     </tr>
     <tr>
       <th>abi</th>
       <td>Abidji</td>
-      <td>7925.0</td>
+      <td>7925</td>
     </tr>
     <tr>
       <th>abt</th>
       <td>Ambulas</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>abx</th>
       <td>Inabaknon</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>aby</th>
       <td>Aneme Wake</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>aca</th>
       <td>Achagua</td>
-      <td>4418.0</td>
+      <td>4418</td>
     </tr>
     <tr>
       <th>acc</th>
       <td>NaN</td>
-      <td>7930.0</td>
+      <td>7930</td>
     </tr>
     <tr>
       <th>acd</th>
       <td>Gikyode</td>
-      <td>7911.0</td>
+      <td>7911</td>
     </tr>
     <tr>
       <th>ace</th>
       <td>Achinese</td>
-      <td>29713.0</td>
+      <td>29713</td>
     </tr>
     <tr>
       <th>acf</th>
       <td>Saint Lucian Creole French</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ach</th>
       <td>Acoli</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>acn</th>
       <td>Achang</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>acr</th>
       <td>Achi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>acu</th>
       <td>Achuar-Shiwiar</td>
-      <td>7934.0</td>
+      <td>7934</td>
     </tr>
     <tr>
       <th>ade</th>
       <td>Adele</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>adh</th>
       <td>Adhola</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>adi</th>
       <td>Adi</td>
-      <td>5053.0</td>
+      <td>5053</td>
     </tr>
     <tr>
       <th>adj</th>
       <td>Adioukrou</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>adl</th>
       <td>Galo</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>adz</th>
       <td>Adzera</td>
-      <td>1533.0</td>
+      <td>1533</td>
     </tr>
     <tr>
       <th>aeb</th>
       <td>Tunisian Arabic</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>aer</th>
       <td>Eastern Arrernte</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>aeu</th>
       <td>Akeu</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>aey</th>
       <td>Amele</td>
-      <td>9492.0</td>
+      <td>9492</td>
     </tr>
     <tr>
       <th>afr</th>
       <td>Afrikaans</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>agd</th>
       <td>Agarabi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>agg</th>
       <td>Angor</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>agm</th>
       <td>Angaataha</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>agn</th>
       <td>Agutaynen</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>agr</th>
       <td>Aguaruna</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>agt</th>
       <td>Central Cagayan Agta</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>agu</th>
       <td>Aguacateco</td>
-      <td>7935.0</td>
+      <td>7935</td>
     </tr>
     <tr>
       <th>agw</th>
       <td>Kahua</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>agx</th>
       <td>Aghul</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>ahk</th>
       <td>Akha</td>
-      <td>8433.0</td>
+      <td>8433</td>
     </tr>
     <tr>
       <th>aia</th>
       <td>Arosi</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>aii</th>
       <td>Assyrian Neo-Aramaic</td>
-      <td>7520.0</td>
+      <td>7520</td>
     </tr>
     <tr>
       <th>aim</th>
       <td>Aimol</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ain</th>
       <td>Ainu (Japan)</td>
-      <td>5052.0</td>
+      <td>5052</td>
     </tr>
     <tr>
       <th>aji</th>
       <td>Ajië</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ajz</th>
       <td>Amri Karbi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>aka</th>
       <td>Akan</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>akb</th>
       <td>Batak Angkola</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ake</th>
       <td>Akawaio</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>akh</th>
       <td>Angal Heneng</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>akp</th>
       <td>Siwu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ald</th>
       <td>Alladian</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>alj</th>
       <td>Alangan</td>
-      <td>7923.0</td>
+      <td>7923</td>
     </tr>
     <tr>
       <th>alp</th>
       <td>Alune</td>
-      <td>7912.0</td>
+      <td>7912</td>
     </tr>
     <tr>
       <th>alq</th>
       <td>Algonquin</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>als</th>
       <td>Tosk Albanian</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>alt</th>
       <td>Southern Altai</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>alz</th>
       <td>Alur</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ame</th>
       <td>Yanesha'</td>
-      <td>7911.0</td>
+      <td>7911</td>
     </tr>
     <tr>
       <th>amf</th>
       <td>Hamer-Banna</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>amh</th>
       <td>Amharic</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>amk</th>
       <td>Ambai</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>amm</th>
       <td>Ama (Papua New Guinea)</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>amn</th>
       <td>Amanab</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>amp</th>
       <td>Alamblak</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>amr</th>
       <td>Amarakaeri</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>amu</th>
       <td>Guerrero Amuzgo</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>anm</th>
       <td>Anal</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ann</th>
       <td>Obolo</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>anv</th>
       <td>Denya</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>any</th>
       <td>Anyin</td>
-      <td>6130.0</td>
+      <td>6130</td>
     </tr>
     <tr>
       <th>aoj</th>
       <td>Mufian</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>aom</th>
       <td>Ömie</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>aon</th>
       <td>Bumbita Arapesh</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>aoz</th>
       <td>Uab Meto</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>apb</th>
       <td>Sa'a</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ape</th>
       <td>Bukiyip</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>apn</th>
       <td>Apinayé</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>apr</th>
       <td>Arop-Lokep</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>apt</th>
       <td>Apatani</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>apu</th>
       <td>Apurinã</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>apw</th>
       <td>Western Apache</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>apy</th>
       <td>Apalaí</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>apz</th>
       <td>Safeyoka</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>arb</th>
       <td>Standard Arabic</td>
-      <td>31103.0</td>
+      <td>31103</td>
     </tr>
     <tr>
       <th>arl</th>
       <td>Arabela</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>arn</th>
       <td>Mapudungun</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>arp</th>
       <td>Arapaho</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>ary</th>
       <td>Moroccan Arabic</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>arz</th>
       <td>Egyptian Arabic</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>asg</th>
       <td>Cishingini</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>asm</th>
       <td>Assamese</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>aso</th>
       <td>Dano</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ata</th>
       <td>Pele-Ata</td>
-      <td>9540.0</td>
+      <td>9540</td>
     </tr>
     <tr>
       <th>atb</th>
       <td>Zaiwa</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>atd</th>
       <td>Ata Manobo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>atg</th>
       <td>Ivbie North-Okpela-Arhe</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>atq</th>
       <td>Aralle-Tabulahan</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>att</th>
       <td>Pamplona Atta</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>auc</th>
       <td>Waorani</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>aui</th>
       <td>Anuki</td>
-      <td>4169.0</td>
+      <td>4169</td>
     </tr>
     <tr>
       <th>auy</th>
       <td>Awiyaana</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ava</th>
       <td>Avaric</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>avn</th>
       <td>Avatime</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>avt</th>
       <td>Au</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>avu</th>
       <td>Avokaya</td>
-      <td>7593.0</td>
+      <td>7593</td>
     </tr>
     <tr>
       <th>awa</th>
       <td>Awadhi</td>
-      <td>7910.0</td>
+      <td>7910</td>
     </tr>
     <tr>
       <th>awb</th>
       <td>Awa (Papua New Guinea)</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>awx</th>
       <td>Awara</td>
-      <td>1666.0</td>
+      <td>1666</td>
     </tr>
     <tr>
       <th>ayp</th>
       <td>North Mesopotamian Arabic</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ayr</th>
       <td>Central Aymara</td>
-      <td>30700.0</td>
+      <td>30700</td>
     </tr>
     <tr>
       <th>azb</th>
       <td>South Azerbaijani</td>
-      <td>31103.0</td>
+      <td>31103</td>
     </tr>
     <tr>
       <th>azg</th>
       <td>San Pedro Amuzgos Amuzgo</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>azz</th>
       <td>Highland Puebla Nahuatl</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>bak</th>
       <td>Bashkir</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>ban</th>
       <td>Balinese</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>bao</th>
       <td>Waimaha</td>
-      <td>8010.0</td>
+      <td>8010</td>
     </tr>
     <tr>
       <th>bav</th>
       <td>Vengo</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>bba</th>
       <td>Baatonum</td>
-      <td>30920.0</td>
+      <td>30920</td>
     </tr>
     <tr>
       <th>bbb</th>
       <td>Barai</td>
-      <td>13142.0</td>
+      <td>13142</td>
     </tr>
     <tr>
       <th>bbc</th>
       <td>Batak Toba</td>
-      <td>31166.0</td>
+      <td>31166</td>
     </tr>
     <tr>
       <th>bbj</th>
       <td>Ghomálá'</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>bbk</th>
       <td>Babanki</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>bbo</th>
       <td>Northern Bobo Madaré</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>bbr</th>
       <td>Girawa</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bcc</th>
       <td>Southern Balochi</td>
-      <td>1885.0</td>
+      <td>1885</td>
     </tr>
     <tr>
       <th>bch</th>
       <td>Bariai</td>
-      <td>10705.0</td>
+      <td>10705</td>
     </tr>
     <tr>
       <th>bci</th>
       <td>Baoulé</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>bcl</th>
       <td>Central Bikol</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>bco</th>
       <td>Kaluli</td>
-      <td>1651.0</td>
+      <td>1651</td>
     </tr>
     <tr>
       <th>bcw</th>
       <td>Bana</td>
-      <td>7898.0</td>
+      <td>7898</td>
     </tr>
     <tr>
       <th>bdd</th>
       <td>Bunama</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bdh</th>
       <td>Baka (South Sudan)</td>
-      <td>6592.0</td>
+      <td>6592</td>
     </tr>
     <tr>
       <th>bdq</th>
       <td>Bahnar</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>bea</th>
       <td>Beaver</td>
-      <td>678.0</td>
+      <td>678</td>
     </tr>
     <tr>
       <th>bef</th>
       <td>Benabena</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bel</th>
       <td>Belarusian</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>bem</th>
       <td>Bemba (Zambia)</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>ben</th>
       <td>Bengali</td>
-      <td>31099.0</td>
+      <td>31099</td>
     </tr>
     <tr>
       <th>beq</th>
       <td>Beembe</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>bex</th>
       <td>Jur Modo</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>bfd</th>
       <td>Bafut</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>bfo</th>
       <td>Malba Birifor</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>bgr</th>
       <td>Bawm Chin</td>
-      <td>7867.0</td>
+      <td>7867</td>
     </tr>
     <tr>
       <th>bgs</th>
       <td>Tagabawa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>bgt</th>
       <td>Bughotu</td>
-      <td>7861.0</td>
+      <td>7861</td>
     </tr>
     <tr>
       <th>bgz</th>
       <td>Banggai</td>
-      <td>7945.0</td>
+      <td>7945</td>
     </tr>
     <tr>
       <th>bhg</th>
       <td>Binandere</td>
-      <td>2836.0</td>
+      <td>2836</td>
     </tr>
     <tr>
       <th>bhl</th>
       <td>Bimin</td>
-      <td>9820.0</td>
+      <td>9820</td>
     </tr>
     <tr>
       <th>bhw</th>
       <td>Biak</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>bhz</th>
       <td>Bada (Indonesia)</td>
-      <td>7915.0</td>
+      <td>7915</td>
     </tr>
     <tr>
       <th>bib</th>
       <td>Bissa</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>big</th>
       <td>Biangai</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bim</th>
       <td>Bimoba</td>
-      <td>28202.0</td>
+      <td>28202</td>
     </tr>
     <tr>
       <th>bis</th>
       <td>Bislama</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>biu</th>
       <td>Biete</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>biv</th>
       <td>Southern Birifor</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>bjp</th>
       <td>Fanamaket</td>
-      <td>2018.0</td>
+      <td>2018</td>
     </tr>
     <tr>
       <th>bjr</th>
       <td>Binumarien</td>
-      <td>10705.0</td>
+      <td>10705</td>
     </tr>
     <tr>
       <th>bjv</th>
       <td>Bedjond</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>bkd</th>
       <td>Binukid</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bkl</th>
       <td>Berik</td>
-      <td>7938.0</td>
+      <td>7938</td>
     </tr>
     <tr>
       <th>bkq</th>
       <td>Bakairí</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>bku</th>
       <td>Buhid</td>
-      <td>7930.0</td>
+      <td>7930</td>
     </tr>
     <tr>
       <th>bkv</th>
       <td>Bekwarra</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bla</th>
       <td>Siksika</td>
-      <td>1071.0</td>
+      <td>1071</td>
     </tr>
     <tr>
       <th>blt</th>
       <td>Tai Dam</td>
-      <td>7943.0</td>
+      <td>7943</td>
     </tr>
     <tr>
       <th>blw</th>
       <td>Balangao</td>
-      <td>7279.0</td>
+      <td>7279</td>
     </tr>
     <tr>
       <th>blz</th>
       <td>Balantak</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>bmh</th>
       <td>Kein</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bmk</th>
       <td>Ghayavi</td>
-      <td>678.0</td>
+      <td>678</td>
     </tr>
     <tr>
       <th>bmq</th>
       <td>Bomu</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>bmr</th>
       <td>Muinane</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>bmu</th>
       <td>Somba-Siawari</td>
-      <td>9625.0</td>
+      <td>9625</td>
     </tr>
     <tr>
       <th>bmv</th>
       <td>Bum</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bnj</th>
       <td>Eastern Tawbuid</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>bno</th>
       <td>Bantoanon</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>bnp</th>
       <td>Bola</td>
-      <td>14602.0</td>
+      <td>14602</td>
     </tr>
     <tr>
       <th>boa</th>
       <td>Bora</td>
-      <td>7651.0</td>
+      <td>7651</td>
     </tr>
     <tr>
       <th>bod</th>
       <td>Tibetan</td>
-      <td>23145.0</td>
+      <td>23145</td>
     </tr>
     <tr>
       <th>boj</th>
       <td>Anjam</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>bom</th>
       <td>Berom</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>bon</th>
       <td>Bine</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bov</th>
       <td>Tuwuli</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>box</th>
       <td>Buamu</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>bpr</th>
       <td>Koronadal Blaan</td>
-      <td>7928.0</td>
+      <td>7928</td>
     </tr>
     <tr>
       <th>bps</th>
       <td>Sarangani Blaan</td>
-      <td>7927.0</td>
+      <td>7927</td>
     </tr>
     <tr>
       <th>bqc</th>
       <td>Boko (Benin)</td>
-      <td>31073.0</td>
+      <td>31073</td>
     </tr>
     <tr>
       <th>bqj</th>
       <td>Bandial</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>bqp</th>
       <td>Busa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>bre</th>
       <td>Breton</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>bru</th>
       <td>Eastern Bru</td>
-      <td>7921.0</td>
+      <td>7921</td>
     </tr>
     <tr>
       <th>bsc</th>
       <td>Bassari</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>bsn</th>
       <td>Barasana-Eduria</td>
-      <td>7548.0</td>
+      <td>7548</td>
     </tr>
     <tr>
       <th>bsp</th>
       <td>Baga Sitemu</td>
-      <td>4541.0</td>
+      <td>4541</td>
     </tr>
     <tr>
       <th>bss</th>
       <td>Akoose</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>btd</th>
       <td>Batak Dairi</td>
-      <td>7933.0</td>
+      <td>7933</td>
     </tr>
     <tr>
       <th>bth</th>
       <td>Biatah Bidayuh</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>bts</th>
       <td>Batak Simalungun</td>
-      <td>31172.0</td>
+      <td>31172</td>
     </tr>
     <tr>
       <th>btt</th>
       <td>Bete-Bendi</td>
-      <td>7895.0</td>
+      <td>7895</td>
     </tr>
     <tr>
       <th>btx</th>
       <td>Batak Karo</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>bud</th>
       <td>Ntcham</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>buk</th>
       <td>Bugawac</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bul</th>
       <td>Bulgarian</td>
-      <td>31101.0</td>
+      <td>31101</td>
     </tr>
     <tr>
       <th>bum</th>
       <td>Bulu (Cameroon)</td>
-      <td>5060.0</td>
+      <td>5060</td>
     </tr>
     <tr>
       <th>bus</th>
       <td>Bokobaru</td>
-      <td>19425.0</td>
+      <td>19425</td>
     </tr>
     <tr>
       <th>bvc</th>
       <td>Baelelea</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>bvd</th>
       <td>Baeggu</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>bvr</th>
       <td>Burarra</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>bvz</th>
       <td>Bauzi</td>
-      <td>7800.0</td>
+      <td>7800</td>
     </tr>
     <tr>
       <th>bwd</th>
       <td>Bwaidoka</td>
-      <td>1533.0</td>
+      <td>1533</td>
     </tr>
     <tr>
       <th>bwq</th>
       <td>Southern Bobo Madaré</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>bwu</th>
       <td>Buli (Ghana)</td>
-      <td>7836.0</td>
+      <td>7836</td>
     </tr>
     <tr>
       <th>bxh</th>
       <td>Buhutu</td>
-      <td>4281.0</td>
+      <td>4281</td>
     </tr>
     <tr>
       <th>bxr</th>
       <td>Russia Buriat</td>
-      <td>7827.0</td>
+      <td>7827</td>
     </tr>
     <tr>
       <th>byr</th>
       <td>Baruya</td>
-      <td>9492.0</td>
+      <td>9492</td>
     </tr>
     <tr>
       <th>byx</th>
       <td>Qaqet</td>
-      <td>8044.0</td>
+      <td>8044</td>
     </tr>
     <tr>
       <th>bzd</th>
       <td>Bribri</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bzh</th>
       <td>Mapos Buang</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>bzi</th>
       <td>Bisu</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>bzj</th>
       <td>Belize Kriol English</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>caa</th>
       <td>Chortí</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>cab</th>
       <td>Garifuna</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>cac</th>
       <td>Chuj</td>
-      <td>7918.0</td>
+      <td>7918</td>
     </tr>
     <tr>
       <th>caf</th>
       <td>Southern Carrier</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cag</th>
       <td>Nivaclé</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>cak</th>
       <td>Kaqchikel</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cao</th>
       <td>Chácobo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cap</th>
       <td>Chipaya</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>caq</th>
       <td>Car Nicobarese</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>car</th>
       <td>Galibi Carib</td>
-      <td>7929.0</td>
+      <td>7929</td>
     </tr>
     <tr>
       <th>cat</th>
       <td>Catalan</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>cav</th>
       <td>Cavineña</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>cax</th>
       <td>Chiquitano</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>cbc</th>
       <td>Carapana</td>
-      <td>7815.0</td>
+      <td>7815</td>
     </tr>
     <tr>
       <th>cbi</th>
       <td>Chachi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>cbk</th>
       <td>Chavacano</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cbr</th>
       <td>Cashibo-Cacataibo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cbs</th>
       <td>Cashinahua</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cbt</th>
       <td>Chayahuita</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>cbu</th>
       <td>Candoshi-Shapra</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cbv</th>
       <td>Cacua</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>cco</th>
       <td>Comaltepec Chinantec</td>
-      <td>7895.0</td>
+      <td>7895</td>
     </tr>
     <tr>
       <th>ccp</th>
       <td>Chakma</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cdf</th>
       <td>Chiru</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ceb</th>
       <td>Cebuano</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>ceg</th>
       <td>Chamacoco</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cek</th>
       <td>Eastern Khumi Chin</td>
-      <td>7896.0</td>
+      <td>7896</td>
     </tr>
     <tr>
       <th>ces</th>
       <td>Czech</td>
-      <td>31172.0</td>
+      <td>31172</td>
     </tr>
     <tr>
       <th>cfm</th>
       <td>Falam Chin</td>
-      <td>30534.0</td>
+      <td>30534</td>
     </tr>
     <tr>
       <th>cgc</th>
       <td>Kagayanen</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>chd</th>
       <td>Highland Oaxaca Chontal</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>che</th>
       <td>Chechen</td>
-      <td>5049.0</td>
+      <td>5049</td>
     </tr>
     <tr>
       <th>chf</th>
       <td>Tabasco Chontal</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>chj</th>
       <td>Ojitlán Chinantec</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>chk</th>
       <td>Chuukese</td>
-      <td>31078.0</td>
+      <td>31078</td>
     </tr>
     <tr>
       <th>cho</th>
       <td>Choctaw</td>
-      <td>1127.0</td>
+      <td>1127</td>
     </tr>
     <tr>
       <th>chq</th>
       <td>Quiotepec Chinantec</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>chr</th>
       <td>Cherokee</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>chv</th>
       <td>Chuvash</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>chz</th>
       <td>Ozumacín Chinantec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cjo</th>
       <td>Ashéninka Pajonal</td>
-      <td>7931.0</td>
+      <td>7931</td>
     </tr>
     <tr>
       <th>cjp</th>
       <td>Cabécar</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>cjv</th>
       <td>Chuave</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ckb</th>
       <td>Central Kurdish</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>cko</th>
       <td>Anufo</td>
-      <td>7913.0</td>
+      <td>7913</td>
     </tr>
     <tr>
       <th>cle</th>
       <td>Lealao Chinantec</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>clu</th>
       <td>Caluyanun</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>cly</th>
       <td>Eastern Highland Chatino</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cme</th>
       <td>Cerma</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cmn</th>
       <td>Mandarin Chinese</td>
-      <td>31039.0</td>
+      <td>31039</td>
     </tr>
     <tr>
       <th>cmo</th>
       <td>Central Mnong</td>
-      <td>7937.0</td>
+      <td>7937</td>
     </tr>
     <tr>
       <th>cmr</th>
       <td>Mro-Khimi Chin</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>cnh</th>
       <td>Hakha Chin</td>
-      <td>31087.0</td>
+      <td>31087</td>
     </tr>
     <tr>
       <th>cni</th>
       <td>Asháninka</td>
-      <td>7775.0</td>
+      <td>7775</td>
     </tr>
     <tr>
       <th>cnk</th>
       <td>Khumi Chin</td>
-      <td>7986.0</td>
+      <td>7986</td>
     </tr>
     <tr>
       <th>cnl</th>
       <td>Lalana Chinantec</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>cnt</th>
       <td>Tepetotutla Chinantec</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>coe</th>
       <td>Koreguaje</td>
-      <td>7737.0</td>
+      <td>7737</td>
     </tr>
     <tr>
       <th>cof</th>
       <td>Colorado</td>
-      <td>7878.0</td>
+      <td>7878</td>
     </tr>
     <tr>
       <th>cok</th>
       <td>Santa Teresa Cora</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>con</th>
       <td>Cofán</td>
-      <td>7898.0</td>
+      <td>7898</td>
     </tr>
     <tr>
       <th>cop</th>
       <td>Coptic</td>
-      <td>6400.0</td>
+      <td>6400</td>
     </tr>
     <tr>
       <th>cor</th>
       <td>Cornish</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>cot</th>
       <td>Caquinte</td>
-      <td>7919.0</td>
+      <td>7919</td>
     </tr>
     <tr>
       <th>cou</th>
       <td>Wamey</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>cpa</th>
       <td>Palantla Chinantec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cpb</th>
       <td>Ucayali-Yurúa Ashéninka</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>cpc</th>
       <td>Ajyíninka Apurucayali</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cpu</th>
       <td>Pichis Ashéninka</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>cpy</th>
       <td>South Ucayali Ashéninka</td>
-      <td>6128.0</td>
+      <td>6128</td>
     </tr>
     <tr>
       <th>crh</th>
       <td>Crimean Tatar</td>
-      <td>31163.0</td>
+      <td>31163</td>
     </tr>
     <tr>
       <th>crj</th>
       <td>Southern East Cree</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>crk</th>
       <td>Plains Cree</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>crl</th>
       <td>Northern East Cree</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>crm</th>
       <td>Moose Cree</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>crn</th>
       <td>El Nayar Cora</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>crs</th>
       <td>Seselwa Creole French</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>crt</th>
       <td>Iyojwa'ja Chorote</td>
-      <td>5053.0</td>
+      <td>5053</td>
     </tr>
     <tr>
       <th>crx</th>
       <td>Carrier</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>csk</th>
       <td>Jola-Kasa</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>cso</th>
       <td>Sochiapam Chinantec</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>csy</th>
       <td>Siyin Chin</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>ct1</th>
       <td>NaN</td>
-      <td>30987.0</td>
+      <td>30987</td>
     </tr>
     <tr>
       <th>cta</th>
       <td>Tataltepec Chatino</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ctd</th>
       <td>Tedim Chin</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ctp</th>
       <td>Western Highland Chatino</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ctu</th>
       <td>Chol</td>
-      <td>28203.0</td>
+      <td>28203</td>
     </tr>
     <tr>
       <th>cub</th>
       <td>Cubeo</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>cuc</th>
       <td>Usila Chinantec</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>cui</th>
       <td>Cuiba</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>cuk</th>
       <td>San Blas Kuna</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cul</th>
       <td>Culina</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>cut</th>
       <td>Teutila Cuicatec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cux</th>
       <td>Tepeuxila Cuicatec</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>cwe</th>
       <td>Kwere</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>cwt</th>
       <td>Kuwaataay</td>
-      <td>7912.0</td>
+      <td>7912</td>
     </tr>
     <tr>
       <th>cya</th>
       <td>Nopala Chatino</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>cym</th>
       <td>Welsh</td>
-      <td>7520.0</td>
+      <td>7520</td>
     </tr>
     <tr>
       <th>czt</th>
       <td>Zotung Chin</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>daa</th>
       <td>Dangaléat</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>dad</th>
       <td>Marik</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>daf</th>
       <td>NaN</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>dah</th>
       <td>Gwahatike</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>dan</th>
       <td>Danish</td>
-      <td>31169.0</td>
+      <td>31169</td>
     </tr>
     <tr>
       <th>dbq</th>
       <td>Daba</td>
-      <td>7831.0</td>
+      <td>7831</td>
     </tr>
     <tr>
       <th>ddn</th>
       <td>Dendi (Benin)</td>
-      <td>7960.0</td>
+      <td>7960</td>
     </tr>
     <tr>
       <th>ded</th>
       <td>Dedua</td>
-      <td>10420.0</td>
+      <td>10420</td>
     </tr>
     <tr>
       <th>des</th>
       <td>Desano</td>
-      <td>7744.0</td>
+      <td>7744</td>
     </tr>
     <tr>
       <th>deu</th>
       <td>German</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>dga</th>
       <td>Southern Dagaare</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>dgc</th>
       <td>Casiguran Dumagat Agta</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>dgi</th>
       <td>Northern Dagara</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>dgr</th>
       <td>Dogrib</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>dgz</th>
       <td>Daga</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>dhg</th>
       <td>Dhangu-Djangu</td>
-      <td>678.0</td>
+      <td>678</td>
     </tr>
     <tr>
       <th>dhm</th>
       <td>Zemba</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>did</th>
       <td>Didinga</td>
-      <td>7388.0</td>
+      <td>7388</td>
     </tr>
     <tr>
       <th>dig</th>
       <td>Digo</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>dik</th>
       <td>Southwestern Dinka</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>dis</th>
       <td>Dimasa</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>div</th>
       <td>Dhivehi</td>
-      <td>2810.0</td>
+      <td>2810</td>
     </tr>
     <tr>
       <th>djk</th>
       <td>Eastern Maroon Creole</td>
-      <td>7882.0</td>
+      <td>7882</td>
     </tr>
     <tr>
       <th>djr</th>
       <td>Djambarrpuyngu</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>dks</th>
       <td>Southeastern Dinka</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>dln</th>
       <td>Darlong</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>dnj</th>
       <td>Dan</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>dnw</th>
       <td>Western Dani</td>
-      <td>7903.0</td>
+      <td>7903</td>
     </tr>
     <tr>
       <th>dob</th>
       <td>Dobu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>dop</th>
       <td>Lukpa</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>dos</th>
       <td>Dogosé</td>
-      <td>7932.0</td>
+      <td>7932</td>
     </tr>
     <tr>
       <th>dow</th>
       <td>Doyayo</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>dru</th>
       <td>Rukai</td>
-      <td>5051.0</td>
+      <td>5051</td>
     </tr>
     <tr>
       <th>dsh</th>
       <td>Daasanach</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>dtb</th>
       <td>Labuk-Kinabatangan Kadazan</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>dtp</th>
       <td>Kadazan Dusun</td>
-      <td>30471.0</td>
+      <td>30471</td>
     </tr>
     <tr>
       <th>dts</th>
       <td>Toro So Dogon</td>
-      <td>7857.0</td>
+      <td>7857</td>
     </tr>
     <tr>
       <th>dud</th>
       <td>Hun-Saare</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>due</th>
       <td>Umiray Dumaget Agta</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>dug</th>
       <td>Duruma</td>
-      <td>7938.0</td>
+      <td>7938</td>
     </tr>
     <tr>
       <th>duo</th>
       <td>Dupaninan Agta</td>
-      <td>7939.0</td>
+      <td>7939</td>
     </tr>
     <tr>
       <th>dur</th>
       <td>Dii</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>dwr</th>
       <td>Dawro</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>dww</th>
       <td>Dawawa</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>dyi</th>
       <td>Djimini Senoufo</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>dyo</th>
       <td>Jola-Fonyi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>dyu</th>
       <td>Dyula</td>
-      <td>31170.0</td>
+      <td>31170</td>
     </tr>
     <tr>
       <th>dzo</th>
       <td>Dzongkha</td>
-      <td>7902.0</td>
+      <td>7902</td>
     </tr>
     <tr>
       <th>ebk</th>
       <td>Eastern Bontok</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>eka</th>
       <td>Ekajuk</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ell</th>
       <td>Modern Greek (1453-)</td>
-      <td>31104.0</td>
+      <td>31104</td>
     </tr>
     <tr>
       <th>emi</th>
       <td>Mussau-Emira</td>
-      <td>8092.0</td>
+      <td>8092</td>
     </tr>
     <tr>
       <th>emp</th>
       <td>Northern Emberá</td>
-      <td>7752.0</td>
+      <td>7752</td>
     </tr>
     <tr>
       <th>enb</th>
       <td>Markweeta</td>
-      <td>7906.0</td>
+      <td>7906</td>
     </tr>
     <tr>
       <th>eng</th>
       <td>English</td>
-      <td>31104.0</td>
+      <td>31104</td>
     </tr>
     <tr>
       <th>enq</th>
       <td>Enga</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>enx</th>
       <td>Enxet</td>
-      <td>23148.0</td>
+      <td>23148</td>
     </tr>
     <tr>
       <th>epo</th>
       <td>Esperanto</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>eri</th>
       <td>Ogea</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ese</th>
       <td>Ese Ejja</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>esi</th>
       <td>North Alaskan Inupiatun</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>esk</th>
       <td>Northwest Alaska Inupiatun</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ess</th>
       <td>Central Siberian Yupik</td>
-      <td>7861.0</td>
+      <td>7861</td>
     </tr>
     <tr>
       <th>est</th>
       <td>Estonian</td>
-      <td>5028.0</td>
+      <td>5028</td>
     </tr>
     <tr>
       <th>esu</th>
       <td>Central Yupik</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>etr</th>
       <td>Edolo</td>
-      <td>3216.0</td>
+      <td>3216</td>
     </tr>
     <tr>
       <th>etu</th>
       <td>Ejagham</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>eus</th>
       <td>Basque</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>eve</th>
       <td>Even</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>ewe</th>
       <td>Ewe</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>ewo</th>
       <td>Ewondo</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>eza</th>
       <td>Ezaa</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>faa</th>
       <td>Fasu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>fad</th>
       <td>Wagi</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>fai</th>
       <td>Faiwol</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>fal</th>
       <td>South Fali</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>fao</th>
       <td>Faroese</td>
-      <td>5054.0</td>
+      <td>5054</td>
     </tr>
     <tr>
       <th>far</th>
       <td>Fataleka</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>fas</th>
       <td>Persian</td>
-      <td>31103.0</td>
+      <td>31103</td>
     </tr>
     <tr>
       <th>ffm</th>
       <td>Maasina Fulfulde</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>fij</th>
       <td>Fijian</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>fin</th>
       <td>Finnish</td>
-      <td>31134.0</td>
+      <td>31134</td>
     </tr>
     <tr>
       <th>fmu</th>
       <td>Far Western Muria</td>
-      <td>1148.0</td>
+      <td>1148</td>
     </tr>
     <tr>
       <th>fon</th>
       <td>Fon</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>for</th>
       <td>Fore</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>fra</th>
       <td>French</td>
-      <td>31170.0</td>
+      <td>31170</td>
     </tr>
     <tr>
       <th>frd</th>
       <td>Fordata</td>
-      <td>7866.0</td>
+      <td>7866</td>
     </tr>
     <tr>
       <th>fub</th>
       <td>Adamawa Fulfulde</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>fue</th>
       <td>Borgu Fulfulde</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>fuf</th>
       <td>Pular</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>fuh</th>
       <td>Western Niger Fulfulde</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>fuq</th>
       <td>Central-Eastern Niger Fulfulde</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>fuv</th>
       <td>Nigerian Fulfulde</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gag</th>
       <td>Gagauz</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>gah</th>
       <td>Alekano</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gai</th>
       <td>Borei</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>gam</th>
       <td>Kandawo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gaw</th>
       <td>Nobonob</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gbi</th>
       <td>Galela</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>gbr</th>
       <td>Gbagyi</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>gde</th>
       <td>Gude</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>gdg</th>
       <td>Ga'dang</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>gdn</th>
       <td>Umanakaina</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gdr</th>
       <td>Wipi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>geb</th>
       <td>Kire</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>gfk</th>
       <td>Patpatar</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ghe</th>
       <td>Southern Ghale</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ghs</th>
       <td>Guhu-Samane</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gid</th>
       <td>Gidar</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>gil</th>
       <td>Gilbertese</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>giz</th>
       <td>South Giziga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>gjn</th>
       <td>Gonja</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>gkp</th>
       <td>Guinea Kpelle</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>gla</th>
       <td>Scottish Gaelic</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>gle</th>
       <td>Irish</td>
-      <td>6941.0</td>
+      <td>6941</td>
     </tr>
     <tr>
       <th>glk</th>
       <td>Gilaki</td>
-      <td>1250.0</td>
+      <td>1250</td>
     </tr>
     <tr>
       <th>glv</th>
       <td>Manx</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>gmv</th>
       <td>Gamo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>gna</th>
       <td>Kaansa</td>
-      <td>7835.0</td>
+      <td>7835</td>
     </tr>
     <tr>
       <th>gnb</th>
       <td>Gangte</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>gnd</th>
       <td>Zulgo-Gemzek</td>
-      <td>7887.0</td>
+      <td>7887</td>
     </tr>
     <tr>
       <th>gng</th>
       <td>Ngangam</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>gnn</th>
       <td>Gumatj</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>gnw</th>
       <td>Western Bolivian Guaraní</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gof</th>
       <td>Gofa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>gog</th>
       <td>Gogo</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>gom</th>
       <td>Goan Konkani</td>
-      <td>337.0</td>
+      <td>337</td>
     </tr>
     <tr>
       <th>gor</th>
       <td>Gorontalo</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>gqr</th>
       <td>Gor</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>grc</th>
       <td>Ancient Greek (to 1453)</td>
-      <td>7939.0</td>
+      <td>7939</td>
     </tr>
     <tr>
       <th>grt</th>
       <td>Garo</td>
-      <td>7813.0</td>
+      <td>7813</td>
     </tr>
     <tr>
       <th>gso</th>
       <td>Southwest Gbaya</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>gub</th>
       <td>Guajajára</td>
-      <td>30187.0</td>
+      <td>30187</td>
     </tr>
     <tr>
       <th>guc</th>
       <td>Wayuu</td>
-      <td>7621.0</td>
+      <td>7621</td>
     </tr>
     <tr>
       <th>gud</th>
       <td>Yocoboué Dida</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>gug</th>
       <td>Paraguayan Guaraní</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>guh</th>
       <td>Guahibo</td>
-      <td>7884.0</td>
+      <td>7884</td>
     </tr>
     <tr>
       <th>gui</th>
       <td>Eastern Bolivian Guaraní</td>
-      <td>7914.0</td>
+      <td>7914</td>
     </tr>
     <tr>
       <th>guj</th>
       <td>Gujarati</td>
-      <td>30928.0</td>
+      <td>30928</td>
     </tr>
     <tr>
       <th>guk</th>
       <td>Gumuz</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>gul</th>
       <td>Sea Island Creole English</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gum</th>
       <td>Guambiano</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>gun</th>
       <td>Mbyá Guaraní</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>guo</th>
       <td>Guayabero</td>
-      <td>7800.0</td>
+      <td>7800</td>
     </tr>
     <tr>
       <th>guq</th>
       <td>Aché</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>gur</th>
       <td>Farefare</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>guu</th>
       <td>Yanomamö</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>gux</th>
       <td>Gourmanchéma</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>gvc</th>
       <td>Guanano</td>
-      <td>7765.0</td>
+      <td>7765</td>
     </tr>
     <tr>
       <th>gvf</th>
       <td>Golin</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>gvl</th>
       <td>Gulay</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>gvn</th>
       <td>Kuku-Yalanji</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>gwi</th>
       <td>Gwichʼin</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>gwr</th>
       <td>Gwere</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>gya</th>
       <td>Northwest Gbaya</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>gym</th>
       <td>Ngäbere</td>
-      <td>7804.0</td>
+      <td>7804</td>
     </tr>
     <tr>
       <th>gyr</th>
       <td>Guarayu</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>hae</th>
       <td>Eastern Oromo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>hag</th>
       <td>Hanga</td>
-      <td>7694.0</td>
+      <td>7694</td>
     </tr>
     <tr>
       <th>hak</th>
       <td>Hakka Chinese</td>
-      <td>7908.0</td>
+      <td>7908</td>
     </tr>
     <tr>
       <th>hat</th>
       <td>Haitian</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>hau</th>
       <td>Hausa</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>hch</th>
       <td>Huichol</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>heb</th>
       <td>Hebrew</td>
-      <td>31152.0</td>
+      <td>31152</td>
     </tr>
     <tr>
       <th>heg</th>
       <td>Helong</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>heh</th>
       <td>Hehe</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>hif</th>
       <td>Fiji Hindi</td>
-      <td>7863.0</td>
+      <td>7863</td>
     </tr>
     <tr>
       <th>hig</th>
       <td>Kamwe</td>
-      <td>7911.0</td>
+      <td>7911</td>
     </tr>
     <tr>
       <th>hil</th>
       <td>Hiligaynon</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>hin</th>
       <td>Hindi</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>hix</th>
       <td>Hixkaryána</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>hla</th>
       <td>Halia</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>hmo</th>
       <td>Hiri Motu</td>
-      <td>31104.0</td>
+      <td>31104</td>
     </tr>
     <tr>
       <th>hmr</th>
       <td>Hmar</td>
-      <td>4951.0</td>
+      <td>4951</td>
     </tr>
     <tr>
       <th>hne</th>
       <td>Chhattisgarhi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>hnj</th>
       <td>Hmong Njua</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>hnn</th>
       <td>Hanunoo</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>hns</th>
       <td>Caribbean Hindustani</td>
-      <td>7832.0</td>
+      <td>7832</td>
     </tr>
     <tr>
       <th>hop</th>
       <td>Hopi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>hot</th>
       <td>Hote</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>hra</th>
       <td>Hrangkhol</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>hrv</th>
       <td>Croatian</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>hto</th>
       <td>Minica Huitoto</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>hub</th>
       <td>Huambisa</td>
-      <td>7744.0</td>
+      <td>7744</td>
     </tr>
     <tr>
       <th>hui</th>
       <td>Huli</td>
-      <td>35420.0</td>
+      <td>35420</td>
     </tr>
     <tr>
       <th>hun</th>
       <td>Hungarian</td>
-      <td>31170.0</td>
+      <td>31170</td>
     </tr>
     <tr>
       <th>hus</th>
       <td>Huastec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>huu</th>
       <td>Murui Huitoto</td>
-      <td>7931.0</td>
+      <td>7931</td>
     </tr>
     <tr>
       <th>huv</th>
       <td>San Mateo Del Mar Huave</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>hvn</th>
       <td>Sabu</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>hwc</th>
       <td>Hawai'i Creole English</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>hye</th>
       <td>Armenian</td>
-      <td>5053.0</td>
+      <td>5053</td>
     </tr>
     <tr>
       <th>ian</th>
       <td>Iatmul</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>iba</th>
       <td>Iban</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>ibo</th>
       <td>Igbo</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>icr</th>
       <td>Islander Creole English</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>ifa</th>
       <td>Amganad Ifugao</td>
-      <td>31090.0</td>
+      <td>31090</td>
     </tr>
     <tr>
       <th>ifb</th>
       <td>Batad Ifugao</td>
-      <td>31097.0</td>
+      <td>31097</td>
     </tr>
     <tr>
       <th>ife</th>
       <td>Ifè</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>ifk</th>
       <td>Tuwali Ifugao</td>
-      <td>7759.0</td>
+      <td>7759</td>
     </tr>
     <tr>
       <th>ifu</th>
       <td>Mayoyao Ifugao</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>ify</th>
       <td>Keley-I Kallahan</td>
-      <td>30632.0</td>
+      <td>30632</td>
     </tr>
     <tr>
       <th>ign</th>
       <td>Ignaciano</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ike</th>
       <td>Eastern Canadian Inuktitut</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ikk</th>
       <td>Ika</td>
-      <td>31104.0</td>
+      <td>31104</td>
     </tr>
     <tr>
       <th>ikt</th>
       <td>Inuinnaqtun</td>
-      <td>1886.0</td>
+      <td>1886</td>
     </tr>
     <tr>
       <th>ikw</th>
       <td>Ikwere</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ilb</th>
       <td>Ila</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ilo</th>
       <td>Iloko</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>imo</th>
       <td>Imbongu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>inb</th>
       <td>Inga</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>ind</th>
       <td>Indonesian</td>
-      <td>31172.0</td>
+      <td>31172</td>
     </tr>
     <tr>
       <th>ino</th>
       <td>Inoke-Yate</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>iou</th>
       <td>Tuma-Irumu</td>
-      <td>13151.0</td>
+      <td>13151</td>
     </tr>
     <tr>
       <th>ipi</th>
       <td>Ipili</td>
-      <td>7965.0</td>
+      <td>7965</td>
     </tr>
     <tr>
       <th>iqw</th>
       <td>Ikwo</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>iri</th>
       <td>Rigwe</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>irk</th>
       <td>Iraqw</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>iry</th>
       <td>Iraya</td>
-      <td>7912.0</td>
+      <td>7912</td>
     </tr>
     <tr>
       <th>isd</th>
       <td>Isnag</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>isl</th>
       <td>Icelandic</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>ita</th>
       <td>Italian</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>itl</th>
       <td>Itelmen</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>itv</th>
       <td>Itawit</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>ium</th>
       <td>Iu Mien</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ivb</th>
       <td>Ibatan</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ivv</th>
       <td>Ivatan</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>iws</th>
       <td>Sepik Iwam</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ixi</th>
       <td>NaN</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ixl</th>
       <td>Ixil</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>izr</th>
       <td>Izere</td>
-      <td>7987.0</td>
+      <td>7987</td>
     </tr>
     <tr>
       <th>izz</th>
       <td>Izii</td>
-      <td>31095.0</td>
+      <td>31095</td>
     </tr>
     <tr>
       <th>jaa</th>
       <td>Jamamadí</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>jac</th>
       <td>Popti'</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>jae</th>
       <td>Yabem</td>
-      <td>18719.0</td>
+      <td>18719</td>
     </tr>
     <tr>
       <th>jam</th>
       <td>Jamaican Creole English</td>
-      <td>7966.0</td>
+      <td>7966</td>
     </tr>
     <tr>
       <th>jav</th>
       <td>Javanese</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>jbu</th>
       <td>Jukun Takum</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>jic</th>
       <td>Tol</td>
-      <td>7922.0</td>
+      <td>7922</td>
     </tr>
     <tr>
       <th>jiv</th>
       <td>Shuar</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>jmc</th>
       <td>Machame</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>jpn</th>
       <td>Japanese</td>
-      <td>31104.0</td>
+      <td>31104</td>
     </tr>
     <tr>
       <th>jra</th>
       <td>Jarai</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>jun</th>
       <td>Juang</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>jvn</th>
       <td>Caribbean Javanese</td>
-      <td>7931.0</td>
+      <td>7931</td>
     </tr>
     <tr>
       <th>kaa</th>
       <td>Kara-Kalpak</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>kac</th>
       <td>Kachin</td>
-      <td>30944.0</td>
+      <td>30944</td>
     </tr>
     <tr>
       <th>kan</th>
       <td>Kannada</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kao</th>
       <td>Xaasongaxango</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>kaq</th>
       <td>Capanahua</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kaz</th>
       <td>Kazakh</td>
-      <td>31062.0</td>
+      <td>31062</td>
     </tr>
     <tr>
       <th>kbc</th>
       <td>Kadiwéu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kbh</th>
       <td>Camsá</td>
-      <td>7900.0</td>
+      <td>7900</td>
     </tr>
     <tr>
       <th>kbm</th>
       <td>Iwal</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>kbo</th>
       <td>Keliko</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>kbp</th>
       <td>Kabiyè</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>kbq</th>
       <td>Kamano</td>
-      <td>10540.0</td>
+      <td>10540</td>
     </tr>
     <tr>
       <th>kbr</th>
       <td>Kafa</td>
-      <td>7683.0</td>
+      <td>7683</td>
     </tr>
     <tr>
       <th>kby</th>
       <td>Manga Kanuri</td>
-      <td>879.0</td>
+      <td>879</td>
     </tr>
     <tr>
       <th>kcg</th>
       <td>Tyap</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>kck</th>
       <td>Kalanga</td>
-      <td>5788.0</td>
+      <td>5788</td>
     </tr>
     <tr>
       <th>kdc</th>
       <td>Kutu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kde</th>
       <td>Makonde</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>kdh</th>
       <td>Tem</td>
-      <td>1071.0</td>
+      <td>1071</td>
     </tr>
     <tr>
       <th>kdi</th>
       <td>Kumam</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>kdj</th>
       <td>Karamojong</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kdl</th>
       <td>Tsikimba</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kdp</th>
       <td>Kaningdon-Nindem</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>kek</th>
       <td>Kekchí</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ken</th>
       <td>Kenyang</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>keo</th>
       <td>Kakwa</td>
-      <td>7961.0</td>
+      <td>7961</td>
     </tr>
     <tr>
       <th>ker</th>
       <td>Kera</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>kew</th>
       <td>West Kewa</td>
-      <td>9448.0</td>
+      <td>9448</td>
     </tr>
     <tr>
       <th>kez</th>
       <td>Kukele</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>kgf</th>
       <td>Kube</td>
-      <td>10422.0</td>
+      <td>10422</td>
     </tr>
     <tr>
       <th>kgk</th>
       <td>Kaiwá</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kgp</th>
       <td>Kaingang</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kgr</th>
       <td>Abun</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>kha</th>
       <td>Khasi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>khk</th>
       <td>Halh Mongolian</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>khm</th>
       <td>Khmer</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>khq</th>
       <td>Koyra Chiini Songhay</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>khs</th>
       <td>Kasua</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>khy</th>
       <td>Kele (Democratic Republic of Congo)</td>
-      <td>5045.0</td>
+      <td>5045</td>
     </tr>
     <tr>
       <th>khz</th>
       <td>Keapara</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kia</th>
       <td>Kim</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>kij</th>
       <td>Kilivila</td>
-      <td>7918.0</td>
+      <td>7918</td>
     </tr>
     <tr>
       <th>kik</th>
       <td>Kikuyu</td>
-      <td>7945.0</td>
+      <td>7945</td>
     </tr>
     <tr>
       <th>kin</th>
       <td>Kinyarwanda</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>kix</th>
       <td>Khiamniungan Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>kjb</th>
       <td>Q'anjob'al</td>
-      <td>7910.0</td>
+      <td>7910</td>
     </tr>
     <tr>
       <th>kje</th>
       <td>Kisar</td>
-      <td>7843.0</td>
+      <td>7843</td>
     </tr>
     <tr>
       <th>kjh</th>
       <td>Khakas</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>kjs</th>
       <td>East Kewa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kkc</th>
       <td>Odoodee</td>
-      <td>5341.0</td>
+      <td>5341</td>
     </tr>
     <tr>
       <th>kki</th>
       <td>Kagulu</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kkj</th>
       <td>Kako</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>kle</th>
       <td>Kulung (Nepal)</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kln</th>
       <td>Kalenjin</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>klt</th>
       <td>Nukna</td>
-      <td>2921.0</td>
+      <td>2921</td>
     </tr>
     <tr>
       <th>klv</th>
       <td>Maskelynes</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kmd</th>
       <td>Majukayang Kalinga</td>
-      <td>7886.0</td>
+      <td>7886</td>
     </tr>
     <tr>
       <th>kmg</th>
       <td>Kâte</td>
-      <td>6171.0</td>
+      <td>6171</td>
     </tr>
     <tr>
       <th>kmh</th>
       <td>Kalam</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kmk</th>
       <td>Limos Kalinga</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kmm</th>
       <td>Kom (India)</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>kmo</th>
       <td>Kwoma</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kmr</th>
       <td>Northern Kurdish</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>kms</th>
       <td>Kamasau</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kmu</th>
       <td>Kanite</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kmy</th>
       <td>Koma</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>kne</th>
       <td>Kankanaey</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>knf</th>
       <td>Mankanya</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>knj</th>
       <td>Western Kanjobal</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>knk</th>
       <td>Kuranko</td>
-      <td>7900.0</td>
+      <td>7900</td>
     </tr>
     <tr>
       <th>kno</th>
       <td>Kono (Sierra Leone)</td>
-      <td>7877.0</td>
+      <td>7877</td>
     </tr>
     <tr>
       <th>knv</th>
       <td>Tabo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kog</th>
       <td>Cogui</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kor</th>
       <td>Korean</td>
-      <td>31101.0</td>
+      <td>31101</td>
     </tr>
     <tr>
       <th>kpf</th>
       <td>Komba</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kpg</th>
       <td>Kapingamarangi</td>
-      <td>30555.0</td>
+      <td>30555</td>
     </tr>
     <tr>
       <th>kpj</th>
       <td>Karajá</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kpq</th>
       <td>Korupun-Sela</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kpr</th>
       <td>Korafe-Yegha</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kpv</th>
       <td>Komi-Zyrian</td>
-      <td>7932.0</td>
+      <td>7932</td>
     </tr>
     <tr>
       <th>kpw</th>
       <td>Kobon</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kpx</th>
       <td>Mountain Koiali</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kpz</th>
       <td>Kupsabiny</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>kqa</th>
       <td>Mum</td>
-      <td>1071.0</td>
+      <td>1071</td>
     </tr>
     <tr>
       <th>kqc</th>
       <td>Doromu-Koki</td>
-      <td>8034.0</td>
+      <td>8034</td>
     </tr>
     <tr>
       <th>kqe</th>
       <td>Kalagan</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kqf</th>
       <td>Kakabai</td>
-      <td>4165.0</td>
+      <td>4165</td>
     </tr>
     <tr>
       <th>kql</th>
       <td>Kyenele</td>
-      <td>678.0</td>
+      <td>678</td>
     </tr>
     <tr>
       <th>kqo</th>
       <td>Eastern Krahn</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>kqp</th>
       <td>Kimré</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>kqs</th>
       <td>Northern Kissi</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>kqw</th>
       <td>Kandas</td>
-      <td>5996.0</td>
+      <td>5996</td>
     </tr>
     <tr>
       <th>kqy</th>
       <td>Koorete</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>krc</th>
       <td>Karachay-Balkar</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>kri</th>
       <td>Krio</td>
-      <td>7926.0</td>
+      <td>7926</td>
     </tr>
     <tr>
       <th>krj</th>
       <td>Kinaray-A</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>krl</th>
       <td>Karelian</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>kru</th>
       <td>Kurukh</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>krx</th>
       <td>Karon</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>ksb</th>
       <td>Shambala</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>ksc</th>
       <td>Southern Kalinga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ksd</th>
       <td>Kuanua</td>
-      <td>31103.0</td>
+      <td>31103</td>
     </tr>
     <tr>
       <th>ksf</th>
       <td>Bafia</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>ksj</th>
       <td>Uare</td>
-      <td>4235.0</td>
+      <td>4235</td>
     </tr>
     <tr>
       <th>ksp</th>
       <td>Kaba</td>
-      <td>4854.0</td>
+      <td>4854</td>
     </tr>
     <tr>
       <th>ksr</th>
       <td>Borong</td>
-      <td>9624.0</td>
+      <td>9624</td>
     </tr>
     <tr>
       <th>kss</th>
       <td>Southern Kisi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ktb</th>
       <td>Kambaata</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>ktj</th>
       <td>Plapo Krumen</td>
-      <td>7935.0</td>
+      <td>7935</td>
     </tr>
     <tr>
       <th>ktm</th>
       <td>Kurti</td>
-      <td>2472.0</td>
+      <td>2472</td>
     </tr>
     <tr>
       <th>kto</th>
       <td>Kuot</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ktu</th>
       <td>Kituba (Democratic Republic of Congo)</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>kua</th>
       <td>Kuanyama</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>kub</th>
       <td>Kutep</td>
-      <td>7928.0</td>
+      <td>7928</td>
     </tr>
     <tr>
       <th>kud</th>
       <td>'Auhelawa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kue</th>
       <td>Kuman (Papua New Guinea)</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kuj</th>
       <td>Kuria</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>kum</th>
       <td>Kumyk</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>kup</th>
       <td>Kunimaipa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kus</th>
       <td>Kusaal</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>kvg</th>
       <td>Kuni-Boazi</td>
-      <td>8075.0</td>
+      <td>8075</td>
     </tr>
     <tr>
       <th>kvj</th>
       <td>Psikye</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>kvn</th>
       <td>Border Kuna</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kwd</th>
       <td>Kwaio</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kwf</th>
       <td>Kwara'ae</td>
-      <td>7877.0</td>
+      <td>7877</td>
     </tr>
     <tr>
       <th>kwi</th>
       <td>Awa-Cuaiquer</td>
-      <td>7917.0</td>
+      <td>7917</td>
     </tr>
     <tr>
       <th>kwj</th>
       <td>Kwanga</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kxc</th>
       <td>Konso</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>kxm</th>
       <td>Northern Khmer</td>
-      <td>7938.0</td>
+      <td>7938</td>
     </tr>
     <tr>
       <th>kxw</th>
       <td>Konai</td>
-      <td>3057.0</td>
+      <td>3057</td>
     </tr>
     <tr>
       <th>kyc</th>
       <td>Kyaka</td>
-      <td>17192.0</td>
+      <td>17192</td>
     </tr>
     <tr>
       <th>kyf</th>
       <td>Kouya</td>
-      <td>7937.0</td>
+      <td>7937</td>
     </tr>
     <tr>
       <th>kyg</th>
       <td>Keyagana</td>
-      <td>9716.0</td>
+      <td>9716</td>
     </tr>
     <tr>
       <th>kyq</th>
       <td>Kenga</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kyu</th>
       <td>Western Kayah</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>kyz</th>
       <td>Kayabí</td>
-      <td>7575.0</td>
+      <td>7575</td>
     </tr>
     <tr>
       <th>kze</th>
       <td>Kosena</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>kzf</th>
       <td>Da'a Kaili</td>
-      <td>7870.0</td>
+      <td>7870</td>
     </tr>
     <tr>
       <th>kzj</th>
       <td>NaN</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>lac</th>
       <td>Lacandon</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>lai</th>
       <td>Lambya</td>
-      <td>5053.0</td>
+      <td>5053</td>
     </tr>
     <tr>
       <th>laj</th>
       <td>Lango (Uganda)</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>lam</th>
       <td>Lamba</td>
-      <td>7939.0</td>
+      <td>7939</td>
     </tr>
     <tr>
       <th>lao</th>
       <td>Lao</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>lap</th>
       <td>Laka (Chad)</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>lat</th>
       <td>Latin</td>
-      <td>35608.0</td>
+      <td>35608</td>
     </tr>
     <tr>
       <th>lav</th>
       <td>Latvian</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>law</th>
       <td>Lauje</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>lbb</th>
       <td>Label</td>
-      <td>678.0</td>
+      <td>678</td>
     </tr>
     <tr>
       <th>lbj</th>
       <td>Ladakhi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>lbk</th>
       <td>Central Bontok</td>
-      <td>6273.0</td>
+      <td>6273</td>
     </tr>
     <tr>
       <th>lcm</th>
       <td>Tungag</td>
-      <td>9625.0</td>
+      <td>9625</td>
     </tr>
     <tr>
       <th>lcp</th>
       <td>Western Lawa</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>lee</th>
       <td>Lyélé</td>
-      <td>7915.0</td>
+      <td>7915</td>
     </tr>
     <tr>
       <th>lef</th>
       <td>Lelemi</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>leg</th>
       <td>NaN</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>leh</th>
       <td>Lenje</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>lem</th>
       <td>Nomaande</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>leu</th>
       <td>Kara (Papua New Guinea)</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>lew</th>
       <td>Ledo Kaili</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>lex</th>
       <td>Luang</td>
-      <td>7886.0</td>
+      <td>7886</td>
     </tr>
     <tr>
       <th>lgg</th>
       <td>Lugbara</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>lgl</th>
       <td>Wala</td>
-      <td>7878.0</td>
+      <td>7878</td>
     </tr>
     <tr>
       <th>lgm</th>
       <td>Lega-Mwenga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>lhi</th>
       <td>Lahu Shi</td>
-      <td>5053.0</td>
+      <td>5053</td>
     </tr>
     <tr>
       <th>lhu</th>
       <td>Lahu</td>
-      <td>7935.0</td>
+      <td>7935</td>
     </tr>
     <tr>
       <th>lia</th>
       <td>West-Central Limba</td>
-      <td>7923.0</td>
+      <td>7923</td>
     </tr>
     <tr>
       <th>lid</th>
       <td>Nyindrou</td>
-      <td>9623.0</td>
+      <td>9623</td>
     </tr>
     <tr>
       <th>lif</th>
       <td>Limbu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>lin</th>
       <td>Lingala</td>
-      <td>7518.0</td>
+      <td>7518</td>
     </tr>
     <tr>
       <th>lip</th>
       <td>Sekpele</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>lis</th>
       <td>Lisu</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>lit</th>
       <td>Lithuanian</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>ljp</th>
       <td>Lampung Api</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>llg</th>
       <td>Lole</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>lln</th>
       <td>Lele (Chad)</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>lmk</th>
       <td>Lamkang</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>lmp</th>
       <td>Limbum</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>lnd</th>
       <td>Lundayeh</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>lob</th>
       <td>Lobi</td>
-      <td>7960.0</td>
+      <td>7960</td>
     </tr>
     <tr>
       <th>loe</th>
       <td>Saluan</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>log</th>
       <td>Logo</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>lok</th>
       <td>Loko</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>lol</th>
       <td>Mongo</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>lom</th>
       <td>Loma (Liberia)</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>loq</th>
       <td>Lobala</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>loz</th>
       <td>Lozi</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>lsi</th>
       <td>Lashi</td>
-      <td>5037.0</td>
+      <td>5037</td>
     </tr>
     <tr>
       <th>lsm</th>
       <td>Saamia</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ltz</th>
       <td>Luxembourgish</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>luc</th>
       <td>Aringa</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>lug</th>
       <td>Ganda</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>luo</th>
       <td>Luo (Kenya and Tanzania)</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>lus</th>
       <td>Lushai</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>lwo</th>
       <td>Luwo</td>
-      <td>7818.0</td>
+      <td>7818</td>
     </tr>
     <tr>
       <th>lww</th>
       <td>Lewo</td>
-      <td>7835.0</td>
+      <td>7835</td>
     </tr>
     <tr>
       <th>lzh</th>
       <td>Literary Chinese</td>
-      <td>7102.0</td>
+      <td>7102</td>
     </tr>
     <tr>
       <th>maa</th>
       <td>San Jerónimo Tecóatl Mazatec</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mad</th>
       <td>Madurese</td>
-      <td>29777.0</td>
+      <td>29777</td>
     </tr>
     <tr>
       <th>maf</th>
       <td>Mafa</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>mag</th>
       <td>Magahi</td>
-      <td>7899.0</td>
+      <td>7899</td>
     </tr>
     <tr>
       <th>mah</th>
       <td>Marshallese</td>
-      <td>31074.0</td>
+      <td>31074</td>
     </tr>
     <tr>
       <th>mai</th>
       <td>Maithili</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>maj</th>
       <td>Jalapa De Díaz Mazatec</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mak</th>
       <td>Makasar</td>
-      <td>7886.0</td>
+      <td>7886</td>
     </tr>
     <tr>
       <th>mal</th>
       <td>Malayalam</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>mam</th>
       <td>Mam</td>
-      <td>30992.0</td>
+      <td>30992</td>
     </tr>
     <tr>
       <th>maq</th>
       <td>Chiquihuitlán Mazatec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mar</th>
       <td>Marathi</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>mas</th>
       <td>Masai</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>mau</th>
       <td>Huautla Mazatec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mav</th>
       <td>Sateré-Mawé</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>maw</th>
       <td>Mampruli</td>
-      <td>7902.0</td>
+      <td>7902</td>
     </tr>
     <tr>
       <th>maz</th>
       <td>Central Mazahua</td>
-      <td>7850.0</td>
+      <td>7850</td>
     </tr>
     <tr>
       <th>mbb</th>
       <td>Western Bukidnon Manobo</td>
-      <td>30206.0</td>
+      <td>30206</td>
     </tr>
     <tr>
       <th>mbc</th>
       <td>Macushi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mbd</th>
       <td>Dibabawon Manobo</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mbh</th>
       <td>Mangseng</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mbi</th>
       <td>Ilianen Manobo</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mbj</th>
       <td>Nadëb</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mbl</th>
       <td>Maxakalí</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mbs</th>
       <td>Sarangani Manobo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mbt</th>
       <td>Matigsalug Manobo</td>
-      <td>7926.0</td>
+      <td>7926</td>
     </tr>
     <tr>
       <th>mca</th>
       <td>Maca</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mcb</th>
       <td>Machiguenga</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mcd</th>
       <td>Sharanahua</td>
-      <td>9315.0</td>
+      <td>9315</td>
     </tr>
     <tr>
       <th>mcf</th>
       <td>Matsés</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mck</th>
       <td>Mbunda</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mcn</th>
       <td>Masana</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>mco</th>
       <td>Coatlán Mixe</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>mcp</th>
       <td>Makaa</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mcq</th>
       <td>Ese</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mcu</th>
       <td>Cameroon Mambila</td>
-      <td>7937.0</td>
+      <td>7937</td>
     </tr>
     <tr>
       <th>mda</th>
       <td>Mada (Nigeria)</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>mdy</th>
       <td>Male (Ethiopia)</td>
-      <td>30744.0</td>
+      <td>30744</td>
     </tr>
     <tr>
       <th>med</th>
       <td>Melpa</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mee</th>
       <td>Mengen</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mej</th>
       <td>Meyah</td>
-      <td>7939.0</td>
+      <td>7939</td>
     </tr>
     <tr>
       <th>mek</th>
       <td>Mekeo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>men</th>
       <td>Mende (Sierra Leone)</td>
-      <td>7929.0</td>
+      <td>7929</td>
     </tr>
     <tr>
       <th>meq</th>
       <td>Merey</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>met</th>
       <td>Mato</td>
-      <td>7918.0</td>
+      <td>7918</td>
     </tr>
     <tr>
       <th>meu</th>
       <td>Motu</td>
-      <td>31099.0</td>
+      <td>31099</td>
     </tr>
     <tr>
       <th>mf1</th>
       <td>NaN</td>
-      <td>7939.0</td>
+      <td>7939</td>
     </tr>
     <tr>
       <th>mfe</th>
       <td>Morisyen</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mfg</th>
       <td>Mogofin</td>
-      <td>1885.0</td>
+      <td>1885</td>
     </tr>
     <tr>
       <th>mfh</th>
       <td>Matal</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>mfi</th>
       <td>Wandala</td>
-      <td>7945.0</td>
+      <td>7945</td>
     </tr>
     <tr>
       <th>mfk</th>
       <td>North Mofu</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>mfq</th>
       <td>Moba</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>mfy</th>
       <td>Mayo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mfz</th>
       <td>Mabaan</td>
-      <td>7884.0</td>
+      <td>7884</td>
     </tr>
     <tr>
       <th>mgc</th>
       <td>Morokodo</td>
-      <td>2098.0</td>
+      <td>2098</td>
     </tr>
     <tr>
       <th>mgh</th>
       <td>Makhuwa-Meetto</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mgo</th>
       <td>Meta'</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mgr</th>
       <td>Mambwe-Lungu</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mhi</th>
       <td>Ma'di</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>mhl</th>
       <td>Mauwake</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mhr</th>
       <td>Eastern Mari</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>mhx</th>
       <td>Maru</td>
-      <td>7920.0</td>
+      <td>7920</td>
     </tr>
     <tr>
       <th>mhy</th>
       <td>Ma'anyan</td>
-      <td>7906.0</td>
+      <td>7906</td>
     </tr>
     <tr>
       <th>mib</th>
       <td>Atatláhuca Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mic</th>
       <td>Mi'kmaq</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mie</th>
       <td>Ocotepec Mixtec</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>mif</th>
       <td>Mofu-Gudur</td>
-      <td>7907.0</td>
+      <td>7907</td>
     </tr>
     <tr>
       <th>mig</th>
       <td>San Miguel El Grande Mixtec</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mih</th>
       <td>Chayuco Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mil</th>
       <td>Peñoles Mixtec</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>mim</th>
       <td>Alacatlatzala Mixtec</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>min</th>
       <td>Minangkabau</td>
-      <td>7945.0</td>
+      <td>7945</td>
     </tr>
     <tr>
       <th>mio</th>
       <td>Pinotepa Nacional Mixtec</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>mip</th>
       <td>Apasco-Apoala Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>miq</th>
       <td>Mískito</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>mir</th>
       <td>Isthmus Mixe</td>
-      <td>7512.0</td>
+      <td>7512</td>
     </tr>
     <tr>
       <th>mit</th>
       <td>Southern Puebla Mixtec</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>miy</th>
       <td>Ayutla Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>miz</th>
       <td>Coatzospan Mixtec</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>mjc</th>
       <td>San Juan Colorado Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mjw</th>
       <td>Karbi</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>mkd</th>
       <td>Macedonian</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>mkl</th>
       <td>Mokole</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>mkn</th>
       <td>Kupang Malay</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mks</th>
       <td>Silacayoapan Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mlg</th>
       <td>Malagasy</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mlh</th>
       <td>Mape</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mlp</th>
       <td>Bargam</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mmn</th>
       <td>Mamanwa</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mmo</th>
       <td>Mangga Buang</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mmx</th>
       <td>Madak</td>
-      <td>10420.0</td>
+      <td>10420</td>
     </tr>
     <tr>
       <th>mna</th>
       <td>Mbula</td>
-      <td>13795.0</td>
+      <td>13795</td>
     </tr>
     <tr>
       <th>mnb</th>
       <td>Muna</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mnf</th>
       <td>Mundani</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mnk</th>
       <td>Mandinka</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>moa</th>
       <td>Mwan</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>moc</th>
       <td>Mocoví</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>mog</th>
       <td>Mongondow</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>moh</th>
       <td>Mohawk</td>
-      <td>879.0</td>
+      <td>879</td>
     </tr>
     <tr>
       <th>mop</th>
       <td>Mopán Maya</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>mor</th>
       <td>Moro</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mos</th>
       <td>Mossi</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mox</th>
       <td>Molima</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mpg</th>
       <td>Marba</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mph</th>
       <td>Maung</td>
-      <td>676.0</td>
+      <td>676</td>
     </tr>
     <tr>
       <th>mpm</th>
       <td>Yosondúa Mixtec</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>mpp</th>
       <td>Migabac</td>
-      <td>4025.0</td>
+      <td>4025</td>
     </tr>
     <tr>
       <th>mps</th>
       <td>Dadibi</td>
-      <td>30314.0</td>
+      <td>30314</td>
     </tr>
     <tr>
       <th>mpt</th>
       <td>Mian</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mpx</th>
       <td>Misima-Panaeati</td>
-      <td>12161.0</td>
+      <td>12161</td>
     </tr>
     <tr>
       <th>mqb</th>
       <td>Mbuko</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>mqj</th>
       <td>Mamasa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mqy</th>
       <td>Manggarai</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mrg</th>
       <td>Mising</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>mri</th>
       <td>Maori</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>mrw</th>
       <td>Maranao</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>msa</th>
       <td>Malay (macrolanguage)</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>msb</th>
       <td>Masbatenyo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>msc</th>
       <td>Sankaran Maninka</td>
-      <td>2941.0</td>
+      <td>2941</td>
     </tr>
     <tr>
       <th>mse</th>
       <td>Musey</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>msk</th>
       <td>Mansaka</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>msm</th>
       <td>Agusan Manobo</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>msy</th>
       <td>Aruamu</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mta</th>
       <td>Cotabato Manobo</td>
-      <td>7904.0</td>
+      <td>7904</td>
     </tr>
     <tr>
       <th>mtg</th>
       <td>Una</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mti</th>
       <td>Maiwa (Papua New Guinea)</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mtj</th>
       <td>Moskona</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>mto</th>
       <td>Totontepec Mixe</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mtp</th>
       <td>Wichí Lhamtés Nocten</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mua</th>
       <td>Mundang</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>mug</th>
       <td>Musgu</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>muh</th>
       <td>Mündü</td>
-      <td>7482.0</td>
+      <td>7482</td>
     </tr>
     <tr>
       <th>mup</th>
       <td>Malvi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mur</th>
       <td>Murle</td>
-      <td>7828.0</td>
+      <td>7828</td>
     </tr>
     <tr>
       <th>mux</th>
       <td>Bo-Ung</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>muy</th>
       <td>Muyang</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mva</th>
       <td>Manam</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>mvc</th>
       <td>NaN</td>
-      <td>7882.0</td>
+      <td>7882</td>
     </tr>
     <tr>
       <th>mvn</th>
       <td>Minaveha</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mvp</th>
       <td>Duri</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>mwc</th>
       <td>Are</td>
-      <td>4415.0</td>
+      <td>4415</td>
     </tr>
     <tr>
       <th>mwl</th>
       <td>Mirandese</td>
-      <td>879.0</td>
+      <td>879</td>
     </tr>
     <tr>
       <th>mwm</th>
       <td>Sar</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>mwp</th>
       <td>Kala Lagaw Ya</td>
-      <td>1506.0</td>
+      <td>1506</td>
     </tr>
     <tr>
       <th>mwq</th>
       <td>Mün Chin</td>
-      <td>7930.0</td>
+      <td>7930</td>
     </tr>
     <tr>
       <th>mwv</th>
       <td>Mentawai</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mww</th>
       <td>Hmong Daw</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>mxb</th>
       <td>Tezoatlán Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mxp</th>
       <td>Tlahuitoltepec Mixe</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mxq</th>
       <td>Juquila Mixe</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>mxt</th>
       <td>Jamiltepec Mixtec</td>
-      <td>7918.0</td>
+      <td>7918</td>
     </tr>
     <tr>
       <th>mxv</th>
       <td>Metlatónoc Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mya</th>
       <td>Burmese</td>
-      <td>30944.0</td>
+      <td>30944</td>
     </tr>
     <tr>
       <th>myb</th>
       <td>Mbay</td>
-      <td>7961.0</td>
+      <td>7961</td>
     </tr>
     <tr>
       <th>myk</th>
       <td>Mamara Senoufo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>myu</th>
       <td>Mundurukú</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>myv</th>
       <td>Erzya</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>myw</th>
       <td>Muyuw</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>myx</th>
       <td>Masaaba</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>myy</th>
       <td>Macuna</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>mza</th>
       <td>Santa María Zacatepec Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>mzh</th>
       <td>Wichí Lhamtés Güisnay</td>
-      <td>5051.0</td>
+      <td>5051</td>
     </tr>
     <tr>
       <th>mzk</th>
       <td>Nigeria Mambila</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>mzl</th>
       <td>Mazatlán Mixe</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>mzm</th>
       <td>Mumuye</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>mzw</th>
       <td>Deg</td>
-      <td>7909.0</td>
+      <td>7909</td>
     </tr>
     <tr>
       <th>mzz</th>
       <td>Maiadomu</td>
-      <td>678.0</td>
+      <td>678</td>
     </tr>
     <tr>
       <th>nab</th>
       <td>Southern Nambikuára</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>naf</th>
       <td>Nabak</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nak</th>
       <td>Nakanai</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>naq</th>
       <td>Khoekhoe</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>nas</th>
       <td>Naasioi</td>
-      <td>8096.0</td>
+      <td>8096</td>
     </tr>
     <tr>
       <th>nav</th>
       <td>Navajo</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>naw</th>
       <td>Nawuri</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nbc</th>
       <td>Chang Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nbe</th>
       <td>Konyak Naga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nbl</th>
       <td>South Ndebele</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nbu</th>
       <td>Rongmei Naga</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>nca</th>
       <td>Iyo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nch</th>
       <td>Central Huasteca Nahuatl</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>ncj</th>
       <td>Northern Puebla Nahuatl</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ncl</th>
       <td>Michoacán Nahuatl</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ncq</th>
       <td>Northern Katang</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nct</th>
       <td>Chothe Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ncu</th>
       <td>Chumburung</td>
-      <td>7686.0</td>
+      <td>7686</td>
     </tr>
     <tr>
       <th>ndc</th>
       <td>Ndau</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>nde</th>
       <td>North Ndebele</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>ndi</th>
       <td>Samba Leko</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ndj</th>
       <td>Ndamba</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ndo</th>
       <td>Ndonga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ndy</th>
       <td>Lutos</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ndz</th>
       <td>Ndogo</td>
-      <td>7938.0</td>
+      <td>7938</td>
     </tr>
     <tr>
       <th>neb</th>
       <td>Toura (Côte d'Ivoire)</td>
-      <td>7881.0</td>
+      <td>7881</td>
     </tr>
     <tr>
       <th>nep</th>
       <td>Nepali (macrolanguage)</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nfa</th>
       <td>Dhao</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nfr</th>
       <td>Nafaanra</td>
-      <td>7930.0</td>
+      <td>7930</td>
     </tr>
     <tr>
       <th>ngc</th>
       <td>Ngombe (Democratic Republic of Congo)</td>
-      <td>5051.0</td>
+      <td>5051</td>
     </tr>
     <tr>
       <th>ngp</th>
       <td>Ngulu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ngu</th>
       <td>Guerrero Nahuatl</td>
-      <td>7933.0</td>
+      <td>7933</td>
     </tr>
     <tr>
       <th>nhe</th>
       <td>Eastern Huasteca Nahuatl</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nhg</th>
       <td>Tetelcingo Nahuatl</td>
-      <td>6950.0</td>
+      <td>6950</td>
     </tr>
     <tr>
       <th>nhi</th>
       <td>Zacatlán-Ahuacatlán-Tepetzintla Nahuatl</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nho</th>
       <td>Takuu</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nhr</th>
       <td>Naro</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nhu</th>
       <td>Noone</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>nhw</th>
       <td>Western Huasteca Nahuatl</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>nhx</th>
       <td>Isthmus-Mecayapan Nahuatl</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nhy</th>
       <td>Northern Oaxaca Nahuatl</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>nia</th>
       <td>Nias</td>
-      <td>31164.0</td>
+      <td>31164</td>
     </tr>
     <tr>
       <th>nif</th>
       <td>Nek</td>
-      <td>3779.0</td>
+      <td>3779</td>
     </tr>
     <tr>
       <th>nii</th>
       <td>Nii</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>nij</th>
       <td>Ngaju</td>
-      <td>7945.0</td>
+      <td>7945</td>
     </tr>
     <tr>
       <th>nim</th>
       <td>Nilamba</td>
-      <td>7982.0</td>
+      <td>7982</td>
     </tr>
     <tr>
       <th>nin</th>
       <td>Ninzo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>niy</th>
       <td>Ngiti</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>njb</th>
       <td>Nocte Naga</td>
-      <td>5051.0</td>
+      <td>5051</td>
     </tr>
     <tr>
       <th>njm</th>
       <td>Angami Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>njn</th>
       <td>Liangmai Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>njo</th>
       <td>Ao Naga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>njz</th>
       <td>Nyishi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nkf</th>
       <td>Inpui Naga</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>nki</th>
       <td>Thangal Naga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nko</th>
       <td>Nkonya</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nlc</th>
       <td>Nalca</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>nld</th>
       <td>Dutch</td>
-      <td>31103.0</td>
+      <td>31103</td>
     </tr>
     <tr>
       <th>nlg</th>
       <td>Gela</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nma</th>
       <td>Maram Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nmf</th>
       <td>Tangkhul Naga (India)</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nmh</th>
       <td>Monsang Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>nmo</th>
       <td>Moyon Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nmw</th>
       <td>Nimoa</td>
-      <td>1226.0</td>
+      <td>1226</td>
     </tr>
     <tr>
       <th>nmz</th>
       <td>Nawdm</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>nnb</th>
       <td>Nande</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nng</th>
       <td>Maring Naga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nnh</th>
       <td>Ngiemboon</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>nnl</th>
       <td>Northern Rengma Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nno</th>
       <td>Norwegian Nynorsk</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nnp</th>
       <td>Wancho Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nnq</th>
       <td>Ngindo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nnw</th>
       <td>Southern Nuni</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>noa</th>
       <td>Woun Meu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nob</th>
       <td>Norwegian Bokmål</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nod</th>
       <td>Northern Thai</td>
-      <td>7938.0</td>
+      <td>7938</td>
     </tr>
     <tr>
       <th>nog</th>
       <td>Nogai</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>nop</th>
       <td>Numanggang</td>
-      <td>11952.0</td>
+      <td>11952</td>
     </tr>
     <tr>
       <th>nor</th>
       <td>Norwegian</td>
-      <td>31169.0</td>
+      <td>31169</td>
     </tr>
     <tr>
       <th>not</th>
       <td>Nomatsiguenga</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nou</th>
       <td>Ewage-Notu</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>nph</th>
       <td>Phom Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>npi</th>
       <td>Nepali (individual language)</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>npl</th>
       <td>Southeastern Puebla Nahuatl</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>npo</th>
       <td>Pochuri Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>npy</th>
       <td>Napu</td>
-      <td>7797.0</td>
+      <td>7797</td>
     </tr>
     <tr>
       <th>nre</th>
       <td>Southern Rengma Naga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nrf</th>
       <td>Jèrriais</td>
-      <td>1071.0</td>
+      <td>1071</td>
     </tr>
     <tr>
       <th>nri</th>
       <td>Chokri Naga</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>nsa</th>
       <td>Sangtam Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>nse</th>
       <td>Nsenga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nsm</th>
       <td>Sumi Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>nsn</th>
       <td>Nehan</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nso</th>
       <td>Pedi</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nss</th>
       <td>Nali</td>
-      <td>2211.0</td>
+      <td>2211</td>
     </tr>
     <tr>
       <th>nst</th>
       <td>Tase Naga</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nsu</th>
       <td>Sierra Negra Nahuatl</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>ntp</th>
       <td>Northern Tepehuan</td>
-      <td>7763.0</td>
+      <td>7763</td>
     </tr>
     <tr>
       <th>ntr</th>
       <td>Delo</td>
-      <td>7931.0</td>
+      <td>7931</td>
     </tr>
     <tr>
       <th>ntu</th>
       <td>Natügu</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nuj</th>
       <td>Nyole</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nuy</th>
       <td>Nunggubuyu</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>nuz</th>
       <td>Tlamacazapa Nahuatl</td>
-      <td>1883.0</td>
+      <td>1883</td>
     </tr>
     <tr>
       <th>nvm</th>
       <td>Namiae</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>nwb</th>
       <td>Nyabwa</td>
-      <td>7920.0</td>
+      <td>7920</td>
     </tr>
     <tr>
       <th>nwi</th>
       <td>Southwest Tanna</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>nwx</th>
       <td>Middle Newar</td>
-      <td>8435.0</td>
+      <td>8435</td>
     </tr>
     <tr>
       <th>nxd</th>
       <td>Ngando (Democratic Republic of Congo)</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>nya</th>
       <td>Nyanja</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nyf</th>
       <td>Giryama</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>nyn</th>
       <td>Nyankole</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>nyo</th>
       <td>Nyoro</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>nyy</th>
       <td>Nyakyusa-Ngonde</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>nza</th>
       <td>Tigon Mbembe</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>nzi</th>
       <td>Nzima</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>nzm</th>
       <td>Zeme Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>obo</th>
       <td>Obo Manobo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ojb</th>
       <td>Northwestern Ojibwa</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>ojs</th>
       <td>Severn Ojibwa</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>oku</th>
       <td>Oku</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>okv</th>
       <td>Orokaiva</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>old</th>
       <td>Mochi</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>omb</th>
       <td>East Ambae</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>omw</th>
       <td>South Tairora</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ong</th>
       <td>Olo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ons</th>
       <td>Ono</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ood</th>
       <td>Tohono O'odham</td>
-      <td>7568.0</td>
+      <td>7568</td>
     </tr>
     <tr>
       <th>opm</th>
       <td>Oksapmin</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ori</th>
       <td>Oriya (macrolanguage)</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>ory</th>
       <td>Odia</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>oss</th>
       <td>Ossetian</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>otd</th>
       <td>Ot Danum</td>
-      <td>7905.0</td>
+      <td>7905</td>
     </tr>
     <tr>
       <th>ote</th>
       <td>Mezquital Otomi</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>otm</th>
       <td>Eastern Highland Otomi</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>otn</th>
       <td>Tenango Otomi</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>otq</th>
       <td>Querétaro Otomi</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ots</th>
       <td>Estado de México Otomi</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>oym</th>
       <td>Wayampi</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ozm</th>
       <td>Koonzime</td>
-      <td>7912.0</td>
+      <td>7912</td>
     </tr>
     <tr>
       <th>pab</th>
       <td>Parecís</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>pad</th>
       <td>Paumarí</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>pag</th>
       <td>Pangasinan</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>pah</th>
       <td>Tenharim</td>
-      <td>7881.0</td>
+      <td>7881</td>
     </tr>
     <tr>
       <th>pam</th>
       <td>Pampanga</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pan</th>
       <td>Panjabi</td>
-      <td>7940.0</td>
+      <td>7940</td>
     </tr>
     <tr>
       <th>pao</th>
       <td>Northern Paiute</td>
-      <td>7040.0</td>
+      <td>7040</td>
     </tr>
     <tr>
       <th>pap</th>
       <td>Papiamento</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>pau</th>
       <td>Palauan</td>
-      <td>7939.0</td>
+      <td>7939</td>
     </tr>
     <tr>
       <th>pbb</th>
       <td>Páez</td>
-      <td>7923.0</td>
+      <td>7923</td>
     </tr>
     <tr>
       <th>pbc</th>
       <td>Patamona</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>pbi</th>
       <td>Parkwa</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>pck</th>
       <td>Paite Chin</td>
-      <td>31098.0</td>
+      <td>31098</td>
     </tr>
     <tr>
       <th>pcm</th>
       <td>Nigerian Pidgin</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>pdc</th>
       <td>Pennsylvania German</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>pdt</th>
       <td>Plautdietsch</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>pes</th>
       <td>Iranian Persian</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>pez</th>
       <td>Eastern Penan</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>pfe</th>
       <td>Peere</td>
-      <td>7584.0</td>
+      <td>7584</td>
     </tr>
     <tr>
       <th>pib</th>
       <td>Yine</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pio</th>
       <td>Piapoco</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pir</th>
       <td>Piratapuyo</td>
-      <td>7753.0</td>
+      <td>7753</td>
     </tr>
     <tr>
       <th>pis</th>
       <td>Pijin</td>
-      <td>7920.0</td>
+      <td>7920</td>
     </tr>
     <tr>
       <th>pjt</th>
       <td>Pitjantjatjara</td>
-      <td>7507.0</td>
+      <td>7507</td>
     </tr>
     <tr>
       <th>pkb</th>
       <td>Pokomo</td>
-      <td>7899.0</td>
+      <td>7899</td>
     </tr>
     <tr>
       <th>plg</th>
       <td>Pilagá</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>pls</th>
       <td>San Marcos Tlacoyalco Popoloca</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>plt</th>
       <td>Plateau Malagasy</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>plu</th>
       <td>Palikúr</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>plw</th>
       <td>Brooke's Point Palawano</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pma</th>
       <td>Paama</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>pmf</th>
       <td>Pamona</td>
-      <td>7812.0</td>
+      <td>7812</td>
     </tr>
     <tr>
       <th>pmx</th>
       <td>Poumei Naga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>pne</th>
       <td>Western Penan</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>pny</th>
       <td>Pinyin</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>poe</th>
       <td>San Juan Atzingo Popoloca</td>
-      <td>8436.0</td>
+      <td>8436</td>
     </tr>
     <tr>
       <th>poh</th>
       <td>Poqomchi'</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>poi</th>
       <td>Highland Popoluca</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pol</th>
       <td>Polish</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>pon</th>
       <td>Pohnpeian</td>
-      <td>7960.0</td>
+      <td>7960</td>
     </tr>
     <tr>
       <th>por</th>
       <td>Portuguese</td>
-      <td>31167.0</td>
+      <td>31167</td>
     </tr>
     <tr>
       <th>pos</th>
       <td>Sayula Popoluca</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>pot</th>
       <td>Potawatomi</td>
-      <td>2078.0</td>
+      <td>2078</td>
     </tr>
     <tr>
       <th>poy</th>
       <td>Pogolo</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ppk</th>
       <td>Uma</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>ppo</th>
       <td>Folopa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pps</th>
       <td>San Luís Temalacayuca Popoloca</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>prf</th>
       <td>Paranan</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pri</th>
       <td>Paicî</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>prk</th>
       <td>Parauk</td>
-      <td>31103.0</td>
+      <td>31103</td>
     </tr>
     <tr>
       <th>prq</th>
       <td>Ashéninka Perené</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>prs</th>
       <td>Dari</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>pse</th>
       <td>Central Malay</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pss</th>
       <td>Kaulong</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ptp</th>
       <td>Patep</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ptu</th>
       <td>Bambam</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pui</th>
       <td>Puinave</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>pwg</th>
       <td>Gapapaiwa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>pww</th>
       <td>Pwo Northern Karen</td>
-      <td>7936.0</td>
+      <td>7936</td>
     </tr>
     <tr>
       <th>pxm</th>
       <td>Quetzaltepec Mixe</td>
-      <td>31008.0</td>
+      <td>31008</td>
     </tr>
     <tr>
       <th>qub</th>
       <td>Huallaga Huánuco Quechua</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>quc</th>
       <td>K'iche'</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>quf</th>
       <td>Lambayeque Quechua</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>qug</th>
       <td>Chimborazo Highland Quichua</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>quh</th>
       <td>South Bolivian Quechua</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>qul</th>
       <td>North Bolivian Quechua</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>qup</th>
       <td>Southern Pastaza Quechua</td>
-      <td>7728.0</td>
+      <td>7728</td>
     </tr>
     <tr>
       <th>quw</th>
       <td>Tena Lowland Quichua</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>quy</th>
       <td>Ayacucho Quechua</td>
-      <td>7937.0</td>
+      <td>7937</td>
     </tr>
     <tr>
       <th>quz</th>
       <td>Cusco Quechua</td>
-      <td>31072.0</td>
+      <td>31072</td>
     </tr>
     <tr>
       <th>qva</th>
       <td>Ambo-Pasco Quechua</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>qvc</th>
       <td>Cajamarca Quechua</td>
-      <td>7810.0</td>
+      <td>7810</td>
     </tr>
     <tr>
       <th>qve</th>
       <td>Eastern Apurímac Quechua</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>qvh</th>
       <td>Huamalíes-Dos de Mayo Huánuco Quechua</td>
-      <td>7455.0</td>
+      <td>7455</td>
     </tr>
     <tr>
       <th>qvi</th>
       <td>Imbabura Highland Quichua</td>
-      <td>51.0</td>
+      <td>51</td>
     </tr>
     <tr>
       <th>qvm</th>
       <td>Margos-Yarowilca-Lauricocha Quechua</td>
-      <td>7455.0</td>
+      <td>7455</td>
     </tr>
     <tr>
       <th>qvn</th>
       <td>North Junín Quechua</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>qvo</th>
       <td>Napo Lowland Quechua</td>
-      <td>7875.0</td>
+      <td>7875</td>
     </tr>
     <tr>
       <th>qvs</th>
       <td>San Martín Quechua</td>
-      <td>7883.0</td>
+      <td>7883</td>
     </tr>
     <tr>
       <th>qvw</th>
       <td>Huaylla Wanca Quechua</td>
-      <td>7644.0</td>
+      <td>7644</td>
     </tr>
     <tr>
       <th>qvz</th>
       <td>Northern Pastaza Quichua</td>
-      <td>7813.0</td>
+      <td>7813</td>
     </tr>
     <tr>
       <th>qwh</th>
       <td>Huaylas Ancash Quechua</td>
-      <td>7885.0</td>
+      <td>7885</td>
     </tr>
     <tr>
       <th>qxh</th>
       <td>Panao Huánuco Quechua</td>
-      <td>7945.0</td>
+      <td>7945</td>
     </tr>
     <tr>
       <th>qxl</th>
       <td>Salasaca Highland Quichua</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>qxn</th>
       <td>Northern Conchucos Ancash Quechua</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>qxo</th>
       <td>Southern Conchucos Ancash Quechua</td>
-      <td>7531.0</td>
+      <td>7531</td>
     </tr>
     <tr>
       <th>qxr</th>
       <td>Cañar Highland Quichua</td>
-      <td>112.0</td>
+      <td>112</td>
     </tr>
     <tr>
       <th>rad</th>
       <td>Rade</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>rai</th>
       <td>Ramoaaina</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>rap</th>
       <td>Rapanui</td>
-      <td>7906.0</td>
+      <td>7906</td>
     </tr>
     <tr>
       <th>rar</th>
       <td>Rarotongan</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>rav</th>
       <td>Sampang</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>raw</th>
       <td>Rawang</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>rej</th>
       <td>Rejang</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>rel</th>
       <td>Rendille</td>
-      <td>7942.0</td>
+      <td>7942</td>
     </tr>
     <tr>
       <th>rgu</th>
       <td>Ringgou</td>
-      <td>7079.0</td>
+      <td>7079</td>
     </tr>
     <tr>
       <th>ria</th>
       <td>Riang (India)</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>rim</th>
       <td>Nyaturu</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>rjs</th>
       <td>Rajbanshi</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>rkb</th>
       <td>Rikbaktsa</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>rmc</th>
       <td>Carpathian Romani</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>rme</th>
       <td>Angloromani</td>
-      <td>97.0</td>
+      <td>97</td>
     </tr>
     <tr>
       <th>rml</th>
       <td>Baltic Romani</td>
-      <td>879.0</td>
+      <td>879</td>
     </tr>
     <tr>
       <th>rmn</th>
       <td>Balkan Romani</td>
-      <td>1152.0</td>
+      <td>1152</td>
     </tr>
     <tr>
       <th>rmo</th>
       <td>Sinte Romani</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>rmq</th>
       <td>Caló</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>rmy</th>
       <td>Vlax Romani</td>
-      <td>7967.0</td>
+      <td>7967</td>
     </tr>
     <tr>
       <th>rnl</th>
       <td>Ranglong</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ron</th>
       <td>Romanian</td>
-      <td>9141.0</td>
+      <td>9141</td>
     </tr>
     <tr>
       <th>roo</th>
       <td>Rotokas</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>rop</th>
       <td>Kriol</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>row</th>
       <td>Dela-Oenale</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>rro</th>
       <td>Waima</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>rub</th>
       <td>Gungu</td>
-      <td>741.0</td>
+      <td>741</td>
     </tr>
     <tr>
       <th>ruf</th>
       <td>Luguru</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>rug</th>
       <td>Roviana</td>
-      <td>7947.0</td>
+      <td>7947</td>
     </tr>
     <tr>
       <th>run</th>
       <td>Rundi</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>rup</th>
       <td>Macedo-Romanian</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>rus</th>
       <td>Russian</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>rwo</th>
       <td>Rawa</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>sab</th>
       <td>Buglere</td>
-      <td>7542.0</td>
+      <td>7542</td>
     </tr>
     <tr>
       <th>sag</th>
       <td>Sango</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>sah</th>
       <td>Yakut</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>saj</th>
       <td>Sahu</td>
-      <td>7854.0</td>
+      <td>7854</td>
     </tr>
     <tr>
       <th>san</th>
       <td>Sanskrit</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>sas</th>
       <td>Sasak</td>
-      <td>7909.0</td>
+      <td>7909</td>
     </tr>
     <tr>
       <th>sat</th>
       <td>Santali</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>sba</th>
       <td>Ngambay</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>sbd</th>
       <td>Southern Samo</td>
-      <td>7920.0</td>
+      <td>7920</td>
     </tr>
     <tr>
       <th>sbe</th>
       <td>Saliba</td>
-      <td>4388.0</td>
+      <td>4388</td>
     </tr>
     <tr>
       <th>sbl</th>
       <td>Botolan Sambal</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>sck</th>
       <td>Sadri</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>sco</th>
       <td>Scots</td>
-      <td>1151.0</td>
+      <td>1151</td>
     </tr>
     <tr>
       <th>sda</th>
       <td>Toraja-Sa'dan</td>
-      <td>7907.0</td>
+      <td>7907</td>
     </tr>
     <tr>
       <th>sdm</th>
       <td>Semandang</td>
-      <td>7751.0</td>
+      <td>7751</td>
     </tr>
     <tr>
       <th>seh</th>
       <td>Sena</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ses</th>
       <td>Koyraboro Senni Songhai</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>sey</th>
       <td>Secoya</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>sgb</th>
       <td>Mag-antsi Ayta</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>sgw</th>
       <td>Sebat Bet Gurage</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>sgz</th>
       <td>Sursurunga</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>shn</th>
       <td>Shan</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>shp</th>
       <td>Shipibo-Conibo</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>shu</th>
       <td>Chadian Arabic</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>sig</th>
       <td>Paasaal</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>sil</th>
       <td>Tumulung Sisaala</td>
-      <td>7912.0</td>
+      <td>7912</td>
     </tr>
     <tr>
       <th>sim</th>
       <td>Mende (Papua New Guinea)</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>sin</th>
       <td>Sinhala</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>sja</th>
       <td>Epena</td>
-      <td>7930.0</td>
+      <td>7930</td>
     </tr>
     <tr>
       <th>sld</th>
       <td>Sissala</td>
-      <td>7928.0</td>
+      <td>7928</td>
     </tr>
     <tr>
       <th>slk</th>
       <td>Slovak</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>sll</th>
       <td>Salt-Yui</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>slv</th>
       <td>Slovenian</td>
-      <td>7585.0</td>
+      <td>7585</td>
     </tr>
     <tr>
       <th>smk</th>
       <td>Bolinao</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>sml</th>
       <td>Central Sama</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>smo</th>
       <td>Samoan</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>smt</th>
       <td>Simte</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>sna</th>
       <td>Shona</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>snc</th>
       <td>Sinaugoro</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>snd</th>
       <td>Sindhi</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>snf</th>
       <td>Noon</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>snn</th>
       <td>Siona</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>snp</th>
       <td>Siane</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>snw</th>
       <td>Selee</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>sny</th>
       <td>Saniyo-Hiyewe</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>som</th>
       <td>Somali</td>
-      <td>31108.0</td>
+      <td>31108</td>
     </tr>
     <tr>
       <th>sop</th>
       <td>Songe</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>soq</th>
       <td>Kanasi</td>
-      <td>10858.0</td>
+      <td>10858</td>
     </tr>
     <tr>
       <th>sot</th>
       <td>Southern Sotho</td>
-      <td>5062.0</td>
+      <td>5062</td>
     </tr>
     <tr>
       <th>soy</th>
       <td>Miyobe</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>spa</th>
       <td>Spanish</td>
-      <td>35337.0</td>
+      <td>35337</td>
     </tr>
     <tr>
       <th>spl</th>
       <td>Selepet</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>spm</th>
       <td>Akukem</td>
-      <td>1685.0</td>
+      <td>1685</td>
     </tr>
     <tr>
       <th>spp</th>
       <td>Supyire Senoufo</td>
-      <td>7905.0</td>
+      <td>7905</td>
     </tr>
     <tr>
       <th>sps</th>
       <td>Saposa</td>
-      <td>8244.0</td>
+      <td>8244</td>
     </tr>
     <tr>
       <th>spy</th>
       <td>Sabaot</td>
-      <td>7945.0</td>
+      <td>7945</td>
     </tr>
     <tr>
       <th>sqi</th>
       <td>Albanian</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>sri</th>
       <td>Siriano</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>srm</th>
       <td>Saramaccan</td>
-      <td>7774.0</td>
+      <td>7774</td>
     </tr>
     <tr>
       <th>srn</th>
       <td>Sranan Tongo</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>srp</th>
       <td>Serbian</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>srq</th>
       <td>Sirionó</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ssd</th>
       <td>Siroi</td>
-      <td>11149.0</td>
+      <td>11149</td>
     </tr>
     <tr>
       <th>ssg</th>
       <td>Seimat</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ssw</th>
       <td>Swati</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ssx</th>
       <td>Samberigi</td>
-      <td>9490.0</td>
+      <td>9490</td>
     </tr>
     <tr>
       <th>stn</th>
       <td>Owa</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>stp</th>
       <td>Southeastern Tepehuan</td>
-      <td>7924.0</td>
+      <td>7924</td>
     </tr>
     <tr>
       <th>sua</th>
       <td>Sulka</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>suc</th>
       <td>Western Subanon</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>sue</th>
       <td>Suena</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>suk</th>
       <td>Sukuma</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>sun</th>
       <td>Sundanese</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>sur</th>
       <td>Mwaghavul</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>sus</th>
       <td>Susu</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>suz</th>
       <td>Sunwar</td>
-      <td>31104.0</td>
+      <td>31104</td>
     </tr>
     <tr>
       <th>swe</th>
       <td>Swedish</td>
-      <td>31170.0</td>
+      <td>31170</td>
     </tr>
     <tr>
       <th>swh</th>
       <td>Swahili (individual language)</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>swp</th>
       <td>Suau</td>
-      <td>11728.0</td>
+      <td>11728</td>
     </tr>
     <tr>
       <th>sxb</th>
       <td>Suba</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>sxn</th>
       <td>Sangir</td>
-      <td>7903.0</td>
+      <td>7903</td>
     </tr>
     <tr>
       <th>syb</th>
       <td>Central Subanen</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>syl</th>
       <td>Sylheti</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tab</th>
       <td>Tabassaran</td>
-      <td>7879.0</td>
+      <td>7879</td>
     </tr>
     <tr>
       <th>tac</th>
       <td>Lowland Tarahumara</td>
-      <td>7895.0</td>
+      <td>7895</td>
     </tr>
     <tr>
       <th>taj</th>
       <td>Eastern Tamang</td>
-      <td>7922.0</td>
+      <td>7922</td>
     </tr>
     <tr>
       <th>tam</th>
       <td>Tamil</td>
-      <td>7943.0</td>
+      <td>7943</td>
     </tr>
     <tr>
       <th>tap</th>
       <td>Taabwa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>taq</th>
       <td>Tamasheq</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>tat</th>
       <td>Tatar</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>tav</th>
       <td>Tatuyo</td>
-      <td>7909.0</td>
+      <td>7909</td>
     </tr>
     <tr>
       <th>taw</th>
       <td>Tai</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tbc</th>
       <td>Takia</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>tbg</th>
       <td>North Tairora</td>
-      <td>19853.0</td>
+      <td>19853</td>
     </tr>
     <tr>
       <th>tbk</th>
       <td>Calamian Tagbanwa</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>tbl</th>
       <td>Tboli</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tbo</th>
       <td>Tawala</td>
-      <td>7952.0</td>
+      <td>7952</td>
     </tr>
     <tr>
       <th>tbw</th>
       <td>Tagbanwa</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>tby</th>
       <td>Tabaru</td>
-      <td>7896.0</td>
+      <td>7896</td>
     </tr>
     <tr>
       <th>tbz</th>
       <td>Ditammari</td>
-      <td>31008.0</td>
+      <td>31008</td>
     </tr>
     <tr>
       <th>tca</th>
       <td>Ticuna</td>
-      <td>7742.0</td>
+      <td>7742</td>
     </tr>
     <tr>
       <th>tcc</th>
       <td>Datooga</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>tcs</th>
       <td>Torres Strait Creole</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tcz</th>
       <td>Thado Chin</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tdt</th>
       <td>Tetun Dili</td>
-      <td>7079.0</td>
+      <td>7079</td>
     </tr>
     <tr>
       <th>ted</th>
       <td>Tepo Krumen</td>
-      <td>7935.0</td>
+      <td>7935</td>
     </tr>
     <tr>
       <th>tee</th>
       <td>Huehuetla Tepehua</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>tel</th>
       <td>Telugu</td>
-      <td>30742.0</td>
+      <td>30742</td>
     </tr>
     <tr>
       <th>tem</th>
       <td>Timne</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>teo</th>
       <td>Teso</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ter</th>
       <td>Tereno</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>tet</th>
       <td>Tetum</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tew</th>
       <td>Tewa (USA)</td>
-      <td>3169.0</td>
+      <td>3169</td>
     </tr>
     <tr>
       <th>tfr</th>
       <td>Teribe</td>
-      <td>7637.0</td>
+      <td>7637</td>
     </tr>
     <tr>
       <th>tgk</th>
       <td>Tajik</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>tgl</th>
       <td>Tagalog</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>tgo</th>
       <td>Sudest</td>
-      <td>8089.0</td>
+      <td>8089</td>
     </tr>
     <tr>
       <th>tgp</th>
       <td>Tangoa</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>tha</th>
       <td>Thai</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>thk</th>
       <td>Tharaka</td>
-      <td>7932.0</td>
+      <td>7932</td>
     </tr>
     <tr>
       <th>thl</th>
       <td>Dangaura Tharu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tif</th>
       <td>Tifal</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tih</th>
       <td>Timugon Murut</td>
-      <td>34555.0</td>
+      <td>34555</td>
     </tr>
     <tr>
       <th>tik</th>
       <td>Tikar</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>tim</th>
       <td>Timbe</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tir</th>
       <td>Tigrinya</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>tiy</th>
       <td>Tiruray</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>tke</th>
       <td>Takwane</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>tku</th>
       <td>Upper Necaxa Totonac</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>tlb</th>
       <td>Tobelo</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>tlf</th>
       <td>Telefol</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>tlj</th>
       <td>Talinga-Bwisi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tmc</th>
       <td>Tumak</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tmd</th>
       <td>Haruai</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tna</th>
       <td>Tacana</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tnc</th>
       <td>Tanimuca-Retuarã</td>
-      <td>3237.0</td>
+      <td>3237</td>
     </tr>
     <tr>
       <th>tnk</th>
       <td>Kwamera</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>tnn</th>
       <td>North Tanna</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>tnp</th>
       <td>Whitesands</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>tnr</th>
       <td>Ménik</td>
-      <td>7920.0</td>
+      <td>7920</td>
     </tr>
     <tr>
       <th>tob</th>
       <td>Toba</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>toc</th>
       <td>Coyutla Totonac</td>
-      <td>7921.0</td>
+      <td>7921</td>
     </tr>
     <tr>
       <th>tod</th>
       <td>Toma</td>
-      <td>11207.0</td>
+      <td>11207</td>
     </tr>
     <tr>
       <th>toi</th>
       <td>Tonga (Zambia)</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>toj</th>
       <td>Tojolabal</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ton</th>
       <td>Tonga (Tonga Islands)</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>too</th>
       <td>Xicotepec De Juárez Totonac</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>top</th>
       <td>Papantla Totonac</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>tos</th>
       <td>Highland Totonac</td>
-      <td>7911.0</td>
+      <td>7911</td>
     </tr>
     <tr>
       <th>tpa</th>
       <td>Taupota</td>
-      <td>678.0</td>
+      <td>678</td>
     </tr>
     <tr>
       <th>tpi</th>
       <td>Tok Pisin</td>
-      <td>35589.0</td>
+      <td>35589</td>
     </tr>
     <tr>
       <th>tpm</th>
       <td>Tampulma</td>
-      <td>30835.0</td>
+      <td>30835</td>
     </tr>
     <tr>
       <th>tpp</th>
       <td>Pisaflores Tepehua</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>tpt</th>
       <td>Tlachichilco Tepehua</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>tpz</th>
       <td>Tinputz</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tqo</th>
       <td>Toaripi</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>trc</th>
       <td>Copala Triqui</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>tro</th>
       <td>Tarao Naga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>trp</th>
       <td>Kok Borok</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>trs</th>
       <td>Chicahuaxtla Triqui</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>tsg</th>
       <td>Tausug</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tsn</th>
       <td>Tswana</td>
-      <td>9303.0</td>
+      <td>9303</td>
     </tr>
     <tr>
       <th>tso</th>
       <td>Tsonga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>tsw</th>
       <td>Tsishingini</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>tsz</th>
       <td>Purepecha</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>ttc</th>
       <td>Tektiteko</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tte</th>
       <td>Bwanabwana</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ttq</th>
       <td>Tawallammat Tamajaq</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>ttr</th>
       <td>Tera</td>
-      <td>31083.0</td>
+      <td>31083</td>
     </tr>
     <tr>
       <th>tuc</th>
       <td>Mutu</td>
-      <td>12880.0</td>
+      <td>12880</td>
     </tr>
     <tr>
       <th>tue</th>
       <td>Tuyuca</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>tuf</th>
       <td>Central Tunebo</td>
-      <td>7894.0</td>
+      <td>7894</td>
     </tr>
     <tr>
       <th>tui</th>
       <td>Tupuri</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>tuk</th>
       <td>Turkmen</td>
-      <td>30867.0</td>
+      <td>30867</td>
     </tr>
     <tr>
       <th>tul</th>
       <td>Tula</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tum</th>
       <td>Tumbuka</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>tuo</th>
       <td>Tucano</td>
-      <td>7939.0</td>
+      <td>7939</td>
     </tr>
     <tr>
       <th>tur</th>
       <td>Turkish</td>
-      <td>30984.0</td>
+      <td>30984</td>
     </tr>
     <tr>
       <th>tvk</th>
       <td>Southeast Ambrym</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>twb</th>
       <td>Western Tawbuid</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>twi</th>
       <td>Twi</td>
-      <td>7519.0</td>
+      <td>7519</td>
     </tr>
     <tr>
       <th>twu</th>
       <td>Termanu</td>
-      <td>7946.0</td>
+      <td>7946</td>
     </tr>
     <tr>
       <th>txq</th>
       <td>Tii</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>txu</th>
       <td>Kayapó</td>
-      <td>7675.0</td>
+      <td>7675</td>
     </tr>
     <tr>
       <th>tyv</th>
       <td>Tuvinian</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>tzh</th>
       <td>Tzeltal</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>tzj</th>
       <td>Tz'utujil</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>tzo</th>
       <td>Tzotzil</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>tzt</th>
       <td>NaN</td>
-      <td>7906.0</td>
+      <td>7906</td>
     </tr>
     <tr>
       <th>ubr</th>
       <td>Ubir</td>
-      <td>9489.0</td>
+      <td>9489</td>
     </tr>
     <tr>
       <th>ubu</th>
       <td>Umbu-Ungu</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>udm</th>
       <td>Udmurt</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>udu</th>
       <td>Uduk</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>uig</th>
       <td>Uighur</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>ukr</th>
       <td>Ukrainian</td>
-      <td>31103.0</td>
+      <td>31103</td>
     </tr>
     <tr>
       <th>upv</th>
       <td>Uripiv-Wala-Rano-Atchin</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
     <tr>
       <th>ura</th>
       <td>Urarina</td>
-      <td>7752.0</td>
+      <td>7752</td>
     </tr>
     <tr>
       <th>urb</th>
       <td>Urubú-Kaapor</td>
-      <td>7869.0</td>
+      <td>7869</td>
     </tr>
     <tr>
       <th>urd</th>
       <td>Urdu</td>
-      <td>7900.0</td>
+      <td>7900</td>
     </tr>
     <tr>
       <th>uri</th>
       <td>Urim</td>
-      <td>2511.0</td>
+      <td>2511</td>
     </tr>
     <tr>
       <th>urk</th>
       <td>Urak Lawoi'</td>
-      <td>7922.0</td>
+      <td>7922</td>
     </tr>
     <tr>
       <th>urt</th>
       <td>Urat</td>
-      <td>7962.0</td>
+      <td>7962</td>
     </tr>
     <tr>
       <th>urw</th>
       <td>Sop</td>
-      <td>1199.0</td>
+      <td>1199</td>
     </tr>
     <tr>
       <th>ury</th>
       <td>Orya</td>
-      <td>7763.0</td>
+      <td>7763</td>
     </tr>
     <tr>
       <th>usa</th>
       <td>Usarufa</td>
-      <td>8232.0</td>
+      <td>8232</td>
     </tr>
     <tr>
       <th>usp</th>
       <td>Uspanteco</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>uvh</th>
       <td>Uri</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>uvl</th>
       <td>Lote</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>uzn</th>
       <td>Northern Uzbek</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>vag</th>
       <td>Vagla</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>vap</th>
       <td>Vaiphei</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>var</th>
       <td>Huarijio</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>ven</th>
       <td>Venda</td>
-      <td>5055.0</td>
+      <td>5055</td>
     </tr>
     <tr>
       <th>vid</th>
       <td>Vidunda</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>vie</th>
       <td>Vietnamese</td>
-      <td>23136.0</td>
+      <td>23136</td>
     </tr>
     <tr>
       <th>viv</th>
       <td>Iduna</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>vmy</th>
       <td>Ayautla Mazatec</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>vol</th>
       <td>Volapük</td>
-      <td>103.0</td>
+      <td>103</td>
     </tr>
     <tr>
       <th>vun</th>
       <td>Vunjo</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>vut</th>
       <td>Vute</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>waj</th>
       <td>Waffa</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>wal</th>
       <td>Wolaytta</td>
-      <td>22939.0</td>
+      <td>22939</td>
     </tr>
     <tr>
       <th>wap</th>
       <td>Wapishana</td>
-      <td>8067.0</td>
+      <td>8067</td>
     </tr>
     <tr>
       <th>war</th>
       <td>Waray (Philippines)</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>wat</th>
       <td>Kaninuwa</td>
-      <td>2665.0</td>
+      <td>2665</td>
     </tr>
     <tr>
       <th>way</th>
       <td>Wayana</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>wba</th>
       <td>Warao</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>wbm</th>
       <td>Wa</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>wbp</th>
       <td>Warlpiri</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>wed</th>
       <td>Wedau</td>
-      <td>4192.0</td>
+      <td>4192</td>
     </tr>
     <tr>
       <th>wer</th>
       <td>Weri</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>whk</th>
       <td>Wahau Kenyah</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>wib</th>
       <td>Southern Toussian</td>
-      <td>4159.0</td>
+      <td>4159</td>
     </tr>
     <tr>
       <th>wim</th>
       <td>Wik-Mungkan</td>
-      <td>5056.0</td>
+      <td>5056</td>
     </tr>
     <tr>
       <th>wiu</th>
       <td>Wiru</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>wlx</th>
       <td>Wali (Ghana)</td>
-      <td>31102.0</td>
+      <td>31102</td>
     </tr>
     <tr>
       <th>wmt</th>
       <td>Walmajarri</td>
-      <td>3384.0</td>
+      <td>3384</td>
     </tr>
     <tr>
       <th>wmw</th>
       <td>Mwani</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>wnc</th>
       <td>Wantoat</td>
-      <td>10418.0</td>
+      <td>10418</td>
     </tr>
     <tr>
       <th>wnu</th>
       <td>Usan</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>wob</th>
       <td>Wè Northern</td>
-      <td>7928.0</td>
+      <td>7928</td>
     </tr>
     <tr>
       <th>wos</th>
       <td>Hanga Hundi</td>
-      <td>8006.0</td>
+      <td>8006</td>
     </tr>
     <tr>
       <th>wrk</th>
       <td>Garrwa</td>
-      <td>3527.0</td>
+      <td>3527</td>
     </tr>
     <tr>
       <th>wrs</th>
       <td>Waris</td>
-      <td>9624.0</td>
+      <td>9624</td>
     </tr>
     <tr>
       <th>wsg</th>
       <td>Adilabad Gondi</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>wsk</th>
       <td>Waskia</td>
-      <td>13609.0</td>
+      <td>13609</td>
     </tr>
     <tr>
       <th>wuv</th>
       <td>Wuvulu-Aua</td>
-      <td>7941.0</td>
+      <td>7941</td>
     </tr>
     <tr>
       <th>wwa</th>
       <td>Waama</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>xal</th>
       <td>Kalmyk</td>
-      <td>5051.0</td>
+      <td>5051</td>
     </tr>
     <tr>
       <th>xav</th>
       <td>Xavánte</td>
-      <td>7428.0</td>
+      <td>7428</td>
     </tr>
     <tr>
       <th>xbi</th>
       <td>Kombio</td>
-      <td>1384.0</td>
+      <td>1384</td>
     </tr>
     <tr>
       <th>xed</th>
       <td>Hdi</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>xho</th>
       <td>Xhosa</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>xla</th>
       <td>Kamula</td>
-      <td>10172.0</td>
+      <td>10172</td>
     </tr>
     <tr>
       <th>xmm</th>
       <td>Manado Malay</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>xnn</th>
       <td>Northern Kankanay</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>xog</th>
       <td>Soga</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>xon</th>
       <td>Konkomba</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>xpe</th>
       <td>Liberia Kpelle</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>xrb</th>
       <td>Eastern Karaboro</td>
-      <td>7925.0</td>
+      <td>7925</td>
     </tr>
     <tr>
       <th>xsb</th>
       <td>Sambal</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>xsi</th>
       <td>Sio</td>
-      <td>10420.0</td>
+      <td>10420</td>
     </tr>
     <tr>
       <th>xsm</th>
       <td>Kasem</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>xsr</th>
       <td>Sherpa</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>xsu</th>
       <td>Sanumá</td>
-      <td>7799.0</td>
+      <td>7799</td>
     </tr>
     <tr>
       <th>xtd</th>
       <td>Diuxi-Tilantongo Mixtec</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>xtm</th>
       <td>Magdalena Peñasco Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>xtn</th>
       <td>Northern Tlaxiaco Mixtec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>xuo</th>
       <td>Kuo</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>yaa</th>
       <td>Yaminahua</td>
-      <td>7918.0</td>
+      <td>7918</td>
     </tr>
     <tr>
       <th>yad</th>
       <td>Yagua</td>
-      <td>7870.0</td>
+      <td>7870</td>
     </tr>
     <tr>
       <th>yal</th>
       <td>Yalunka</td>
-      <td>7955.0</td>
+      <td>7955</td>
     </tr>
     <tr>
       <th>yam</th>
       <td>Yamba</td>
-      <td>7929.0</td>
+      <td>7929</td>
     </tr>
     <tr>
       <th>yan</th>
       <td>Mayangna</td>
-      <td>5053.0</td>
+      <td>5053</td>
     </tr>
     <tr>
       <th>yao</th>
       <td>Yao</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>yap</th>
       <td>Yapese</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>yaq</th>
       <td>Yaqui</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>yas</th>
       <td>Nugunu (Cameroon)</td>
-      <td>7723.0</td>
+      <td>7723</td>
     </tr>
     <tr>
       <th>yat</th>
       <td>Yambeta</td>
-      <td>7935.0</td>
+      <td>7935</td>
     </tr>
     <tr>
       <th>yaz</th>
       <td>Lokaa</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ybb</th>
       <td>Yemba</td>
-      <td>7949.0</td>
+      <td>7949</td>
     </tr>
     <tr>
       <th>yby</th>
       <td>Yaweyuha</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>ycn</th>
       <td>Yucuna</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>yim</th>
       <td>Yimchungru Naga</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>yka</th>
       <td>Yakan</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>yle</th>
       <td>Yele</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>yli</th>
       <td>Angguruk Yali</td>
-      <td>7911.0</td>
+      <td>7911</td>
     </tr>
     <tr>
       <th>yml</th>
       <td>Iamalele</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>yom</th>
       <td>Yombe</td>
-      <td>7517.0</td>
+      <td>7517</td>
     </tr>
     <tr>
       <th>yon</th>
       <td>Yongkom</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>yor</th>
       <td>Yoruba</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>yrb</th>
       <td>Yareba</td>
-      <td>7875.0</td>
+      <td>7875</td>
     </tr>
     <tr>
       <th>yre</th>
       <td>Yaouré</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>yss</th>
       <td>Yessan-Mayo</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>yua</th>
       <td>Yucateco</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>yue</th>
       <td>Yue Chinese</td>
-      <td>31097.0</td>
+      <td>31097</td>
     </tr>
     <tr>
       <th>yuj</th>
       <td>Karkar-Yuri</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>yut</th>
       <td>Yopno</td>
-      <td>10419.0</td>
+      <td>10419</td>
     </tr>
     <tr>
       <th>yuw</th>
       <td>Yau (Morobe Province)</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>yva</th>
       <td>Yawa</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>zaa</th>
       <td>Sierra de Juárez Zapotec</td>
-      <td>7951.0</td>
+      <td>7951</td>
     </tr>
     <tr>
       <th>zab</th>
       <td>Western Tlacolula Valley Zapotec</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>zac</th>
       <td>Ocotlán Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zad</th>
       <td>Cajonos Zapotec</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>zae</th>
       <td>Yareni Zapotec</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>zai</th>
       <td>Isthmus Zapotec</td>
-      <td>7931.0</td>
+      <td>7931</td>
     </tr>
     <tr>
       <th>zam</th>
       <td>Miahuatlán Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zao</th>
       <td>Ozolotepec Zapotec</td>
-      <td>7944.0</td>
+      <td>7944</td>
     </tr>
     <tr>
       <th>zar</th>
       <td>Rincón Zapotec</td>
-      <td>7929.0</td>
+      <td>7929</td>
     </tr>
     <tr>
       <th>zas</th>
       <td>Santo Domingo Albarradas Zapotec</td>
-      <td>7948.0</td>
+      <td>7948</td>
     </tr>
     <tr>
       <th>zat</th>
       <td>Tabaa Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zav</th>
       <td>Yatzachi Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zaw</th>
       <td>Mitla Zapotec</td>
-      <td>7956.0</td>
+      <td>7956</td>
     </tr>
     <tr>
       <th>zca</th>
       <td>Coatecas Altas Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zho</th>
       <td>Chinese</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>zia</th>
       <td>Zia</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>ziw</th>
       <td>Zigula</td>
-      <td>7959.0</td>
+      <td>7959</td>
     </tr>
     <tr>
       <th>zlm</th>
       <td>Malay (individual language)</td>
-      <td>23145.0</td>
+      <td>23145</td>
     </tr>
     <tr>
       <th>zoc</th>
       <td>Copainalá Zoque</td>
-      <td>5058.0</td>
+      <td>5058</td>
     </tr>
     <tr>
       <th>zom</th>
       <td>Zou</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>zos</th>
       <td>Francisco León Zoque</td>
-      <td>7957.0</td>
+      <td>7957</td>
     </tr>
     <tr>
       <th>zpc</th>
       <td>Choapan Zapotec</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>zpi</th>
       <td>Santa María Quiegolani Zapotec</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>zpl</th>
       <td>Lachixío Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zpm</th>
       <td>Mixtepec Zapotec</td>
-      <td>7720.0</td>
+      <td>7720</td>
     </tr>
     <tr>
       <th>zpo</th>
       <td>Amatlán Zapotec</td>
-      <td>7937.0</td>
+      <td>7937</td>
     </tr>
     <tr>
       <th>zpq</th>
       <td>Zoogocho Zapotec</td>
-      <td>7953.0</td>
+      <td>7953</td>
     </tr>
     <tr>
       <th>zpt</th>
       <td>San Vicente Coatlán Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zpu</th>
       <td>Yalálag Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zpv</th>
       <td>Chichicapan Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>zpz</th>
       <td>Texmelucan Zapotec</td>
-      <td>7950.0</td>
+      <td>7950</td>
     </tr>
     <tr>
       <th>zsm</th>
       <td>Standard Malay</td>
-      <td>7943.0</td>
+      <td>7943</td>
     </tr>
     <tr>
       <th>zsr</th>
       <td>Southern Rincon Zapotec</td>
-      <td>7958.0</td>
+      <td>7958</td>
     </tr>
     <tr>
       <th>ztq</th>
       <td>Quioquitani-Quierí Zapotec</td>
-      <td>7922.0</td>
+      <td>7922</td>
     </tr>
     <tr>
       <th>zty</th>
       <td>Yatee Zapotec</td>
-      <td>7922.0</td>
+      <td>7922</td>
     </tr>
     <tr>
       <th>zul</th>
       <td>Zulu</td>
-      <td>5059.0</td>
+      <td>5059</td>
     </tr>
     <tr>
       <th>zyb</th>
       <td>Yongbei Zhuang</td>
-      <td>5057.0</td>
+      <td>5057</td>
     </tr>
     <tr>
       <th>zyp</th>
       <td>Zyphe Chin</td>
-      <td>7954.0</td>
+      <td>7954</td>
     </tr>
   </tbody>
 </table>
