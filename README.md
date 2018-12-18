@@ -1,13 +1,20 @@
 ## 1000Langs is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
 
-<strong>Developer</strong>: <a href='https://llp.berkeley.edu/asgari/'>Ehsaneddin Asgari </a>(<span style="color: #0000ff;">asgari [at] cis [dot] lmu [dot] de</span>)
+<strong>Developer and maintainer</strong>: <a href='https://llp.berkeley.edu/asgari/'>Ehsaneddin Asgari </a>(<span style="color: #0000ff;">asgari [at] cis [dot] lmu [dot] de</span>)
 <br/>
 Please feel free to report any technical issue by sending an email or reporting an issue here.
 <br/>
-<strong>PI</strong>: Prof. Hinrich Schuetze
+<strong>PI</strong>: <a href='http://www.cis.uni-muenchen.de/personen/professoren/schuetze/'>Prof. Hinrich Schuetze</a>
 <br/>
+<hr />
 
-## List of covered languages
+
+
+
+### List of covered languages
+
+The 1000Langs super-parallel crawler currently supports crawling of 1500+ unique languages, that are crawled through multiple sources of bible corpora.
+
 <hr />
 
 <table border="1" class="dataframe">
