@@ -1,14 +1,12 @@
+# 1000Langs is a super-parallal corpora crawler for multilingual NLP and Computational Linguistics
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
-      <th>language_name</th>
-      <th>max-verse-1000Langs</th>
-    </tr>
-    <tr>
-      <th>language_iso</th>
-      <th></th>
-      <th></th>
+      <th>Language ISO 639-3 Code</th>
+      <th>Language Name</th>
+      <th>Max number of verses available in a translation</th>
     </tr>
   </thead>
   <tbody>
