@@ -1,4 +1,4 @@
-# Installation instruction using miniconda on Linux and MacOSx
+# Installation instruction using miniconda 
 
 We recommend to use a conda virtual environment for installation of 1000Langs.
 
