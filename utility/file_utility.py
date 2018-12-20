@@ -18,7 +18,6 @@ from multiprocessing import Pool
 import numpy as np
 import tqdm
 from scipy import sparse
-import h5py
 import shutil
 
 
@@ -96,11 +95,3 @@ class FileUtility(object):
             good_files = fnmatch.filter(files, pattern)
             results.extend(os.path.join(base, f) for f in good_files)
         return results
-
-
-
-    @staticmethod
-    def loadH5file(filename):
-        f = h5py.File(filename, 'r')
-        a_group_key = list(f.keys())[0]
-        return list(f[a_group_key])
