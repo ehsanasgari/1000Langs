@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
 
         print('=====================================')
-        print('>>>> Start retrieveing parallel bibles from bible digital platform..')
+        print('>>>> Start retrieveing parallel bibles from the bible digital platform..')
         print('=====================================')
         # API call
         BDP_obj = BDPAPl(apikey, out_path)

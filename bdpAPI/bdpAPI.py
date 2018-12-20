@@ -41,7 +41,7 @@ class BDPAPl(object):
             return False
         else:
             response = json.loads(response.content)
-            print('Connected successfully to bible digital platform v ' + response['Version'])
+            print('Connected successfully to the bible digital platform v ' + response['Version'])
             self.load_book_map()
 
     def create_BPC(self, nump=20,update_meta_data=False, override=False, repeat=4):
@@ -152,7 +152,7 @@ class BDPAPl(object):
                 
             
         # call in parallel
-        print('Retrieving the bible translation')
+        print('Retrieving the bible translations')
         res = BDPAPl.make_parallel(min(nump,len(tr_meta)), self.ret_a_book, tr_meta)
         res.update(exists)
         
