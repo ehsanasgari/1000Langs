@@ -125,4 +125,4 @@ if __name__ == '__main__':
         print('In ', comp_table[(comp_table['max-verse-1000Langs'] >= comp_table['max-verse-massivepar']) & (
                     comp_table['max-verse-massivepar'] > 0)].shape[0], ' out iso codes of ',
               comp_table[(comp_table['max-verse-1000Langs'] > 0) & (comp_table['max-verse-massivepar'] > 0)].shape[0],
-              ' total intersection, 1000Langs crawled larger max verses for the iso code!')
+              ' total intersection, 1000Langs crawled larger max verses for the iso codes!')

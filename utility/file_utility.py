@@ -17,10 +17,6 @@ import os
 from multiprocessing import Pool
 import numpy as np
 import tqdm
-from Bio import SeqIO
-from Bio.Alphabet import generic_dna
-from Bio.Seq import Seq
-from Bio.SeqRecord import SeqRecord
 from scipy import sparse
 import h5py
 import shutil
@@ -29,62 +25,6 @@ import shutil
 class FileUtility(object):
     def __init__(self):
         print('File utility object created..')
-
-    @staticmethod
-    def create_fasta_file(file_address, corpus, label):
-        seq_id_pairs = [('.'.join([str(idx + 1), label[idx]]), x) for idx, x in enumerate(corpus)]
-        seq_recs = [SeqRecord(Seq(seq, generic_dna), id=id, description='') for id, seq in seq_id_pairs]
-        SeqIO.write(seq_recs, file_address, "fasta")
-
-
-    @staticmethod
-    def read_sequence_file(file_name_sample):
-        '''
-        :param file_name_sample:
-        :return:
-        '''
-        corpus = []
-        if file_name_sample[-1] == 'q':
-            for cur_record in SeqIO.parse(file_name_sample, "fastq"):
-                corpus.append(str(cur_record.seq).lower())
-        else:
-            for cur_record in SeqIO.parse(file_name_sample, "fasta"):
-                corpus.append(str(cur_record.seq).lower())
-        return file_name_sample.split('/')[-1], corpus
-
-    @staticmethod
-    def read_sequence_file_length(file_name_sample):
-        '''
-        :param file_name_sample:
-        :return:
-        '''
-        corpus = []
-        if file_name_sample[-1] == 'q':
-            for cur_record in SeqIO.parse(file_name_sample, "fastq"):
-                corpus.append(str(cur_record.seq).lower())
-        else:
-            for cur_record in SeqIO.parse(file_name_sample, "fasta"):
-                corpus.append(str(cur_record.seq).lower())
-        return file_name_sample.split('/')[-1], len(corpus)
-
-
-    @staticmethod
-    def read_fasta_directory(file_directory, file_extenstion, only_files=[]):
-        '''
-        :param file_directory:
-        :param file_extenstion:
-        :param only_files:
-        :return: list of fasta files, and a dic to map file to index
-        '''
-        if len(only_files) > 0:
-            fasta_files = [x for x in FileUtility.recursive_glob(file_directory, '*.' + file_extenstion) if
-                           x.split('/')[-1] in only_files]
-        else:
-            fasta_files = [x for x in FileUtility.recursive_glob(file_directory, '*.' + file_extenstion)]
-
-        fasta_files.sort()
-        mapping = {v: k for k, v in enumerate(fasta_files)}
-        return fasta_files, mapping
 
 
     @staticmethod
@@ -157,19 +97,6 @@ class FileUtility(object):
             results.extend(os.path.join(base, f) for f in good_files)
         return results
 
-    @staticmethod
-    def read_fasta_sequences(file_name):
-        corpus=[]
-        for cur_record in SeqIO.parse(file_name, "fasta"):
-                corpus.append(str(cur_record.seq).lower())
-        return corpus
-
-    @staticmethod
-    def read_fasta_sequences_ids(file_name):
-        corpus=dict()
-        for cur_record in SeqIO.parse(file_name, "fasta"):
-                corpus[str(cur_record.id)]=(str(cur_record.seq).lower(),str(cur_record.description))
-        return corpus
 
 
     @staticmethod
