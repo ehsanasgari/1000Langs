@@ -130,19 +130,19 @@ if __name__ == '__main__':
         print("")
 
 
-        print('=====================================')
-        print('>>>> Start retrieveing parallel bibles from biblecom..')
-        print('=====================================')
-        # BibleCom
-        BCA = BibleComAPl(out_path)
-        BCA.crawl_bpc(nump=nump, update_meta=update_metadata, override=override, repeat=repeat)
-        print('=====================================')
-        print('<<<< ✓ Retrieveing parallel bibles from PNGscripture is completed..')
-        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_biblecom.tsv')
-        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
-        print('=====================================')
-        print("")
-        print("")
+        # print('=====================================')
+        # print('>>>> Start retrieveing parallel bibles from biblecom..')
+        # print('=====================================')
+        # # BibleCom
+        # BCA = BibleComAPl(out_path)
+        # BCA.crawl_bpc(nump=nump, update_meta=update_metadata, override=override, repeat=repeat)
+        # print('=====================================')
+        # print('<<<< ✓ Retrieveing parallel bibles from biblecom is completed..')
+        # print(' Report is generated at '+out_path+'/reports/'+'crawl_report_biblecom.tsv')
+        # print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        # print('=====================================')
+        # print("")
+        # print("")
 
 
         print('>>>> Comparison with massively parallel bible corpora ')
