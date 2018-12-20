@@ -130,19 +130,19 @@ if __name__ == '__main__':
         print("")
 
 
-        # print('=====================================')
-        # print('>>>> Start retrieveing parallel bibles from biblecom..')
-        # print('=====================================')
-        # # BibleCom
-        # BCA = BibleComAPl(out_path)
-        # BCA.crawl_bpc(nump=nump, update_meta=update_metadata, override=override, repeat=repeat)
-        # print('=====================================')
-        # print('<<<< ✓ Retrieveing parallel bibles from biblecom is completed..')
-        # print(' Report is generated at '+out_path+'/reports/'+'crawl_report_biblecom.tsv')
-        # print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
-        # print('=====================================')
-        # print("")
-        # print("")
+        print('=====================================')
+        print('>>>> Start retrieveing parallel bibles from biblecom..')
+        print('=====================================')
+        # BibleCom
+        BCA = BibleComAPl(out_path)
+        BCA.crawl_bpc(nump=nump, update_meta=update_metadata, override=override, repeat=repeat)
+        print('=====================================')
+        print('<<<< ✓ Retrieveing parallel bibles from biblecom is completed..')
+        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_biblecom.tsv')
+        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        print('=====================================')
+        print("")
+        print("")
 
 
         print('>>>> Comparison with massively parallel bible corpora ')
@@ -174,13 +174,14 @@ if __name__ == '__main__':
         comp_table.to_excel(writer, 'Comparison with massively parallel corpora')
         writer.save()
         print('In ', comp_table[comp_table['max-verse-1000Langs'] >= comp_table['max-verse-massivepar']].shape[0],
-              ' out iso codes of ', comp_table.shape[0],
-              ' total, 1000Langs crawled larger max verses for the iso code!')
+              ' iso codes out of ', comp_table.shape[0],
+              ' total, 1000Langs crawled more verses for that language!')
         print('In ', comp_table[(comp_table['max-verse-1000Langs'] >= comp_table['max-verse-massivepar']) & (
-                    comp_table['max-verse-massivepar'] > 0)].shape[0], ' out iso codes of ',
+                    comp_table['max-verse-massivepar'] > 0)].shape[0], ' iso codes out of ',
               comp_table[(comp_table['max-verse-1000Langs'] > 0) & (comp_table['max-verse-massivepar'] > 0)].shape[0],
-              ' total intersection, 1000Langs crawled larger max verses for the iso codes!')
+              ' total intersections, 1000Langs crawled more verses in that language!')
 
 
         print('>>>> Comparison with massively parallel bible corpora ')
         print(' See the Venn diagram '+out_path+'/reports/'+'venn.pdf')
+        print(' See the detailed report on the comparison of the crawled corpus with the massively parallel corpus here: ../reports/comparison.xlsx')
