@@ -42,25 +42,22 @@ conda config --add channels conda-forge
 
 The next step would be installation of the dependencies:
 
-### Linux
 ```
-conda create --name Lang1000 --file run_crawler/env_linux.txt
+conda create --name lang1000 --file env_linux.txt
 ```
-
-### MacOS
-```
-conda create --name Lang1000 --file run_crawler/env_macosx.txt
-
-```
-
-### Linux and MacOS
-
 
 Then you need to activate the DiTaxa virtual environment:
 
 ```
-source activate Lang1000
+source activate lang1000
 ```
+
+Install other requirements using pip:
+
+```
+pip install -r requirement.txt
+```
+
 
 
 ## Running the 1000Langs
