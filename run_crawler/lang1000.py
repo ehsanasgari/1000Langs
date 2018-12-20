@@ -13,6 +13,10 @@ import argparse
 import warnings
 import requests
 
+def warn(*args, **kwargs):
+    pass
+import warnings
+warnings.warn = warn
 
 def checkArgs(args):
     '''
