@@ -63,7 +63,7 @@ class BibleComAPl(object):
                 continue_iter=False
             count+=1;
             urliso=new_list
-            print ('Double checking of the missing translations..')
+            print ('Double check for the missing translations..')
             res=BibleComAPl.make_parallel(min(nump,len(urliso)),self.crawl_a_lang,urliso)
         
         self.create_report_biblecom()

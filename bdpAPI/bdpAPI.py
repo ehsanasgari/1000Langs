@@ -98,7 +98,7 @@ class BDPAPl(object):
                     report['language_name'].append(self.id2lang_dict[trID])
                     report['version'].append(self.id2version[trID])
                     report['verses'].append(length)
-            print ('Double checking of the missing translations..')
+            print ('Double check for the missing translations..')
             bible_ids_new = self.ret_bible_books(nump=20,trList = missing_tr_list)
             bible_ids_new = list(bible_ids_new.keys())
             bible_ids_new.sort()

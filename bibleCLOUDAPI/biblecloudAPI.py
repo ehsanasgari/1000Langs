@@ -37,10 +37,10 @@ class BibleCloudAPl(object):
 
     def make_bible_cloud_list(self):
         # get all metadata available
-        print ('Retrieving bible meta data from online resources..')
+        print ('Retrieving the bible metadata from online resources..')
         self.df_meta=getMetaMerged()
         # prepare list of all potential languages
-        print ('Preparing meta data and list of languages on bible cloud')
+        print ('Preparing the metadata and list of languages from biblecloud')
         self.get_all_languages_in_cloud()
         # get a final list of languages with meta data
         self.df_cloud=self.get_bible_cloud_new()
@@ -151,7 +151,7 @@ class BibleCloudAPl(object):
                 continue_iter=False
             triples=new_list
             count+=1;
-            print ('Double checking of the missing translations..')
+            print ('Double check for the missing translations..')
             BibleCloud.parallel_crawl(triples, min(nump,len(triples)), True)
 
         self.create_report_cloud()

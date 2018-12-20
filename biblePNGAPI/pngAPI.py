@@ -98,7 +98,7 @@ class PNGAPl(object):
                 continue_iter=False
             inputs=new_list
             count+=1;
-            print ('Double checking of the missing translations..')
+            print ('Double check for the missing translations..')
             res=PNGAPl.make_parallel(min(nump,len(inputs)),self.download_zipfile, inputs)
 
     @staticmethod
