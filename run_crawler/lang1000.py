@@ -170,7 +170,7 @@ if __name__ == '__main__':
 
         comp_table = df_1000Langs.join(df_massivepar.set_index('language_iso'), on='language_iso')
         comp_table = comp_table.fillna(0)
-        writer = pd.ExcelWriter('../reports/comparison.xlsx')
+        writer = pd.ExcelWriter(out_path+'/reports/comparison.xlsx')
         comp_table.to_excel(writer, 'Comparison with massively parallel corpora')
         writer.save()
         print('In ', comp_table[comp_table['max-verse-1000Langs'] >= comp_table['max-verse-massivepar']].shape[0],
@@ -184,4 +184,4 @@ if __name__ == '__main__':
 
         print('>>>> Comparison with massively parallel bible corpora ')
         print(' See the Venn diagram '+out_path+'/reports/'+'venn.pdf')
-        print(' See the detailed report on the comparison of the crawled corpus with the massively parallel corpus here: ../reports/comparison.xlsx')
+        print(' See the detailed report on the comparison of the crawled corpus with the massively parallel corpus here: '+out_path+'/reports/comparison.xlsx')
