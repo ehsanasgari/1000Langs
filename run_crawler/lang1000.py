@@ -80,22 +80,72 @@ if __name__ == '__main__':
         update_metadata = (override == 1)
         override = (updatemeta == 1)
 
+        print('=====================================')
+        print('>>>> The PBC files are being generated at '+out_path )
+        print('=====================================')
+
+
+        print('=====================================')
+        print('>>>> Start retrieveing parallel bibles from bible digital platform..')
+        print('=====================================')
         # API call
         BDP_obj = BDPAPl(apikey, out_path)
         BDP_obj.create_BPC(nump=nump, update_meta_data=update_metadata, override=override, repeat=repeat)
 
+        print('=====================================')
+        print('<<<< ✓ Retrieveing parallel bibles from bible digital platform is completed..')
+        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_API.tsv')
+        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        print('=====================================')
+        print("")
+        print("")
+
+
+        print('=====================================')
+        print('>>>> Start retrieveing parallel bibles from biblecloud..')
+        print('=====================================')
         # BibleCloud call
         CL = BibleCloudAPl(out_path)
         CL.crawl_bible_cloud(nump=nump, override=override, repeat=repeat)
+        print('=====================================')
+        print('<<<< ✓ Retrieveing parallel bibles from bible cloud is completed..')
+        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_cloud.tsv')
+        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        print('=====================================')
+        print("")
+        print("")
 
+        print('=====================================')
+        print('>>>> Start retrieveing parallel bibles from PNGscripture..')
+        print('=====================================')
         # PNG call
         PNG = PNGAPl(out_path)
         PNG.crawl_bpc(nump=nump, override=override, repeat=repeat)
+        print('=====================================')
+        print('<<<< ✓ Retrieveing parallel bibles from PNGscripture is completed..')
+        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_png.tsv')
+        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        print('=====================================')
+        print("")
+        print("")
 
+
+        print('=====================================')
+        print('>>>> Start retrieveing parallel bibles from biblecom..')
+        print('=====================================')
         # BibleCom
         BCA = BibleComAPl(out_path)
         BCA.crawl_bpc(nump=nump, update_meta=update_metadata, override=override, repeat=repeat)
+        print('=====================================')
+        print('<<<< ✓ Retrieveing parallel bibles from PNGscripture is completed..')
+        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_biblecom.tsv')
+        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        print('=====================================')
+        print("")
+        print("")
 
+
+        print('>>>> Comparison with massively parallel bible corpora ')
         df_massivepar = getMassiveparallel_meta(update=False)
 
         out_path = out_path
@@ -116,7 +166,7 @@ if __name__ == '__main__':
         lange_overlap = {'MassiveParallel': df_massivepar.language_iso.tolist(),
                          '1000Langs': df_1000Langs.index.tolist()}
 
-        l = methods2venn2(lange_overlap, name=out_path + '/reports/venn.png')
+        l = methods2venn2(lange_overlap, name=out_path + '/reports/venn')
 
         comp_table = df_1000Langs.join(df_massivepar.set_index('language_iso'), on='language_iso')
         comp_table = comp_table.fillna(0)
@@ -130,3 +180,7 @@ if __name__ == '__main__':
                     comp_table['max-verse-massivepar'] > 0)].shape[0], ' out iso codes of ',
               comp_table[(comp_table['max-verse-1000Langs'] > 0) & (comp_table['max-verse-massivepar'] > 0)].shape[0],
               ' total intersection, 1000Langs crawled larger max verses for the iso codes!')
+
+
+        print('>>>> Comparison with massively parallel bible corpora ')
+        print(' See the Venn diagram '+out_path+'/reports/'+'venn.pdf')
