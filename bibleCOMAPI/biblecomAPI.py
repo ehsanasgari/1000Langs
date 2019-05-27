@@ -44,8 +44,8 @@ class BibleComAPl(object):
             new_list=[]
             for url, iso in urliso:
                 num=url.split('/')[0:-1][-1]
-                if not FileUtility.exists(self.output_path+'/'+iso+'_'+num+'.biblecom.txt'):
-                    new_list.append([url,iso])
+                #if not FileUtility.exists(self.output_path+'/'+iso+'_'+num+'.biblecom.txt'):
+                new_list.append([url,iso])
             urliso=new_list
         res=BibleComAPl.make_parallel(min(nump,len(urliso)),self.crawl_a_lang,urliso)
         
@@ -57,8 +57,8 @@ class BibleComAPl(object):
             new_list=[]
             for url, iso in urliso:
                 num=url.split('/')[0:-1][-1]
-                if not FileUtility.exists(self.output_path+'/'+iso+'_'+num+'.biblecom.txt'):
-                    new_list.append([url,iso])
+                #if not FileUtility.exists(self.output_path+'/'+iso+'_'+num+'.biblecom.txt'):
+                new_list.append([url,iso])
             if len(new_list)==len(urliso):
                 continue_iter=False
             count+=1;

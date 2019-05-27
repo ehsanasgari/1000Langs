@@ -167,9 +167,7 @@ class BibleCom(BibleCrawler,BibleParser):
         if len(result)>0:
             f = codecs.open(outputfile, 'w', 'utf-8')
             for i, v in result:
-                print (i)
-                print (v)
-                i = i.replace('_','')
+                    i = i.replace('_','')
                 if len(re.findall(r'\d\d\d\d\d\d\d\d',i))>0:
                     f.write('%s\t%s\n' % (re.findall(r'\d\d\d\d\d\d\d\d',i)[0], ' '.join(w for w in v.split(' ') if w)))
             f.close()
