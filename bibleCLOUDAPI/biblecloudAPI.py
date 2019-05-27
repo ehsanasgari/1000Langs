@@ -58,6 +58,7 @@ class BibleCloudAPl(object):
             if 'class' in link.attrs:
                 if len(link.contents)==1:
                     if 'href' in link.attrs:
+                        print (link)
                         self.mapping[link.attrs['href'].split('/')[0]]=('https://bible.cloud/inscript/content/texts/'+link.attrs['href'].replace('index.html','MT1.html'),link.contents[0].replace(' ','-'))
 
     def get_bible_cloud_new(self, nump=20):
