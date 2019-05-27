@@ -39,14 +39,24 @@ def getMetaFindBible():
     return df
 
 def getMetaEbible():
-    base_url = 'http://ebible.org/Scriptures/copyright.php'
-    soup = BeautifulSoup(requests.get(base_url).content)
-    tables=soup.select('table')
-    dfs=[]
-    for table in tables:
-        dfs.append(pd.read_html(table.prettify(), flavor='bs4',header=0)[0])
-    df=pd.concat(dfs, sort=True)
-    mask=(df['FCBH/DBS'].str.len() == 6) & (df['FCBH/DBS'].str.isupper())
+    try:
+        base_url = 'http://ebible.org/Scriptures/copyright.php'
+        soup = BeautifulSoup(requests.get(base_url).content)
+        tables=soup.select('table')
+        dfs=[]
+        for table in tables:
+            dfs.append(pd.read_html(table.prettify(), flavor='bs4',header=0)[0])
+        df=pd.concat(dfs, sort=True)
+        mask=(df['FCBH/DBS'].str.len() == 6) & (df['FCBH/DBS'].str.isupper())
+    except:
+        soup = BeautifulSoup(open("../meta/ebible.html") )
+        tables=soup.select('table')
+        dfs=[]
+        for table in tables:
+            dfs.append(pd.read_html(table.prettify(), flavor='bs4',header=0)[0])
+        df=pd.concat(dfs, sort=True)
+        mask=(df['FCBH/DBS'].str.len() == 6) & (df['FCBH/DBS'].str.isupper())
+
     df = df.loc[mask]
     df['iso']=[x[0:3] for x in df['ID'].tolist()]
     df=df[['iso','FCBH/DBS','Language in English', 'Year','Short Title']]
