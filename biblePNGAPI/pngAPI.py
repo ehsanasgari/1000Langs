@@ -117,7 +117,7 @@ class PNGAPl(object):
         for png_file in png_files:
             iso,code=png_file.split('/')[-1].split('.')[0:-1][0:-1][-1].split('_')
             length=len(FileUtility.load_list(png_file))
-            lang_name=self.lang_dict[iso]
+            lang_name=[self.lang_dict[iso] if iso in self.lang_dict else 'ISO: '+iso]
             self.df_png = self.df_png.append({'language_iso':iso, 'trans_ID':code,'language_name':lang_name,'verses':length}, ignore_index=True)
         self.df_png.set_index('trans_ID')
         self.df_png.to_csv(self.output_path + '/reports/crawl_report_png.tsv', sep='\t', index=False, columns=['language_iso','trans_ID','language_name','verses'])
