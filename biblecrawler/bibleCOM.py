@@ -32,7 +32,7 @@ from utility.interface_util import query_yes_no
 class BibleCom(BibleCrawler,BibleParser):
     log=[]
 
-    def __init__(self, triple, crawl=True, parse=True, remove_after_parse=False, printing=False):
+    def __init__(self, triple, crawl=False, parse=True, remove_after_parse=False, printing=False):
         '''
         :param url:
         :param destination_directory:

@@ -85,49 +85,49 @@ if __name__ == '__main__':
         print('=====================================')
 
 
-        print('=====================================')
-        print('>>>> Start retrieveing parallel bibles from the bible digital platform..')
-        print('=====================================')
-        # API call
-        BDP_obj = BDPAPl(apikey, out_path)
-        BDP_obj.create_BPC(nump=nump, update_meta_data=update_metadata, override=override, repeat=repeat)
-
-        print('=====================================')
-        print('<<<< ✓ Retrieveing parallel bibles from bible digital platform is completed..')
-        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_API.tsv')
-        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
-        print('=====================================')
-        print("")
-        print("")
-
-
-        print('=====================================')
-        print('>>>> Start retrieveing parallel bibles from biblecloud..')
-        print('=====================================')
-        # BibleCloud call
-        CL = BibleCloudAPl(out_path)
-        CL.crawl_bible_cloud(nump=nump, override=override, repeat=repeat)
-        print('=====================================')
-        print('<<<< ✓ Retrieveing parallel bibles from bible cloud is completed..')
-        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_cloud.tsv')
-        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
-        print('=====================================')
-        print("")
-        print("")
-
-        print('=====================================')
-        print('>>>> Start retrieveing parallel bibles from PNGscripture..')
-        print('=====================================')
-        # PNG call
-        PNG = PNGAPl(out_path)
-        PNG.crawl_bpc(nump=nump, override=override, repeat=repeat)
-        print('=====================================')
-        print('<<<< ✓ Retrieveing parallel bibles from PNGscripture is completed..')
-        print(' Report is generated at '+out_path+'/reports/'+'crawl_report_png.tsv')
-        print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
-        print('=====================================')
-        print("")
-        print("")
+        # print('=====================================')
+        # print('>>>> Start retrieveing parallel bibles from the bible digital platform..')
+        # print('=====================================')
+        # # API call
+        # BDP_obj = BDPAPl(apikey, out_path)
+        # BDP_obj.create_BPC(nump=nump, update_meta_data=update_metadata, override=override, repeat=repeat)
+        #
+        # print('=====================================')
+        # print('<<<< ✓ Retrieveing parallel bibles from bible digital platform is completed..')
+        # print(' Report is generated at '+out_path+'/reports/'+'crawl_report_API.tsv')
+        # print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        # print('=====================================')
+        # print("")
+        # print("")
+        #
+        #
+        # print('=====================================')
+        # print('>>>> Start retrieveing parallel bibles from biblecloud..')
+        # print('=====================================')
+        # # BibleCloud call
+        # CL = BibleCloudAPl(out_path)
+        # CL.crawl_bible_cloud(nump=nump, override=override, repeat=repeat)
+        # print('=====================================')
+        # print('<<<< ✓ Retrieveing parallel bibles from bible cloud is completed..')
+        # print(' Report is generated at '+out_path+'/reports/'+'crawl_report_cloud.tsv')
+        # print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        # print('=====================================')
+        # print("")
+        # print("")
+        #
+        # print('=====================================')
+        # print('>>>> Start retrieveing parallel bibles from PNGscripture..')
+        # print('=====================================')
+        # # PNG call
+        # PNG = PNGAPl(out_path)
+        # PNG.crawl_bpc(nump=nump, override=override, repeat=repeat)
+        # print('=====================================')
+        # print('<<<< ✓ Retrieveing parallel bibles from PNGscripture is completed..')
+        # print(' Report is generated at '+out_path+'/reports/'+'crawl_report_png.tsv')
+        # print(' Aggregated report '+out_path+'/reports/'+'final_rep.tsv')
+        # print('=====================================')
+        # print("")
+        # print("")
 
 
         print('=====================================')
